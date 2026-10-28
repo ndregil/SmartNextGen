@@ -1,0 +1,29 @@
+{
+  "err_api_key": "WEATHER_API_KEY is not set in the config file.",
+  "err_room_only": "This command can only be used inside a room.",
+  "err_empty_default": "Default weather is empty, type `weather <city name>`",
+  "default_desc": "Cloudy",
+  
+  "advice_rain": "  💡 *Tips: It's raining, don't forget to bring an umbrella or raincoat!*",
+  "advice_hot": "  💡 *Tips: Very hot and sunny, drink plenty of water to avoid dehydration.*",
+  "advice_cold": "  💡 *Tips: The weather is quite cold, wear a jacket if you go outside.*",
+
+  "forecast_snippet": "  🕒 *Forecast at {fc_time}:* {fc_desc} ({fc_temp}°C)",
+  
+  "weather_format": "• **{location_label}**\n  🌤️ Condition: *{desc}*\n  🌡️ Temp: *{temp}°C* (Feels like *{feels_like}°C*)\n  💧 Humidity: *{humidity}%* | 🧭 Pressure: *{pressure} hPa*\n  👀 Visibility: *{visibility} km* | 💨 Wind: *{wind_speed} m/s*\n  🌅 Sunrise: *{sunrise_str}* | 🌇 Sunset: *{sunset_str}*",
+  
+  "err_404": "Location not found. Make sure the city/district spelling is correct.",
+  "err_srv": "Failed to fetch data from weather server (Status: {status}).",
+  "err_conn": "Connection error to the weather server.",
+
+  "broadcast_header": "🕒 **Periodic Weather Report (OpenWeather):**",
+  "weather_header": "🌤️ **Current Weather Information & Forecast:**",
+
+  "add_success": "Successfully added region `{new_city}` to this room's monitoring list.",
+  "add_format_err": "Invalid format. Use: `addweather <city/area>`",
+
+  "del_success": "Successfully removed region `{target_city}` from the monitoring list.",
+  "del_format_err": "Invalid format. Use: `delweather <region_name>`",
+
+  "list_header": "🌍 **Weather Monitoring Regions List in This Room:**\n- "
+}

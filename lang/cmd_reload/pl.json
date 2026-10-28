@@ -1,0 +1,18 @@
+{
+  "owner_only": "Odmowa dostępu: to polecenie jest tylko dla właściciela bota.",
+  "usage": "Użycie: reload <wtyczka> | reload all | reload list  (przykład: reload rss)",
+  "not_found": "Nie znaleziono wtyczki „{name}” w folderze plugins.",
+  "unsafe": "Wtyczki „{name}” nie można przeładować bez restartu (opakowuje funkcje rdzenia). Użyj: restart all",
+  "syntax_error": "Błąd: błąd składni w {name}: {err}. Stara wtyczka nadal działa.",
+  "load_error": "Nie udało się załadować {name}: {err}. Stara wtyczka nadal działa.",
+  "no_handlers": "Błąd: ta wersja slixmpp nie udostępnia listy handlerów. Użyj: restart all",
+  "ok": "Pomyślnie przeładowano {name} ({bots} kont, {cmds} poleceń, zatrzymano {tasks} zadań w tle).",
+  "ok_new": "Pomyślnie załadowano nową wtyczkę {name} ({bots} kont, {cmds} poleceń).",
+  "partial": "Częściowy błąd w {name}: {ok}/{total} kont zakończonych sukcesem. Błąd: {err}. Popraw i uruchom reload ponownie.",
+  "list_title": "Wtyczki ({count}):",
+  "state_loaded": "załadowana",
+  "state_new": "niezaładowana",
+  "state_restart": "wymaga restartu",
+  "all_summary": "Gotowe: {ok} wtyczek pomyślnie, {fail} z problemami.{detail}",
+  "busy": "Przeładowanie już trwa, poczekaj."
+}

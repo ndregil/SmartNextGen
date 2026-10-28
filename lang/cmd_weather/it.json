@@ -1,0 +1,21 @@
+{
+  "err_api_key": "WEATHER_API_KEY non è impostata nel file di configurazione.",
+  "err_room_only": "Questo comando può essere usato solo all'interno di una stanza.",
+  "err_empty_default": "La città predefinita è vuota, digita `weather <nome_città>`",
+  "default_desc": "Nuvoloso",
+  "advice_rain": "  💡 *Suggerimento: Sta piovendo, non dimenticare di portare un ombrello o un impermeabile!*",
+  "advice_hot": "  💡 *Suggerimento: Molto caldo e soleggiato, bevi molta acqua per evitare la disidratazione.*",
+  "advice_cold": "  💡 *Suggerimento: Il tempo è piuttosto freddo, indossa una giacca se esci.*",
+  "forecast_snippet": "  🕒 *Previsioni alle {fc_time}:* {fc_desc} ({fc_temp}°C)",
+  "weather_format": "• **{location_label}**\n  🌤️ Condizione: *{desc}*\n  🌡️ Temp: *{temp}°C* (Percepita *{feels_like}°C*)\n  💧 Umidità: *{humidity}%* | 🧭 Pressione: *{pressure} hPa*\n  👀 Visibilità: *{visibility} km* | 💨 Vento: *{wind_speed} m/s*\n  🌅 Alba: *{sunrise_str}* | 🌇 Tramonto: *{sunset_str}*",
+  "err_404": "Località non trovata. Assicurati che l'ortografia della città/distretto sia corretta.",
+  "err_srv": "Impossibile recuperare i dati dal server meteo (Stato: {status}).",
+  "err_conn": "Errore di connessione al server meteo.",
+  "broadcast_header": "🕒 **Bollettino meteo periodico (OpenWeather):**",
+  "weather_header": "🌤️ **Informazioni meteo attuali e previsioni:**",
+  "add_success": "Regione `{new_city}` aggiunta con successo all'elenco di monitoraggio di questa stanza.",
+  "add_format_err": "Formato errato. Usa: `addweather <città/zona>`",
+  "del_success": "Regione `{target_city}` rimossa con successo dall'elenco di monitoraggio.",
+  "del_format_err": "Formato errato. Usa: `delweather <nome_regione>`",
+  "list_header": "🌍 **Elenco regioni monitorate per il meteo in questa stanza:**\n- "
+}

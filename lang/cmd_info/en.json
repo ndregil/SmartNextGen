@@ -1,0 +1,28 @@
+{
+  "quake_loading": "⏳ Fetching latest earthquake data...",
+  "quake_usgs_fail": "❌ Failed to fetch earthquake data from USGS server.",
+  "quake_usgs_empty": "🌍 No significant global earthquake reports at the moment.",
+  "quake_usgs_unknown": "Unknown",
+  "quake_usgs_result": "🌍 **Latest Global Earthquake Info (USGS)**:\n• Magnitude: {mag}\n• Location: {place}\n• Time: {time_str} UTC",
+  
+  "quake_bmkg_fail": "❌ Failed to fetch earthquake data from BMKG server.",
+  "quake_bmkg_empty": "❌ Invalid BMKG earthquake data format.",
+  "quake_bmkg_no_info": "No information",
+  "quake_bmkg_result": "🇮🇩 **Latest Earthquake Info (BMKG Indonesia)**:\n• Time: {tanggal} | {jam}\n• Magnitude: {magnitude} (Depth: {kedalaman})\n• Center: {wilayah}\n• Coordinates: {coordinates}\n• Potential: {potensi}\n• Felt: {dirasakan}\n\n💡 *Tip:* Type `earthquake global` or `gempa global` for world data.",
+  
+  "quake_timeout": "❌ Connection to earthquake data server timed out.",
+  "quake_error": "❌ An error occurred while fetching earthquake data: {e}",
+
+  "holiday_sat": "🎉 Today is **Saturday** (Weekend!)",
+  "holiday_sun": "🎉 Today is **Sunday** (Weekend holiday!)",
+  "holiday_fri": "⚡ Tomorrow is already the **Weekend (Saturday)**!",
+  "holiday_approaching": "⏳ Approaching the weekend (Saturday) in about **{days_to_sat} days**.",
+  
+  "holiday_none": "No upcoming national holiday data yet.",
+  "holiday_info_format": "• Agenda: {name} ({date})\n• Status: ⏳ Remaining **{days} days left**",
+  "holiday_header": "📅 **Holiday & Weekend Information**:\n\n🗓️ **Weekend Status:**\n{weekend_status}\n\n🏛️ **Nearest National Holiday:**\n{holiday_info}",
+
+  "broadcast_quake_alert": "🚨 **NEW EARTHQUAKE WARNING (BMKG)** 🚨\n• Time: {tanggal} | {jam}\n• Magnitude: {magnitude} (Depth: {kedalaman})\n• Center: {wilayah}\n• Coordinates: {coordinates}\n• Potential: {potensi}",
+  "broadcast_sunday": "🌴 **Good Morning Sunday!** 🌴\nEnjoy your weekend holiday peacefully, relaxingly, and with full happiness with your beloved family before resuming activities tomorrow.",
+  "broadcast_national_holiday": "🏛️🎉 **HAPPY NATIONAL HOLIDAY!** 🎉🏛️\nToday coincides with:\n• **{name}**\n\nHave a wonderful holiday and a great day!"
+}

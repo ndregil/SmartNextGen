@@ -1,0 +1,10 @@
+{
+  "wrong_format": "Format salah. Gunakake: www <url> (Conto: www google.com)",
+  "accessing": "🔍 Ngakses {url}...",
+  "no_content": "(Kaca kasil diakses, nanging ora ana isi teks sing ditemokake.)",
+  "truncated_notice": "\n\n[✂️ Teks disigar amarga kedawan]",
+  "output_title": "🌐 **Web Reader ({url}):**\n\n{text}",
+  "err_timeout": "Gagal ngemot web: Wektu entek (timeout) nalika ngakses {url}.",
+  "err_http": "Gagal ngemot web: Server mbales kanthi kasalahan {err}.",
+  "err_general": "Gagal ngakses kaca web: {error}"
+}

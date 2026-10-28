@@ -1,0 +1,40 @@
+{
+  "guide_text": "📚 **دليل استخدام وحدة الدراسة:**\nالفئات المتاحة: {cat_list}\n• المواد الأساسية: `study [category]`\n• سؤل وجواب مع الذكاء الاصطناعي: `study [category] [your question]`",
+  "err_category": "❌ الفئة '{category}' غير موجودة!\nالفئات المتاحة: {cat_list}",
+  "materi_header": "📖 **المادة الأساسية [{category}]:**\n",
+  "materi_tip": "\n\n💡 تلميح: هل تريد أن تسأل بشكل أعمق؟ اكتب: `study {category} [your question]`",
+  "loading_text": "🔍 جاري تحليل السؤال حول **{category}**، يرجى الانتظار...",
+  "ai_prompt": "Please act as an expert tutor/teacher in the field of {category}. Answer the following in-depth question clearly, educationally, provide code examples if relevant, and use clear, easy-to-understand English:\n\nQuestion: {question}",
+  "ai_reply_header": "🧠 **الشرح ({category}):**\n\n{ai_response}",
+  "err_ai": "❌ عذراً، وحدة الذكاء الاصطناعي غير متصلة بشكل صحيح بالبوت الرئيسي.",
+  "study_python": [
+    "1. مقدمة: بايثون لغة برمجة مفسَّرة عالية المستوى وسهلة القراءة والتعلم.",
+    "2. المتغيرات وأنواع البيانات: تُخزَّن القيم في متغيرات (مثال: x = 10, name = 'Ali'). الأنواع الشائعة: int, float, str, bool.",
+    "3. التفرع: استخدم if وelif وelse لاتخاذ القرارات المنطقية في الكود."
+  ],
+  "study_kotlin": [
+    "1. مقدمة: كوتلن لغة برمجة حديثة تعمل على JVM وهي لغة رسمية لتطوير أندرويد.",
+    "2. المتغيرات: استخدم 'val' للثوابت (غير قابلة للتغيير) و'var' للمتغيرات القابلة للتغيير.",
+    "3. الدوال: تُعرَّف بالكلمة المفتاحية 'fun'، مثال: fun main() { println('Hello Kotlin') }"
+  ],
+  "study_java": [
+    "1. مقدمة: جافا لغة برمجة كائنية التوجه (OOP) تتميز بمبدأ 'Write Once, Run Anywhere'.",
+    "2. البنية الأساسية: يتطلب كل برنامج جافا صنفًا (class) ودالة رئيسية public static void main(String[] args).",
+    "3. أنواع البيانات: الأنواع الأولية مثل int وdouble وchar وboolean."
+  ],
+  "study_matematika": [
+    "1. الجبر الأساسي: حل المعادلات الخطية بمتغير واحد، مثال: 2x + 5 = 15 إذن x = 5.",
+    "2. الهندسة: مساحة الدائرة A = pi * r^2 ومحيطها C = 2 * pi * r.",
+    "3. الكسور: عمليات الجمع والطرح والضرب والقسمة على الكسور."
+  ],
+  "study_sains": [
+    "1. المجموعة الشمسية: الشمس هي مركز المجموعة الشمسية. أقرب كوكب هو عطارد وأكبرها المشتري.",
+    "2. البناء الضوئي: عملية تحوّل فيها النباتات الخضراء الماء وثاني أكسيد الكربون وضوء الشمس إلى أكسجين وجلوكوز.",
+    "3. حالات المادة: الحالات الرئيسية الثلاث هي الصلبة والسائلة والغازية مع التحولات بينها."
+  ],
+  "study_inggris": [
+    "1. Greeting & Introduction: عبارات التحية مثل 'Good morning' و'How are you?' وكيفية التعريف بنفسك.",
+    "2. Simple Present Tense: يُستخدم للعادات والحقائق العامة (مثال: 'I go to school every day').",
+    "3. Pronouns: ضمائر الأشخاص I, You, They, We, He, She, It وضمائر الملكية (my, your, their، إلخ)."
+  ]
+}

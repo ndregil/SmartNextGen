@@ -1,0 +1,21 @@
+{
+  "usage_word": "Użycie:",
+  "room_only": "Użyj tego polecenia w pokoju.",
+  "ago": "{dur} temu",
+  "just_now": "przed chwilą",
+  "dur_d": "{n} d",
+  "dur_h": "{n} godz.",
+  "dur_m": "{n} min",
+  "dur_s": "{n} s",
+  "self": "To przecież ty 😄",
+  "bot": "Przecież tu jestem 😄",
+  "online": "👀 {target} jest teraz online w tym pokoju.",
+  "result": "👀 {target} ostatnio widziano {ago} ({date}): {action}.",
+  "act_msg": "wysłał(a) wiadomość",
+  "act_join": "wszedł(-ęła) do pokoju",
+  "act_leave": "wyszedł(-ęła) z pokoju",
+  "act_rename": "zmienił(a) nick na {new}",
+  "last_msg": "💬 Ostatnia wiadomość ({ago}): {msg}",
+  "not_found": "Nigdy nie widziałem {target} w tym pokoju.",
+  "maybe": "Czy chodziło o: {names}"
+}

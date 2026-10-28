@@ -1,0 +1,22 @@
+{
+  "cat_owner": "👑 Właściciel Bota",
+  "cat_admin": "💎 Administrator i Właściciel Grupy",
+  "ai_off_room_only": "Ta komenda może być używana tylko wewnątrz pokoju.",
+  "ai_off_success": "Odpowiedzi AI w tym pokoju zostały wyłączone.",
+  "ai_on_success": "Odpowiedzi AI w tym pokoju zostały włączone ponownie.",
+  "ai_off_global_success": "Odpowiedzi AI zostały globalnie wyłączone.",
+  "ai_on_global_success": "Odpowiedzi AI zostały globalnie włączone ponownie.",
+  "aiprovider_success": "Główny dostawca zmieniony na: {provider}\nEndpoint: {endpoint}\nAktywny model: {model}",
+  "aiprovider_invalid": "Nieprawidłowy dostawca! Do wyboru:\n- {providers}",
+  "aiprovider_info": "Aktywny dostawca: {provider}\nEndpoint HTTP: {endpoint}\nAktualny model: {model}\n\nDostępni dostawcy:\n- {providers}",
+  "aimodel_success": "Model AI [{provider}] zmieniony na: {model}",
+  "aimodel_invalid": "Nieprawidłowy model dla dostawcy {provider}! Do wyboru:\n- {models}",
+  "aimodel_info": "Aktywny dostawca: {provider} ({endpoint})\nAktualny główny model: {model}\n\nLista modeli:\n- {models}",
+  "all_ai_fail": "Przepraszamy, wszyscy dostawcy AI mają obecnie problemy (Błąd: {error}).",
+  "image_refused": "Przepraszam, nie mogę przetworzyć tego obrazu.",
+  "ai_confirm_prompt": "📋 Wykonać: {cmds}? Odpowiedz, aby potwierdzić lub anulować ({sec} s).",
+  "ai_confirm_cancel": "Dobrze, anulowano.",
+  "ai_ambiguous_nick": "Kilka nazw przypomina „{name}”: {options}. Którą masz na myśli?",
+  "ai_need_room": "Który pokój? Podaj JID pokoju (przykład: nazwa@conference.serwer.com).",
+  "ai_not_understood": "Hmm, nie do końca zrozumiałem. Możesz powiedzieć inaczej?"
+}

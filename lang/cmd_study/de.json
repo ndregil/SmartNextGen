@@ -1,0 +1,40 @@
+{
+  "guide_text": "📚 **Anleitung zur Nutzung des Lernmoduls:**\nVerfügbare Kategorien: {cat_list}\n• Grundlegendes Material: `study [kategorie]`\n• Fragerunde mit KI: `study [kategorie] [deine frage]`",
+  "err_category": "❌ Kategorie '{category}' nicht gefunden!\nVerfügbare Kategorien: {cat_list}",
+  "materi_header": "📖 **Grundlegendes Material [{category}]:**\n",
+  "materi_tip": "\n\n💡 Tipp: Möchtest du tiefer nachfragen? Tippe: `study {category} [deine frage]`",
+  "loading_text": "🔍 Analysiere die Frage zu **{category}**, bitte warten...",
+  "ai_prompt": "Please act as an expert tutor/teacher in the field of {category}. Answer the following in-depth question clearly, educationally, provide code examples if relevant, and use clear, easy-to-understand English:\n\nQuestion: {question}",
+  "ai_reply_header": "🧠 **Erklärung ({category}):**\n\n{ai_response}",
+  "err_ai": "❌ Entschuldigung, das KI-Modul ist nicht korrekt in den Haupt-Bot integriert.",
+  "study_python": [
+    "1. Einführung: Python ist eine höhere, interpretierte Programmiersprache, die leicht zu lesen und zu lernen ist.",
+    "2. Variablen & Datentypen: Werte werden in Variablen gespeichert (z. B. x = 10, name = 'Max'). Gängige Typen: int, float, str, bool.",
+    "3. Verzweigung: Mit if, elif und else werden logische Entscheidungen im Programmcode getroffen."
+  ],
+  "study_kotlin": [
+    "1. Einführung: Kotlin ist eine moderne Programmiersprache, die auf der JVM läuft und offiziell für Android unterstützt wird.",
+    "2. Variablen: 'val' für Konstanten (unveränderlich) und 'var' für veränderbare Variablen.",
+    "3. Funktionen: Werden mit dem Schlüsselwort 'fun' definiert, z. B. fun main() { println('Hallo Kotlin') }"
+  ],
+  "study_java": [
+    "1. Einführung: Java ist eine objektorientierte Programmiersprache (OOP) nach dem Prinzip 'Write Once, Run Anywhere'.",
+    "2. Grundstruktur: Jedes Java-Programm braucht eine Klasse und die Hauptmethode public static void main(String[] args).",
+    "3. Datentypen: Primitive Datentypen wie int, double, char und boolean."
+  ],
+  "study_matematika": [
+    "1. Grundlagen der Algebra: Lineare Gleichungen mit einer Variablen lösen, z. B. 2x + 5 = 15, also x = 5.",
+    "2. Geometrie: Die Kreisfläche ist A = pi * r^2, der Umfang U = 2 * pi * r.",
+    "3. Brüche: Grundrechenarten mit Brüchen: Addition, Subtraktion, Multiplikation und Division."
+  ],
+  "study_sains": [
+    "1. Sonnensystem: Die Sonne ist das Zentrum des Sonnensystems. Der nächste Planet ist Merkur, der größte ist Jupiter.",
+    "2. Photosynthese: Grüne Pflanzen wandeln Wasser, Kohlendioxid und Sonnenlicht in Sauerstoff und Glukose um.",
+    "3. Aggregatzustände: Die drei Hauptzustände sind fest, flüssig und gasförmig, samt Übergängen zwischen ihnen."
+  ],
+  "study_inggris": [
+    "1. Greeting & Introduction: Begrüßungen wie 'Good morning', 'How are you?' und wie man sich vorstellt.",
+    "2. Simple Present Tense: Wird für Gewohnheiten und allgemeine Fakten verwendet (Beispiel: 'I go to school every day').",
+    "3. Pronouns: Personalpronomen wie I, You, They, We, He, She, It und Possessivpronomen (my, your, their usw.)."
+  ]
+}

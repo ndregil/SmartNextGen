@@ -1,0 +1,22 @@
+{
+  "cat_owner": "👑 Proprietário do Bot",
+  "cat_admin": "💎 Administrador e Proprietário do Grupo",
+  "ai_off_room_only": "Este comando só pode ser usado dentro de uma sala.",
+  "ai_off_success": "A resposta da IA nesta sala foi desativada.",
+  "ai_on_success": "A resposta da IA nesta sala foi reativada.",
+  "ai_off_global_success": "A resposta da IA foi desativada globalmente.",
+  "ai_on_global_success": "A resposta da IA foi reativada globalmente.",
+  "aiprovider_success": "Provedor principal alterado para: {provider}\nEndpoint: {endpoint}\nModelo ativo: {model}",
+  "aiprovider_invalid": "Provedor inválido! Escolhas:\n- {providers}",
+  "aiprovider_info": "Provedor ativo: {provider}\nEndpoint HTTP: {endpoint}\nModelo atual: {model}\n\nEscolhas de provedores:\n- {providers}",
+  "aimodel_success": "Modelo de IA [{provider}] alterado para: {model}",
+  "aimodel_invalid": "Modelo inválido para o provedor {provider}! Escolhas:\n- {models}",
+  "aimodel_info": "Provedor ativo: {provider} ({endpoint})\nModelo principal atual: {model}\n\nLista de modelos:\n- {models}",
+  "all_ai_fail": "Desculpe, todos os provedores de IA estão enfrentando problemas no momento (Erro: {error}).",
+  "image_refused": "Desculpe, não consigo processar essa imagem.",
+  "ai_confirm_prompt": "📋 Executar: {cmds}? Responda para confirmar ou cancelar ({sec} s).",
+  "ai_confirm_cancel": "Ok, cancelado.",
+  "ai_ambiguous_nick": "Vários nomes parecem com \"{name}\": {options}. Qual deles?",
+  "ai_need_room": "Qual sala? Informe o JID da sala (exemplo: nome@conference.servidor.com).",
+  "ai_not_understood": "Hmm, não entendi direito. Pode reformular?"
+}

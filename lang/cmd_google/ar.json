@@ -1,0 +1,17 @@
+{
+  "tr_format_error": "تنسيق خاطئ. استخدم: tr <رمز_اللغة> <النص> (مثال: tr id good morning)",
+  "tr_success": "🌐 **الترجمة (➔ {target_lang}):**\n\"{translated_text}\"",
+  "tr_failed_text": "فشل في الحصول على نتيجة الترجمة.",
+  "tr_failed_conn": "فشل الاتصال بخدمة الترجمة (الحالة: {status}).",
+  "tr_error": "حدث خطأ أثناء معالجة الترجمة.",
+  
+  "google_format_error": "تنسيق خاطئ. استخدم: google <كلمة_البحث>",
+  "google_result_msg": "🔍 **بحث جوجل:**\nنتائج البحث عن: *{query}*\n\n📌 **[{title}]({link})**\n📝 *{snippet}*\n\n🔗 عرض الكل على جوجل: {google_url}",
+  "google_no_snippet_msg": "🔍 **بحث جوجل:**\nنتائج البحث عن: *{query}*\n🔗 فتح جوجل: {google_url}",
+
+  "maps_format_error": "تنسيق خاطئ. استخدم: maps <اسم_المكان>",
+  "maps_msg": "🗺️ **خرائط جوجل:**\nالموقع لـ: *{place}*\n🔗 فتح الخريطة: {maps_url}",
+
+  "yt_format_error": "تنسيق خاطئ. استخدم: youtube <عنوان_الفيديو>",
+  "yt_msg": "📺 **بحث يوتيوب:**\nنتائج البحث عن: *{query}*\n🔗 انقر للمشاهدة: {yt_search_url}"
+}

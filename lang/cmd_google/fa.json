@@ -1,0 +1,14 @@
+{
+  "tr_format_error": "فرمت اشتباه است. استفاده: tr <کد_زبان> <متن> (مثال: tr id good morning)",
+  "tr_success": "🌐 **ترجمه (➔ {target_lang}):**\n\"{translated_text}\"",
+  "tr_failed_text": "دریافت نتیجه ترجمه انجام نشد.",
+  "tr_failed_conn": "اتصال به سرویس ترجمه انجام نشد (وضعیت: {status}).",
+  "tr_error": "خطایی هنگام پردازش ترجمه رخ داد.",
+  "google_format_error": "فرمت اشتباه است. استفاده: google <کلمه_کلیدی>",
+  "google_result_msg": "🔍 **جستجوی گوگل:**\nنتایج جستجو برای: *{query}*\n\n📌 **[{title}]({link})**\n📝 *{snippet}*\n\n🔗 مشاهده همه در گوگل: {google_url}",
+  "google_no_snippet_msg": "🔍 **جستجوی گوگل:**\nنتایج جستجو برای: *{query}*\n🔗 باز کردن گوگل: {google_url}",
+  "maps_format_error": "فرمت اشتباه است. استفاده: maps <نام_مکان>",
+  "maps_msg": "🗺️ **نقشه گوگل:**\nموقعیت مکانی برای: *{place}*\n🔗 باز کردن نقشه: {maps_url}",
+  "yt_format_error": "فرمت اشتباه است. استفاده: youtube <عنوان_ویدیو>",
+  "yt_msg": "📺 **جستجوی یوتیوب:**\nنتایج جستجو برای: *{query}*\n🔗 کلیک برای تماشا: {yt_search_url}"
+}

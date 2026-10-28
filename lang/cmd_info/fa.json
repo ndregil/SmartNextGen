@@ -1,0 +1,23 @@
+{
+  "quake_loading": "⏳ در حال دریافت آخرین داده‌های زلزله...",
+  "quake_usgs_fail": "❌ دریافت داده‌های زلزله از سرور USGS انجام نشد.",
+  "quake_usgs_empty": "🌍 در حال حاضر هیچ گزارش مهمی از زلزله جهانی وجود ندارد.",
+  "quake_usgs_unknown": "ناشناس",
+  "quake_usgs_result": "🌍 **آخرین اطلاعات زلزله جهانی (USGS)**:\n• بزرگی: {mag}\n• مکان: {place}\n• زمان: {time_str} UTC",
+  "quake_bmkg_fail": "❌ دریافت داده‌های زلزله از سرور BMKG انجام نشد.",
+  "quake_bmkg_empty": "❌ فرمت داده‌های زلزله BMKG نامعتبر است.",
+  "quake_bmkg_no_info": "بدون اطلاعات",
+  "quake_bmkg_result": "🇮🇩 **آخرین اطلاعات زلزله (BMKG اندونزی)**:\n• زمان: {tanggal} | {jam}\n• بزرگی: {magnitude} (عمق: {kedalaman})\n• مرکز: {wilayah}\n• مختصات: {coordinates}\n• پتانسیل: {potensi}\n• احساس شده: {dirasakan}\n\n💡 *نکته:* برای داده‌های جهانی `earthquake global` یا `gempa global` را تایپ کنید.",
+  "quake_timeout": "❌ زمان اتصال به سرور داده‌های زلزله به پایان رسید.",
+  "quake_error": "❌ خطایی هنگام دریافت داده‌های زلزله رخ داد: {e}",
+  "holiday_sat": "🎉 امروز **شنبه** است (آخر هفته!)",
+  "holiday_sun": "🎉 امروز **یکشنبه** است (تعطیلی آخر هفته!)",
+  "holiday_fri": "⚡ فردا از همین حالا **آخر هفته (شنبه)** است!",
+  "holiday_approaching": "⏳ حدود **{days_to_sat} روز** دیگر به آخر هفته (شنبه) نزدیک می‌شویم.",
+  "holiday_none": "هنوز داده‌ای برای تعطیلات رسمی آینده وجود ندارد.",
+  "holiday_info_format": "• رویداد: {name} ({date})\n• وضعیت: ⏳ **{days} روز** باقی مانده است",
+  "holiday_header": "📅 **اطلاعات تعطیلات و آخر هفته**:\n\n🗓️ **وضعیت آخر هفته:**\n{weekend_status}\n\n🏛️ **نزدیکترین تعطیلی رسمی:**\n{holiday_info}",
+  "broadcast_quake_alert": "🚨 **هشدار زلزله جدید (BMKG)** 🚨\n• زمان: {tanggal} | {jam}\n• بزرگی: {magnitude} (عمق: {kedalaman})\n• مرکز: {wilayah}\n• مختصات: {coordinates}\n• پتانسیل: {potensi}",
+  "broadcast_sunday": "🌴 **یکشنبه شما بخیر!** 🌴\nپیش از آغاز دوباره فعالیت‌ها در فردا، از تعطیلات آخر هفته خود با آرامش، ریلکسیشن و شادی فراوان در کنار خانواده عزیزتان لذت ببرید.",
+  "broadcast_national_holiday": "🏛️🎉 **تعطیلی ملی مبارک!** 🎉🏛️\nامروز مصادف است با:\n• **{name}**\n\nتعطیلات فوق‌العاده و روز خوبی داشته باشید!"
+}

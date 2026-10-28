@@ -1,0 +1,21 @@
+{
+  "usage_word": "Pemakaian:",
+  "room_only": "Gunakan perintah ini di dalam room.",
+  "ago": "{dur} yang lalu",
+  "just_now": "baru saja",
+  "dur_d": "{n} hari",
+  "dur_h": "{n} jam",
+  "dur_m": "{n} mnt",
+  "dur_s": "{n} dtk",
+  "self": "Kamu tidak bisa menitip pesan untuk diri sendiri.",
+  "bot": "Aku di sini, bicara saja langsung 😄",
+  "too_long": "Pesan terlalu panjang (maks {max} karakter).",
+  "limit_target": "{target} sudah punya {max} pesan tertunda, coba lagi nanti.",
+  "limit_user": "Kamu sudah punya {max} pesan titipan yang belum terkirim.",
+  "cooldown": "Tunggu sebentar sebelum menitip pesan lagi.",
+  "saved": "Oke, pesan untuk {target} akan disampaikan begitu dia muncul.",
+  "header": "📨 {nick}, ada {count} pesan titipan untukmu:",
+  "item": "• dari {from_nick} ({ago}): {text}",
+  "untell_done": "{count} pesan untuk {target} dibatalkan.",
+  "untell_none": "Tidak ada pesan tertunda darimu untuk {target}."
+}

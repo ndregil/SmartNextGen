@@ -1,0 +1,10 @@
+{
+  "wrong_format": "Format incorrect. Utilisez : www <url> (Exemple : www google.com)",
+  "accessing": "🔍 Accès à {url} en cours...",
+  "no_content": "(Page consultée avec succès, mais aucun contenu textuel n'a été trouvé.)",
+  "truncated_notice": "\n\n[✂️ Texte tronqué car il est trop long]",
+  "output_title": "🌐 **Lecteur Web ({url}) :**\n\n{text}",
+  "err_timeout": "Échec du chargement de la page web : Délai d'attente dépassé lors de l'accès à {url}.",
+  "err_http": "Échec du chargement de la page web : Le serveur a répondu avec l'erreur {err}.",
+  "err_general": "Échec de l'accès à la page web : {error}"
+}

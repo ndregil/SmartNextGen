@@ -1,0 +1,18 @@
+{
+  "err_room_only": "Dieser Befehl kann nur innerhalb eines Raumes verwendet werden.",
+  "err_nourl": "In diesem Raum ist noch keine RSS-URL registriert. Verwende den Befehl `addrss <url>`, um eine hinzuzufügen.",
+  "rss_latest_header": "**📰 Neueste RSS-Nachrichten:**",
+  "rss_source_label": "🔗 *Quell-URL:*",
+  "rss_fail_load": "• Laden fehlgeschlagen oder Feed ist leer.",
+  "broadcast_header": "📰 **RSS-Nachrichten-Update ({url}):**",
+  "delrss_success": "RSS-URL erfolgreich gelöscht:\n{rss_url}",
+  "delrss_format_err": "Ungültiges Format. Verwende: delrss <rss_url>",
+  "addrss_success": "Neue RSS-URL erfolgreich hinzugefügt:\n{rss_url}",
+  "addrss_format_err": "Format: addrss [10m|1h|1d] <url>  (RSS/Atom/JSON-Feed oder Website-Adresse; Intervall optional)",
+  "listrss_header": "📋 **RSS-URL-Liste in diesem Raum:**\n- ",
+  "listrss_empty": "Noch keine RSS-URLs registriert.",
+  "addrss_success_every": "RSS erfolgreich hinzugefügt: {rss_url}\n⏱ Die neuesten Nachrichten werden alle {every} in die Gruppe gesendet.",
+  "addrss_interval_set": "RSS-Zeitplan erfolgreich geändert: {rss_url} → Versand alle {every}.",
+  "addrss_interval_bad": "Ungültiges Intervall. Verwenden Sie {min} bis {max}, z. B. 10m, 1h, 1d.",
+  "rss_scheduled_header": "📰 Regelmäßiges Update von {url}"
+}

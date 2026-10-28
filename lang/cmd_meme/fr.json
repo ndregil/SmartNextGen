@@ -1,0 +1,11 @@
+{
+  "meme_list": "📋 **Catégorie de mèmes & Liste d'aide** :\nTapez la commande au format : `meme <catégorie>`\n\n• `meme dank` (Mèmes dank)\n• `meme meirl` (Mèmes réalistes)\n• `meme wholesome` (Mèmes bienveillants)\n• `meme programmer` (Mèmes IT / Code)\n• `meme anime` (Mèmes anime)\n• `meme cats` (Mèmes de chats)\n• `meme gaming` (Mèmes jeux vidéo)\n• `meme history` (Mèmes historiques)\n• `meme science` (Mèmes scientifiques)\n• `meme tech` (Mèmes technologiques)\n• `meme bug` / `error` (Mèmes de bugs logiciels)\n• `meme comics` (BD drôles)\n• `meme random` (Mèmes aléatoires)\n\n💡 **Exemples d'utilisation :**\n• `meme programmer`\n• `meme gaming`\n• `meme random`",
+  "meme_loading": "⏳ Préparation du mémé '{display_name}'...",
+  "meme_no_title": "Aucun titre",
+  "meme_err_url": "❌ Échec de l'obtention de l'URL de l'image du mème.",
+  "meme_err_dl": "❌ Échec du téléchargement du fichier image.",
+  "meme_err_upload": "❌ Échec de l'obtention de l'URL de téléchargement du serveur.",
+  "meme_err_plugin": "❌ Le plugin de téléchargement de fichiers HTTP (xep_0363) n'est pas disponible.",
+  "meme_timeout": "❌ Délai de connexion dépassé.",
+  "meme_error": "❌ Une erreur système est survenue : {e}"
+}

@@ -1,0 +1,27 @@
+# Smart Next-Gen XMPP Bot - dependensi Python
+# Instal: pip install -r requirements.txt
+# Python yang disarankan: 3.10 atau lebih baru
+
+# ---------- WAJIB ----------
+slixmpp>=1.8.5          # klien XMPP (inti bot)
+aiohttp>=3.9            # HTTP async (cuaca, RSS, terjemah, meme, voice, dll.)
+requests>=2.31          # dipakai perintah "www"
+google-genai>=1.0       # Google Gemini (diimpor langsung oleh cmd_ai.py)
+
+# ---------- PROVIDER AI OPSIONAL ----------
+# Hanya perlu bila memakai API key-nya di config.txt
+groq>=0.9               # Groq
+openai>=1.30            # OpenRouter (memakai klien OpenAI)
+mistralai>=1.0          # Mistral
+
+# ---------- DIREKOMENDASIKAN ----------
+psutil>=5.9             # info proses/memori yang lebih akurat pada perintah "uptime"
+pillow>=10.0            # pemrosesan gambar untuk filter gambar (imgfilter)
+
+# ---------- OPSIONAL ----------
+edge-tts>=6.1           # suara TTS lebih bagus (tanpa ini dipakai Google TTS)
+# nudenet>=3.0          # filter NSFW lokal (berat; gambar tidak dikirim ke pihak ketiga)
+
+# Catatan: ffmpeg (bukan paket pip) dibutuhkan untuk voice note berformat AMR/3GP/AAC/CAF.
+#   Debian/Ubuntu : sudo apt install ffmpeg
+#   Termux        : pkg install ffmpeg

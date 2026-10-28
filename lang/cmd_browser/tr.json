@@ -1,0 +1,10 @@
+{
+  "wrong_format": "Yanlış biçim. Kullanım: www <url> (Örnek: www google.com)",
+  "accessing": "🔍 {url} adresine erişiliyor...",
+  "no_content": "(Sayfaya başarıyla erişildi ancak metin içeriği bulunamadı.)",
+  "truncated_notice": "\n\n[✂️ Metin çok uzun olduğu için kısaltıldı]",
+  "output_title": "🌐 **Web Okuyucu ({url}):**\n\n{text}",
+  "err_timeout": "Web yüklenemedi: {url} adresine erişilirken istek zaman aşımına uğradı.",
+  "err_http": "Web yüklenemedi: Sunucu {err} hatasıyla yanıt verdi.",
+  "err_general": "Web sayfasına erişilemedi: {error}"
+}

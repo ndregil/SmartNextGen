@@ -1,0 +1,17 @@
+{
+  "mod_only": "Acesso negado: este comando é só para donos/admins/moderadores da sala.",
+  "owner_only": "Acesso negado: comandos globais são só para o dono do bot.",
+  "room_only": "Use este comando dentro de uma sala.",
+  "usage": "Uso: {cmd} [add] <gatilho>=<comando [argumentos]> | {cmd} del <gatilho> | {cmd} list",
+  "bad_trigger": "Gatilho inválido (1-{max} caracteres, sem espaços).",
+  "conflict": "Falha: «{t}» já é nome de um comando.",
+  "bad_target": "Falha: o comando «{c}» não foi encontrado ou não pode ter alias.",
+  "limit": "Falha: limite de {max} aliases atingido.",
+  "added": "Com sucesso: «{t}» agora executa «{c}»{scope}.",
+  "removed": "Alias «{t}» removido com sucesso{scope}.",
+  "not_found": "Alias «{t}» não encontrado{scope}.",
+  "empty": "Ainda não há aliases.",
+  "list_title": "Aliases{scope}:",
+  "scope_global": " (global)",
+  "scope_room": " (esta sala)"
+}

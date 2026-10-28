@@ -1,0 +1,18 @@
+{
+  "err_room_only": "Bu komut yalnızca bir oda içinde kullanılabilir.",
+  "err_nourl": "Bu odada henüz kayıtlı bir RSS URL'si yok. Eklemek için `addrss <url>` komutunu kullanın.",
+  "rss_latest_header": "**📰 Son RSS Haberleri:**",
+  "rss_source_label": "🔗 *Kaynak URL:*",
+  "rss_fail_load": "• Yüklenemedi veya akış (feed) boş.",
+  "broadcast_header": "📰 **RSS Haber Güncellemesi ({url}):**",
+  "delrss_success": "RSS URL'si başarıyla silindi:\n{rss_url}",
+  "delrss_format_err": "Yanlış biçim. Kullanım: delrss <rss_url>",
+  "addrss_success": "Yeni RSS URL'si başarıyla eklendi:\n{rss_url}",
+  "addrss_format_err": "Biçim: addrss [10m|1h|1d] <url>  (RSS/Atom/JSON beslemesi veya site adresi; aralık isteğe bağlı)",
+  "listrss_header": "📋 **Bu Odadaki RSS URL Listesi:**\n- ",
+  "listrss_empty": "Henüz kayıtlı RSS URL'si yok.",
+  "addrss_success_every": "RSS başarıyla eklendi: {rss_url}\n⏱ En son haberler her {every} grupta paylaşılacak.",
+  "addrss_interval_set": "RSS zamanlaması başarıyla değiştirildi: {rss_url} → her {every} gönderilecek.",
+  "addrss_interval_bad": "Geçersiz aralık. {min} ile {max} arasında kullanın, örnek: 10m, 1h, 1d.",
+  "rss_scheduled_header": "📰 {url} kaynağından düzenli güncelleme"
+}

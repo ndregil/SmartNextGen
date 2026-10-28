@@ -1,0 +1,23 @@
+{
+  "quake_loading": "⏳ Pobieranie danych o ostatnich trzęsieniach ziemi...",
+  "quake_usgs_fail": "❌ Nie udało się pobrać danych o trzęsieniach ziemi z serwera USGS.",
+  "quake_usgs_empty": "🌍 Brak znaczących globalnych raportów o trzęsieniach ziemi w tej chwili.",
+  "quake_usgs_unknown": "Nieznany",
+  "quake_usgs_result": "🌍 **Najnowsze informacje o trzęsieniach ziemi na świecie (USGS)**:\n• Magnituda: {mag}\n• Lokalizacja: {place}\n• Czas: {time_str} UTC",
+  "quake_bmkg_fail": "❌ Nie udało się pobrać danych o trzęsieniach ziemi z serwera BMKG.",
+  "quake_bmkg_empty": "❌ Nieprawidłowy format danych o trzęsieniach ziemi BMKG.",
+  "quake_bmkg_no_info": "Brak informacji",
+  "quake_bmkg_result": "🇮🇩 **Najnowsze informacje o trzęsieniach ziemi (BMKG Indonezja)**:\n• Czas: {tanggal} | {jam}\n• Magnituda: {magnitude} (Głębokość: {kedalaman})\n• Centrum: {wilayah}\n• Współrzędne: {coordinates}\n• Potencjał: {potensi}\n• Odczuwalne: {dirasakan}\n\n💡 *Wskazówka:* Wpisz `earthquake global` lub `gempa global`, aby uzyskać dane światowe.",
+  "quake_timeout": "❌ Przekroczono limit czasu połączenia z serwerem danych o trzęsieniach ziemi.",
+  "quake_error": "❌ Wystąpił błąd podczas pobierania danych o trzęsieniach ziemi: {e}",
+  "holiday_sat": "🎉 Dziś jest **sobota** (Weekend!)",
+  "holiday_sun": "🎉 Dziś jest **niedziela** (Weekendowy urlop!)",
+  "holiday_fri": "⚡ Jutro jest już **weekend (sobota)**!",
+  "holiday_approaching": "⏳ Zbliża się weekend (sobota) za około **{days_to_sat} dni**.",
+  "holiday_none": "Brak danych o nadchodzących świętach narodowych.",
+  "holiday_info_format": "• Wydarzenie: {name} ({date})\n• Status: ⏳ Pozostało **{days} dni**",
+  "holiday_header": "📅 **Informacje o Świętach i Weekendzie**:\n\n🗓️ **Status Weekendu:**\n{weekend_status}\n\n🏛️ **Najbliższe Święto Narodowe:**\n{holiday_info}",
+  "broadcast_quake_alert": "🚨 **NOWE OSTRZEŻENIE O TRZĘSIENIU ZIEMI (BMKG)** 🚨\n• Czas: {tanggal} | {jam}\n• Magnituda: {magnitude} (Głębokość: {kedalaman})\n• Centrum: {wilayah}\n• Współrzędne: {coordinates}\n• Potencjał: {potensi}",
+  "broadcast_sunday": "🌴 **Dzień dobry w niedzielę!** 🌴\nCiesz się weekendowym wypoczynkiem w spokoju, relaksie i pełnym szczęściu z ukochaną rodziną przed powrotem do obowiązków jutro.",
+  "broadcast_national_holiday": "🏛️🎉 **SZCZĘŚLIWEGO ŚWIĘTA NARODOWEGO!** 🎉🏛️\nDziś przypada:\n• **{name}**\n\nŻyczymy wspaniałego świętowania i miłego dnia!"
+}

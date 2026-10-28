@@ -1,0 +1,18 @@
+{
+  "err_room_only": "Эту команду можно использовать только внутри комнаты.",
+  "err_nourl": "В этой комнате еще не зарегистрировано ни одного RSS URL. Используйте команду `addrss <url>`, чтобы добавить его.",
+  "rss_latest_header": "**📰 Последние новости RSS:**",
+  "rss_source_label": "🔗 *URL источника:*",
+  "rss_fail_load": "• Не удалось загрузить или лента пуста.",
+  "broadcast_header": "📰 **Обновление новостей RSS ({url}):**",
+  "delrss_success": "Успешно удален RSS URL:\n{rss_url}",
+  "delrss_format_err": "Неверный формат. Используйте: delrss <rss_url>",
+  "addrss_success": "Успешно добавлен новый RSS URL:\n{rss_url}",
+  "addrss_format_err": "Формат: addrss [10m|1h|1d] <url>  (RSS/Atom/JSON Feed или адрес сайта; интервал необязателен)",
+  "listrss_header": "📋 **Список RSS URL в этой комнате:**\n- ",
+  "listrss_empty": "Зарегистрированные RSS URL отсутствуют.",
+  "addrss_success_every": "RSS успешно добавлен: {rss_url}\n⏱ Последние новости будут отправляться в группу каждые {every}.",
+  "addrss_interval_set": "Расписание RSS успешно изменено: {rss_url} → отправка каждые {every}.",
+  "addrss_interval_bad": "Недопустимый интервал. Используйте от {min} до {max}, например: 10m, 1h, 1d.",
+  "rss_scheduled_header": "📰 Регулярная рассылка из {url}"
+}

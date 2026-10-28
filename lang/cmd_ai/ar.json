@@ -1,0 +1,22 @@
+{
+  "cat_owner": "👑 مالك البوت",
+  "cat_admin": "💎 المسؤول وصاحب المجموعة",
+  "ai_off_room_only": "لا يمكن استخدام هذا الأمر إلا داخل الغرفة.",
+  "ai_off_success": "تم إيقاف ردود الذكاء الاصطناعي في هذه الغرفة.",
+  "ai_on_success": "تم إعادة تشغيل ردود الذكاء الاصطناعي في هذه الغرفة.",
+  "ai_off_global_success": "تم إيقاف ردود الذكاء الاصطناعي بشكل عام (Global).",
+  "ai_on_global_success": "تم إعادة تشغيل ردود الذكاء الاصطناعي بشكل عام (Global).",
+  "aiprovider_success": "تم تغيير المزود الرئيسي إلى: {provider}\nنقطة النهاية (Endpoint): {endpoint}\nالنموذج النشط: {model}",
+  "aiprovider_invalid": "مزود غير صالح! الخيارات المتاحة:\n- {providers}",
+  "aiprovider_info": "المزود النشط: {provider}\nنقطة النهاية HTTP: {endpoint}\nالنموذج الحالي: {model}\n\nالخيارات المتاحة:\n- {providers}",
+  "aimodel_success": "تم تغيير نموذج الذكاء الاصطناعي [{provider}] إلى: {model}",
+  "aimodel_invalid": "نموذج غير صالح للمزود {provider}! الخيارات المتاحة:\n- {models}",
+  "aimodel_info": "المزود النشط: {provider} ({endpoint})\nالنموذج الرئيسي الحالي: {model}\n\nقائمة النماذج:\n- {models}",
+  "all_ai_fail": "عذرًا، جميع مزودي الذكاء الاصطناعي يواجهون مشاكل حاليًا (خطأ: {error}).",
+  "image_refused": "عذرًا، لا أستطيع معالجة هذه الصورة.",
+  "ai_confirm_prompt": "📋 تنفيذ: {cmds}؟ أجب للتأكيد أو للإلغاء ({sec} ث).",
+  "ai_confirm_cancel": "حسنًا، تم الإلغاء.",
+  "ai_ambiguous_nick": "هناك عدة أسماء تشبه \"{name}\": {options}. أيّها تقصد؟",
+  "ai_need_room": "أي غرفة؟ يرجى كتابة JID الغرفة (مثال: name@conference.server.com).",
+  "ai_not_understood": "همم، لم أفهم تمامًا. هل يمكنك إعادة الصياغة؟"
+}

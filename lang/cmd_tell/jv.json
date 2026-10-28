@@ -1,0 +1,21 @@
+{
+  "usage_word": "Panganggo:",
+  "room_only": "Gunakna prentah iki ing njero room.",
+  "ago": "{dur} kepungkur",
+  "just_now": "lagi wae",
+  "dur_d": "{n} dina",
+  "dur_h": "{n} jam",
+  "dur_m": "{n} menit",
+  "dur_s": "{n} detik",
+  "self": "Ora bisa nitip pesen kanggo awakmu dhewe.",
+  "bot": "Aku neng kene, ngomong langsung wae 😄",
+  "too_long": "Pesen kedawan (maks {max} karakter).",
+  "limit_target": "{target} wis duwe {max} pesen tundha, coba maneh mengko.",
+  "limit_user": "Kowe wis duwe {max} pesen titipan sing durung kekirim.",
+  "cooldown": "Antosana sedhela sadurunge nitip pesen maneh.",
+  "saved": "Oke, pesenmu bakal tak sampekake menyang {target} nalika dheweke muncul.",
+  "header": "📨 {nick}, ana {count} pesen titipan kanggomu:",
+  "item": "• saka {from_nick} ({ago}): {text}",
+  "untell_done": "{count} pesen kanggo {target} dibatalake.",
+  "untell_none": "Ora ana pesen tundha saka kowe kanggo {target}."
+}

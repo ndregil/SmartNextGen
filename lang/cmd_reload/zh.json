@@ -1,0 +1,18 @@
+{
+  "owner_only": "拒绝访问：此命令仅限机器人所有者使用。",
+  "usage": "用法：reload <插件> | reload all | reload list  （示例：reload rss）",
+  "not_found": "在 plugins 文件夹中找不到插件“{name}”。",
+  "unsafe": "插件“{name}”不重启就无法重新加载（它包装了核心函数）。请使用：restart all",
+  "syntax_error": "失败：{name} 存在语法错误：{err}。旧插件继续运行。",
+  "load_error": "加载 {name} 失败：{err}。旧插件继续运行。",
+  "no_handlers": "失败：此 slixmpp 版本不提供处理器列表。请使用：restart all",
+  "ok": "已成功重新加载 {name}（{bots} 个账号，{cmds} 个命令，停止了 {tasks} 个后台任务）。",
+  "ok_new": "已成功加载新插件 {name}（{bots} 个账号，{cmds} 个命令）。",
+  "partial": "{name} 部分失败：{ok}/{total} 个账号成功。错误：{err}。修复后请再次运行 reload。",
+  "list_title": "插件（{count}）：",
+  "state_loaded": "已加载",
+  "state_new": "未加载",
+  "state_restart": "需要重启",
+  "all_summary": "完成：{ok} 个插件成功，{fail} 个有问题。{detail}",
+  "busy": "重新加载正在进行，请稍候。"
+}

@@ -1,0 +1,18 @@
+{
+  "owner_only": "Akses ditolak: prentah iki mung kanggo owner bot.",
+  "usage": "Cara nganggo: reload <plugin> | reload all | reload list  (tuladha: reload rss)",
+  "not_found": "Plugin '{name}' ora ditemokake ing folder plugins.",
+  "unsafe": "Plugin '{name}' ora bisa dimuat maneh tanpa restart (mbungkus fungsi inti). Gunakna: restart all",
+  "syntax_error": "Gagal: kasalahan sintaks ing {name}: {err}. Plugin lawas isih mlaku.",
+  "load_error": "Gagal muat {name}: {err}. Plugin lawas isih mlaku.",
+  "no_handlers": "Gagal: versi slixmpp iki ora mbukak dhaftar handler. Gunakna: restart all",
+  "ok": "Sukses muat maneh {name} ({bots} akun, {cmds} prentah, {tasks} tugas latar dihentikan).",
+  "ok_new": "Sukses muat plugin anyar {name} ({bots} akun, {cmds} prentah).",
+  "partial": "Gagal sebagian ing {name}: {ok}/{total} akun sukses. Kesalahan: {err}. Dandani banjur jalanake reload maneh.",
+  "list_title": "Plugin ({count}):",
+  "state_loaded": "wis dimuat",
+  "state_new": "durung dimuat",
+  "state_restart": "kudu restart",
+  "all_summary": "Rampung: {ok} plugin sukses, {fail} duwe masalah.{detail}",
+  "busy": "Reload lagi mlaku, enteni sedhela."
+}

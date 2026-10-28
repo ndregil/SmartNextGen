@@ -1,0 +1,11 @@
+{
+  "meme_list": "📋 **Kategori & Dhaptar Bantuan Meme**:\nKetik prentah kanthi format: `meme <kategori>`\n\n• `meme dank` (Meme dank)\n• `meme meirl` (Meme sing nyambung karo urip)\n• `meme wholesome` (Meme sing adhem/nyenengake)\n• `meme programmer` (Meme IT/Koding)\n• `meme anime` (Meme anime)\n• `meme cats` (Meme kucing)\n• `meme gaming` (Meme game)\n• `meme history` (Meme sejarah)\n• `meme science` (Meme sains)\n• `meme tech` (Meme teknologi)\n• `meme bug` / `error` (Meme error software)\n• `meme comics` (Komik lucu)\n• `meme random` (Meme acak)\n\n💡 **Conto Panggunaan:**\n• `meme programmer`\n• `meme gaming`\n• `meme random`",
+  "meme_loading": "⏳ Nyiapake meme '{display_name}'...",
+  "meme_no_title": "Tanpa Judhul",
+  "meme_err_url": "❌ Gagal njupuk URL gambar meme.",
+  "meme_err_dl": "❌ Gagal ngunduh file gambar.",
+  "meme_err_upload": "❌ Gagal njupuk URL unggah server.",
+  "meme_err_plugin": "❌ Plugin HTTP File Upload (xep_0363) ora kasedhiya.",
+  "meme_timeout": "❌ Sambungan wektu entek (timeout).",
+  "meme_error": "❌ Kasalahan sistem kedadeyan: {e}"
+}

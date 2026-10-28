@@ -1,0 +1,10 @@
+{
+  "wrong_format": "Formato incorreto. Use: www <url> (Exemplo: www google.com)",
+  "accessing": "🔍 Acessando {url}...",
+  "no_content": "(Página acessada com sucesso, mas nenhum conteúdo de texto foi encontrado.)",
+  "truncated_notice": "\n\n[✂️ Texto truncado porque é muito longo]",
+  "output_title": "🌐 **Leitor Web ({url}):**\n\n{text}",
+  "err_timeout": "Falha ao carregar a web: Tempo limite esgotado ao acessar {url}.",
+  "err_http": "Falha ao carregar a web: O servidor respondeu com o erro {err}.",
+  "err_general": "Falha ao acessar a página da web: {error}"
+}

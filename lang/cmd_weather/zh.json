@@ -1,0 +1,29 @@
+{
+  "err_api_key": "配置文件中未设置 WEATHER_API_KEY。",
+  "err_room_only": "此命令只能在聊天室内部使用。",
+  "err_empty_default": "默认天气为空，请输入 `weather <城市名称>`",
+  "default_desc": "多云",
+  
+  "advice_rain": "  💡 *提示：正在下雨，出门别忘了带伞或雨衣！*",
+  "advice_hot": "  💡 *提示：天气非常炎热晴朗，请多喝水以防脱水。*",
+  "advice_cold": "  💡 *提示：天气相当寒冷，外出时请穿夹克。*",
+
+  "forecast_snippet": "  🕒 *{fc_time} 预报:* {fc_desc} ({fc_temp}°C)",
+  
+  "weather_format": "• **{location_label}**\n  🌤️ 天气状况: *{desc}*\n  🌡️ 温度: *{temp}°C* (体感温度 *{feels_like}°C*)\n  💧 湿度: *{humidity}%* | 🧭 气压: *{pressure} hPa*\n  👀 能见度: *{visibility} km* | 💨 风速: *{wind_speed} m/s*\n  🌅 日出: *{sunrise_str}* | 🌇 日落: *{sunset_str}*",
+  
+  "err_404": "未找到该地点。请确保城市/地区拼写正确。",
+  "err_srv": "从天气服务器获取数据失败（状态码: {status}）。",
+  "err_conn": "连接天气服务器出错。",
+
+  "broadcast_header": "🕒 **定期天气报告 (OpenWeather):**",
+  "weather_header": "🌤️️ **当前天气信息与预报:**",
+
+  "add_success": "已成功将区域 `{new_city}` 添加到此聊天室的监控列表中。",
+  "add_format_err": "格式错误。使用方法: `addweather <城市/区域>`",
+
+  "del_success": "已成功从监控列表中移除区域 `{target_city}`。",
+  "del_format_err": "格式错误。使用方法: `delweather <区域名称>`",
+
+  "list_header": "🌍 **此聊天室的天气监控区域列表:**\n- "
+}

@@ -1,0 +1,17 @@
+{
+  "mod_only": "Akses ditolak: perintah iki mung kanggo owner/admin/moderator room.",
+  "owner_only": "Akses ditolak: perintah global mung kanggo owner bot.",
+  "room_only": "Gunakake perintah iki ing njero room.",
+  "usage": "Panggunaan: {cmd} [add] <pemicu>=<perintah [argumen]> | {cmd} del <pemicu> | {cmd} list",
+  "bad_trigger": "Pemicu ora valid (1-{max} karakter, tanpa spasi).",
+  "conflict": "Gagal: '{t}' wis dadi jeneng perintah.",
+  "bad_target": "Gagal: perintah '{c}' ora ketemu utawa ora bisa dadi alias.",
+  "limit": "Gagal: wates {max} alias wis kecekel.",
+  "added": "Berhasil: '{t}' saiki nglakokake '{c}'{scope}.",
+  "removed": "Berhasil mbusak alias '{t}'{scope}.",
+  "not_found": "Alias '{t}' ora ketemu{scope}.",
+  "empty": "Durung ana alias.",
+  "list_title": "Dhaptar alias{scope}:",
+  "scope_global": " (global)",
+  "scope_room": " (room iki)"
+}

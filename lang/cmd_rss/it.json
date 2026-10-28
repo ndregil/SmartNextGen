@@ -1,0 +1,18 @@
+{
+  "err_room_only": "Questo comando può essere usato solo all'interno di una stanza.",
+  "err_nourl": "Nessun URL RSS registrato in questa stanza. Usa il comando `addrss <url>` per aggiungerne uno.",
+  "rss_latest_header": "**📰 Ultime Notizie RSS:**",
+  "rss_source_label": "🔗 *URL di Origine:*",
+  "rss_fail_load": "• Caricamento fallito o feed vuoto.",
+  "broadcast_header": "📰 **Aggiornamento Notizie RSS ({url}):**",
+  "delrss_success": "URL RSS eliminato con successo:\n{rss_url}",
+  "delrss_format_err": "Formato errato. Usa: delrss <rss_url>",
+  "addrss_success": "Nuovo URL RSS aggiunto con successo:\n{rss_url}",
+  "addrss_format_err": "Formato: addrss [10m|1h|1d] <url>  (feed RSS/Atom/JSON o indirizzo del sito; intervallo facoltativo)",
+  "listrss_header": "📋 **Elenco URL RSS in questa stanza:**\n- ",
+  "listrss_empty": "Nessun URL RSS registrato.",
+  "addrss_success_every": "RSS aggiunto con successo: {rss_url}\n⏱ Le ultime notizie verranno inviate al gruppo ogni {every}.",
+  "addrss_interval_set": "Pianificazione RSS modificata con successo: {rss_url} → invio ogni {every}.",
+  "addrss_interval_bad": "Intervallo non valido. Usa da {min} a {max}, ad esempio: 10m, 1h, 1d.",
+  "rss_scheduled_header": "📰 Aggiornamento periodico da {url}"
+}

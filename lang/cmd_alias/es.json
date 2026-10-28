@@ -1,0 +1,17 @@
+{
+  "mod_only": "Acceso denegado: este comando es solo para propietarios/administradores/moderadores de la sala.",
+  "owner_only": "Acceso denegado: los comandos globales son solo para el propietario del bot.",
+  "room_only": "Usa este comando dentro de una sala.",
+  "usage": "Uso: {cmd} [add] <disparador>=<comando [argumentos]> | {cmd} del <disparador> | {cmd} list",
+  "bad_trigger": "Disparador no válido (1-{max} caracteres, sin espacios).",
+  "conflict": "Falló: «{t}» ya es el nombre de un comando.",
+  "bad_target": "Falló: el comando «{c}» no existe o no puede tener alias.",
+  "limit": "Falló: se alcanzó el límite de {max} alias.",
+  "added": "Con éxito: «{t}» ahora ejecuta «{c}»{scope}.",
+  "removed": "Alias «{t}» eliminado correctamente{scope}.",
+  "not_found": "No se encontró el alias «{t}»{scope}.",
+  "empty": "Aún no hay alias.",
+  "list_title": "Alias{scope}:",
+  "scope_global": " (global)",
+  "scope_room": " (esta sala)"
+}

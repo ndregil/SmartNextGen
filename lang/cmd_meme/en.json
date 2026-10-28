@@ -1,0 +1,11 @@
+{
+  "meme_list": "📋 **Meme Category & Help List**:\nType the command with format: `meme <category>`\n\n• `meme dank` (Dank memes)\n• `meme meirl` (Relatable memes)\n• `meme wholesome` (Wholesome memes)\n• `meme programmer` (IT/Coding memes)\n• `meme anime` (Anime memes)\n• `meme cats` (Cat memes)\n• `meme gaming` (Gaming memes)\n• `meme history` (History memes)\n• `meme science` (Science memes)\n• `meme tech` (Technology memes)\n• `meme bug` / `error` (Software error memes)\n• `meme comics` (Funny comics)\n• `meme random` (Random memes)\n\n💡 **Usage Examples:**\n• `meme programmer`\n• `meme gaming`\n• `meme random`",
+  "meme_loading": "⏳ Preparing '{display_name}' meme...",
+  "meme_no_title": "No Title",
+  "meme_err_url": "❌ Failed to get meme image URL.",
+  "meme_err_dl": "❌ Failed to download image file.",
+  "meme_err_upload": "❌ Failed to get server upload URL.",
+  "meme_err_plugin": "❌ HTTP File Upload (xep_0363) plugin is not available.",
+  "meme_timeout": "❌ Connection timed out.",
+  "meme_error": "❌ System error occurred: {e}"
+}

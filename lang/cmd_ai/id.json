@@ -1,0 +1,22 @@
+{
+  "cat_owner": "👑 Bot Owner",
+  "cat_admin": "💎 Admin & Owner Group",
+  "ai_off_room_only": "Perintah ini hanya bisa digunakan di dalam room.",
+  "ai_off_success": "Respons AI di room ini berhasil dimatikan (Off).",
+  "ai_on_success": "Respons AI di room ini berhasil diaktifkan kembali (On).",
+  "ai_off_global_success": "Respons AI berhasil dimatikan secara global (Global Off).",
+  "ai_on_global_success": "Respons AI berhasil diaktifkan kembali secara global (Global On).",
+  "aiprovider_success": "Provider Utama diubah ke: {provider}\nEndpoint: {endpoint}\nModel Aktif: {model}",
+  "aiprovider_invalid": "Provider tidak valid! Pilihan:\n- {providers}",
+  "aiprovider_info": "Provider Aktif: {provider}\nEndpoint HTTP: {endpoint}\nModel Saat Ini: {model}\n\nPilihan Provider:\n- {providers}",
+  "aimodel_success": "Model AI [{provider}] diubah ke: {model}",
+  "aimodel_invalid": "Model tidak valid untuk provider {provider}! Pilihan:\n- {models}",
+  "aimodel_info": "Provider Aktif: {provider} ({endpoint})\nModel Utama Saat Ini: {model}\n\nDaftar Model:\n- {models}",
+  "all_ai_fail": "Maaf, semua provider AI sedang mengalami gangguan (Error: {error}).",
+  "image_refused": "Maaf, aku tidak bisa memproses gambar itu.",
+  "ai_confirm_prompt": "📋 Jalankan: {cmds}? Balas untuk konfirmasi atau batalkan ({sec} dtk).",
+  "ai_confirm_cancel": "Oke, dibatalkan.",
+  "ai_ambiguous_nick": "Ada beberapa nama yang mirip \"{name}\": {options}. Yang mana?",
+  "ai_need_room": "Room-nya yang mana? Sebutkan JID room-nya (contoh: nama@conference.server.com).",
+  "ai_not_understood": "Hmm, aku belum paham maksudnya. Coba ulangi dengan kalimat lain?"
+}

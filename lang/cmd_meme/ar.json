@@ -1,0 +1,11 @@
+{
+  "meme_list": "📋 **فئات الميمز وقائمة المساعدة**:\nاكتب الأمر بالتنسيق التالي: `meme <category>`\n\n• `meme dank` (ميمز دانك)\n• `meme meirl` (ميمز واقعية)\n• `meme wholesome` (ميمز لطيفة)\n• `meme programmer` (ميمز البرمجة وتقنية المعلومات)\n• `meme anime` (ميمز الأنمي)\n• `meme cats` (ميمز القطط)\n• `meme gaming` (ميمز الألعاب)\n• `meme history` (ميمز التاريخ)\n• `meme science` (ميمز العلوم)\n• `meme tech` (ميمز التكنولوجيا)\n• `meme bug` / `error` (ميمز أخطاء البرمجيات)\n• `meme comics` (قصص مصورة مضحكة)\n• `meme random` (ميمز عشوائية)\n\n💡 **أمثلة على الاستخدام:**\n• `meme programmer`\n• `meme gaming`\n• `meme random`",
+  "meme_loading": "⏳ جاري إعداد ميم '{display_name}'...",
+  "meme_no_title": "بدون عنوان",
+  "meme_err_url": "❌ فشل الحصول على رابط صورة الميم.",
+  "meme_err_dl": "❌ فشل تنزيل ملف الصورة.",
+  "meme_err_upload": "❌ فشل الحصول على رابط الرفع إلى الخادم.",
+  "meme_err_plugin": "❌ إضافة رفع ملفات HTTP (xep_0363) غير متوفرة.",
+  "meme_timeout": "❌ انتهت مهلة الاتصال.",
+  "meme_error": "❌ حدث خطأ في النظام: {e}"
+}

@@ -1,0 +1,18 @@
+{
+  "err_room_only": "Цю команду можна використовувати лише всередині кімнати.",
+  "err_nourl": "У цій кімнаті ще не зареєстровано жодної URL-адреси RSS. Використовуйте команду `addrss <url>`, щоб додати її.",
+  "rss_latest_header": "**📰 Останні новини RSS:**",
+  "rss_source_label": "🔗 *Вихідна URL-адреса:*",
+  "rss_fail_load": "• Не вдалося завантажити або стрічка порожня.",
+  "broadcast_header": "📰 **Оновлення новин RSS ({url}):**",
+  "delrss_success": "Успішно видалено URL-адресу RSS:\n{rss_url}",
+  "delrss_format_err": "Неправильний формат. Використовуйте: delrss <rss_url>",
+  "addrss_success": "Успішно додано нову URL-адресу RSS:\n{rss_url}",
+  "addrss_format_err": "Формат: addrss [10m|1h|1d] <url>  (RSS/Atom/JSON-стрічка або адреса сайту; інтервал необов’язковий)",
+  "listrss_header": "📋 **Список URL-адрес RSS у цій кімнаті:**\n- ",
+  "listrss_empty": "Ще не зареєстровано жодної URL-адреси RSS.",
+  "addrss_success_every": "RSS успішно додано: {rss_url}\n⏱ Останні новини надсилатимуться до групи кожні {every}.",
+  "addrss_interval_set": "Розклад RSS успішно змінено: {rss_url} → надсилання кожні {every}.",
+  "addrss_interval_bad": "Недійсний інтервал. Використовуйте від {min} до {max}, наприклад: 10m, 1h, 1d.",
+  "rss_scheduled_header": "📰 Регулярна розсилка з {url}"
+}

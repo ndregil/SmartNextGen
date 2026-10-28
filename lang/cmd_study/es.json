@@ -1,0 +1,40 @@
+{
+  "guide_text": "📚 **Guía de uso del módulo de estudio:**\nCategorías disponibles: {cat_list}\n• Material básico: `study [categoría]`\n• Preguntas y respuestas con IA: `study [categoría] [tu pregunta]`",
+  "err_category": "❌ ¡Categoría '{category}' no encontrada!\nCategorías disponibles: {cat_list}",
+  "materi_header": "📖 **Material básico [{category}]:**\n",
+  "materi_tip": "\n\n💡 Consejo: ¿Quieres preguntar más a fondo? Escribe: `study {category} [tu pregunta]`",
+  "loading_text": "🔍 Analizando pregunta sobre **{category}**, por favor espera...",
+  "ai_prompt": "Por favor, actúa como un tutor/profesor experto en el campo de {category}. Responde a la siguiente pregunta en profundidad de forma clara y educativa, proporciona ejemplos de código si es relevante y utiliza un inglés claro y fácil de entender:\n\nPregunta: {question}",
+  "ai_reply_header": "🧠 **Explicación ({category}):**\n\n{ai_response}",
+  "err_ai": "❌ Lo siento, el módulo de IA no está correctamente integrado con el bot principal.",
+  "study_python": [
+    "1. Introducción: Python es un lenguaje de programación interpretado de alto nivel, fácil de leer y aprender.",
+    "2. Variables y tipos de datos: Guarda valores en variables (ej.: x = 10, nombre = 'Juan'). Tipos comunes: int, float, str, bool.",
+    "3. Ramificación: Usa if, elif y else para tomar decisiones lógicas en el código."
+  ],
+  "study_kotlin": [
+    "1. Introducción: Kotlin es un lenguaje moderno que se ejecuta en la JVM y es oficial para Android.",
+    "2. Variables: Usa 'val' para constantes (inmutables) y 'var' para variables que pueden cambiar (mutables).",
+    "3. Funciones: Se definen con la palabra clave 'fun', ej.: fun main() { println('Hola Kotlin') }"
+  ],
+  "study_java": [
+    "1. Introducción: Java es un lenguaje orientado a objetos (POO) caracterizado por 'Write Once, Run Anywhere'.",
+    "2. Estructura básica: Todo programa Java requiere una clase y el método principal public static void main(String[] args).",
+    "3. Tipos de datos: Tipos primitivos como int, double, char y boolean."
+  ],
+  "study_matematika": [
+    "1. Álgebra básica: Resolver ecuaciones lineales de una variable, ej.: 2x + 5 = 15, entonces x = 5.",
+    "2. Geometría: El área del círculo es A = pi * r^2 y su circunferencia es C = 2 * pi * r.",
+    "3. Fracciones: Operaciones de suma, resta, multiplicación y división con fracciones."
+  ],
+  "study_sains": [
+    "1. Sistema solar: El Sol es el centro del sistema solar. El planeta más cercano es Mercurio y el más grande es Júpiter.",
+    "2. Fotosíntesis: Proceso por el cual las plantas verdes convierten agua, dióxido de carbono y luz solar en oxígeno y glucosa.",
+    "3. Estados de la materia: Los tres estados principales son sólido, líquido y gaseoso, junto con sus cambios de estado."
+  ],
+  "study_inggris": [
+    "1. Greeting & Introduction: Expresiones como 'Good morning', 'How are you?' y cómo presentarse.",
+    "2. Simple Present Tense: Se usa para hábitos o hechos generales (Ejemplo: 'I go to school every day').",
+    "3. Pronouns: Pronombres personales como I, You, They, We, He, She, It y posesivos (my, your, their, etc.)."
+  ]
+}

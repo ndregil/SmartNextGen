@@ -1,0 +1,29 @@
+{
+  "err_api_key": "WEATHER_API_KEY belum diatur di dalam file config.txt.",
+  "err_room_only": "Perintah ini hanya bisa digunakan di dalam room.",
+  "err_empty_default": "Default weather kosong, ketik `weather <nama kota>`",
+  "default_desc": "Berawan",
+  
+  "advice_rain": "  💡 *Tips: Sedang turun hujan, jangan lupa bawa payung atau jas hujan!*",
+  "advice_hot": "  💡 *Tips: Suhu cukup panas terik, perbanyak minum air putih agar tidak dehidrasi.*",
+  "advice_cold": "  💡 *Tips: Udara cukup dingin, kenakan jaket jika bepergian keluar.*",
+
+  "forecast_snippet": "  🕒 *Perkiraan pukul {fc_time}:* {fc_desc} ({fc_temp}°C)",
+  
+  "weather_format": "• **{location_label}**\n  🌤️ Kondisi: *{desc}*\n  🌡️ Suhu: *{temp}°C* (Terasa seperti *{feels_like}°C*)\n  💧 Kelembapan: *{humidity}%* | 🧭 Tekanan: *{pressure} hPa*\n  👀 Jarak Pandang: *{visibility} km* | 💨 Angin: *{wind_speed} m/s*\n  🌅 Terbit: *{sunrise_str}* | 🌇 Terbenam: *{sunset_str}*",
+  
+  "err_404": "Wilayah tidak ditemukan. Pastikan ejaan nama kota/kecamatan sudah benar.",
+  "err_srv": "Gagal mengambil data dari server cuaca (Status: {status}).",
+  "err_conn": "Terjadi kesalahan koneksi ke server cuaca.",
+
+  "broadcast_header": "**🕒 Laporan Cuaca Berkala (OpenWeather):**",
+  "weather_header": "🌤️ **Informasi Cuaca Terkini & Prediksi:**",
+
+  "add_success": "Sukses menambahkan wilayah `{new_city}` ke daftar pantauan room ini.",
+  "add_format_err": "Format salah. Gunakan: `addweather <nama_wilayah>`",
+
+  "del_success": "Sukses menghapus wilayah `{target_city}` dari daftar pantauan.",
+  "del_format_err": "Format salah. Gunakan: `delweather <nama_wilayah>`",
+
+  "list_header": "🌍 **Daftar Wilayah Pantauan Cuaca di Room Ini:**\n- "
+}

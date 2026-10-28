@@ -1,0 +1,18 @@
+{
+  "err_room_only": "This command can only be used inside a room.",
+  "err_nourl": "No RSS URL registered in this room yet. Use `addrss <url>` command to add one.",
+  "rss_latest_header": "**📰 Latest RSS News:**",
+  "rss_source_label": "🔗 *Source URL:*",
+  "rss_fail_load": "• Failed to load or feed is empty.",
+  "broadcast_header": "📰 **RSS News Update ({url}):**",
+  "delrss_success": "Successfully deleted RSS URL:\n{rss_url}",
+  "delrss_format_err": "Invalid format. Use: delrss <rss_url>",
+  "addrss_success": "Successfully added new RSS URL:\n{rss_url}",
+  "addrss_format_err": "Format: addrss [10m|1h|1d] <url>  (RSS/Atom/JSON Feed or a website address; interval optional)",
+  "listrss_header": "📋 **RSS URL List in This Room:**\n- ",
+  "listrss_empty": "No RSS URLs registered yet.",
+  "addrss_success_every": "RSS successfully added: {rss_url}\n⏱ Latest news will be posted to the group every {every}.",
+  "addrss_interval_set": "RSS schedule successfully changed: {rss_url} → posted every {every}.",
+  "addrss_interval_bad": "Invalid interval. Use {min} to {max}, e.g. 10m, 1h, 1d.",
+  "rss_scheduled_header": "📰 Scheduled update from {url}"
+}

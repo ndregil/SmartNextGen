@@ -1,0 +1,10 @@
+{
+  "wrong_format": "格式错误。使用方法: www <url> (例如: www google.com)",
+  "accessing": "🔍 正在访问 {url}...",
+  "no_content": "（网页访问成功，但未找到任何文本内容。）",
+  "truncated_notice": "\n\n[✂️️ 文本过长已被截断]",
+  "output_title": "🌐 **网页阅读器 ({url})：**\n\n{text}",
+  "err_timeout": "加载网页失败：访问 {url} 时请求超时。",
+  "err_http": "加载网页失败：服务器响应错误 {err}。",
+  "err_general": "访问网页失败：{error}"
+}

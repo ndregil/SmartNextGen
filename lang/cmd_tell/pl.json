@@ -1,0 +1,21 @@
+{
+  "usage_word": "Użycie:",
+  "room_only": "Użyj tego polecenia w pokoju.",
+  "ago": "{dur} temu",
+  "just_now": "przed chwilą",
+  "dur_d": "{n} d",
+  "dur_h": "{n} godz.",
+  "dur_m": "{n} min",
+  "dur_s": "{n} s",
+  "self": "Nie możesz zostawić wiadomości samemu sobie.",
+  "bot": "Jestem tutaj, mów do mnie wprost 😄",
+  "too_long": "Wiadomość jest za długa (maks. {max} znaków).",
+  "limit_target": "{target} ma już {max} oczekujących wiadomości, spróbuj później.",
+  "limit_user": "Masz już {max} niedostarczonych wiadomości.",
+  "cooldown": "Poczekaj chwilę, zanim zostawisz kolejną wiadomość.",
+  "saved": "Dobrze, przekażę wiadomość użytkownikowi {target}, gdy się pojawi.",
+  "header": "📨 {nick}, masz wiadomości: {count}",
+  "item": "• od {from_nick} ({ago}): {text}",
+  "untell_done": "Anulowano wiadomości dla {target}: {count}.",
+  "untell_none": "Nie masz oczekujących wiadomości dla {target}."
+}

@@ -1,0 +1,21 @@
+{
+  "err_api_key": "WEATHER_API_KEY nie jest ustawiona w pliku konfiguracyjnym.",
+  "err_room_only": "Ta komenda może być używana tylko wewnątrz pokoju.",
+  "err_empty_default": "Domyślna pogoda jest pusta, wpisz `weather <nazwa_miasta>`",
+  "default_desc": "Pochmurno",
+  "advice_rain": "  💡 *Wskazówka: Pada deszcz, nie zapomnij wziąć parasola lub kurtki przeciwdeszczowej!*",
+  "advice_hot": "  💡 *Wskazówka: Bardzo gorąco i słonecznie, pij dużo wody, aby uniknąć odwodnienia.*",
+  "advice_cold": "  💡 *Wskazówka: Pogoda jest dość chłodna, załóż kurtkę, jeśli wychodzisz na zewnątrz.*",
+  "forecast_snippet": "  🕒 *Prognoza na {fc_time}:* {fc_desc} ({fc_temp}°C)",
+  "weather_format": "• **{location_label}**\n  🌤️ Warunki: *{desc}*\n  🌡️ Temp: *{temp}°C* (Odczuwalna *{feels_like}°C*)\n  💧 Wilgotność: *{humidity}%* | 🧭 Ciśnienie: *{pressure} hPa*\n  👀 Widoczność: *{visibility} km* | 💨 Wiatr: *{wind_speed} m/s*\n  🌅 Wschód słońca: *{sunrise_str}* | 🌇 Zachód słońca: *{sunset_str}*",
+  "err_404": "Nie znaleziono lokalizacji. Upewnij się, że pisownia miasta/dzielnicy jest poprawna.",
+  "err_srv": "Nie udało się pobrać danych z serwera pogody (Status: {status}).",
+  "err_conn": "Błąd połączenia z serwerem pogody.",
+  "broadcast_header": "🕒 **Okresowy raport pogodowy (OpenWeather):**",
+  "weather_header": "🌤️ **Aktualne informacje o pogodzie i prognoza:**",
+  "add_success": "Pomyślnie dodano region `{new_city}` do listy monitorowania tego pokoju.",
+  "add_format_err": "Nieprawidłowy format. Użyj: `addweather <miasto/obszar>`",
+  "del_success": "Pomyślnie usunięto region `{target_city}` z listy monitorowania.",
+  "del_format_err": "Nieprawidłowy format. Użyj: `delweather <nazwa_regionu>`",
+  "list_header": "🌍 **Lista monitorowanych regionów pogodowych w tym pokoju:**\n- "
+}

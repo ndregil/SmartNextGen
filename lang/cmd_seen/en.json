@@ -1,0 +1,21 @@
+{
+  "usage_word": "Usage:",
+  "room_only": "Use this command inside a room.",
+  "ago": "{dur} ago",
+  "just_now": "just now",
+  "dur_d": "{n}d",
+  "dur_h": "{n}h",
+  "dur_m": "{n}m",
+  "dur_s": "{n}s",
+  "self": "That's you 😄",
+  "bot": "I'm right here 😄",
+  "online": "👀 {target} is online in this room.",
+  "result": "👀 {target} was last seen {ago} ({date}): {action}.",
+  "act_msg": "sent a message",
+  "act_join": "joined the room",
+  "act_leave": "left the room",
+  "act_rename": "changed nick to {new}",
+  "last_msg": "💬 Last message ({ago}): {msg}",
+  "not_found": "I have never seen {target} in this room.",
+  "maybe": "Did you mean: {names}"
+}

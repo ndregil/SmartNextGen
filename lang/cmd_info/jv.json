@@ -1,0 +1,28 @@
+{
+  "quake_loading": "⏳ Njupuk data gempa paling anyar...",
+  "quake_usgs_fail": "❌ Gagal njupuk data gempa saka server USGS.",
+  "quake_usgs_empty": "🌍 Ora ana laporan gempa global sing signifikan saiki.",
+  "quake_usgs_unknown": "Ora dingerteni",
+  "quake_usgs_result": "🌍 **Informasi Gempa Global Paling Anyar (USGS)**:\n• Magnitudo: {mag}\n• Lokasi: {place}\n• Wektu: {time_str} UTC",
+  
+  "quake_bmkg_fail": "❌ Gagal njupuk data gempa saka server BMKG.",
+  "quake_bmkg_empty": "❌ Format data gempa BMKG ora sah.",
+  "quake_bmkg_no_info": "Ora ana informasi",
+  "quake_bmkg_result": "🇮🇩 **Informasi Gempa Paling Anyar (BMKG Indonesia)**:\n• Wektu: {tanggal} | {jam}\n• Magnitudo: {magnitude} (Jero: {kedalaman})\n• Pusat: {wilayah}\n• Koordinat: {coordinates}\n• Potensi: {potensi}\n• Dirasakake: {dirasakan}\n\n💡 *Tip:* Ketik `earthquake global` utawa `gempa global` kanggo data donya.",
+  
+  "quake_timeout": "❌ Sambungan menyang server data gempa entek wektune (timeout).",
+  "quake_error": "❌ Ana kasalahan nalika njupuk data gempa: {e}",
+
+  "holiday_sat": "🎉 Dina iki **Setu** (Akhir pekan!)",
+  "holiday_sun": "🎉 Dina iki **Minggu** (Libur akhir pekan!)",
+  "holiday_fri": "⚡ Sesuk wis mlebu **Akhir Pekan (Setu)**!",
+  "holiday_approaching": "⏳ Mendekati akhir pekan (Setu) udakara **{days_to_sat} dina maneh**.",
+  
+  "holiday_none": "Durung ana data libur nasional sing bakal teka.",
+  "holiday_info_format": "• Agenda: {name} ({date})\n• Status: ⏳ Sisa **{days} dina maneh**",
+  "holiday_header": "📅 **Informasi Liburan & Akhir Pekan**:\n\n🗓️ **Status Akhir Pekan:**\n{weekend_status}\n\n🏛️ **Libur Nasional Paling Cedhak:**\n{holiday_info}",
+
+  "broadcast_quake_alert": "🚨 **PÈNGET GEMPA ANYAR (BMKG)** 🚨\n• Wektu: {tanggal} | {jam}\n• Magnitudo: {magnitude} (Jero: {kedalaman})\n• Pusat: {wilayah}\n• Koordinat: {coordinates}\n• Potensi: {potensi}",
+  "broadcast_sunday": "🌴 **Sugeng Enjang Minggu!** 🌴\nNglencerake liburan akhir pekan kanthi tentrem, santai, lan kebak rasa seneng bebarengan kulawarga sing ditresnani sadurunge mlebu aktivitas sesuk.",
+  "broadcast_national_holiday": "🏛️🎉 **SUGENG DINA LIBUR NASIONAL!** 🎉🏛️\nDina iki bertepatan karo:\n• **{name}**\n\nSugeng liburan lan moga-moga dina iki nyenengake!"
+}

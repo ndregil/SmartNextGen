@@ -1,0 +1,40 @@
+{
+  "guide_text": "📚 **学习模块使用指南:**\n可用分类: {cat_list}\n• 基础材料: `study [category]`\n• 与 AI 问答: `study [category] [your question]`",
+  "err_category": "❌ 未找到分类 '{category}'！\n可用分类: {cat_list}",
+  "materi_header": "📖 **基础材料 [{category}]:**\n",
+  "materi_tip": "\n\n💡 提示: 想要了解得更深入？请输入: `study {category} [your question]`",
+  "loading_text": "🔍 正在分析关于 **{category}** 的问题，请稍候...",
+  "ai_prompt": "请作为 {category} 领域的专业导师/老师。清晰、有教育意义地深入回答以下问题，如果相关请提供代码示例，并使用清晰易懂的英文：\n\n问题: {question}",
+  "ai_reply_header": "🧠 **解释说明 ({category}):**\n\n{ai_response}",
+  "err_ai": "❌ 对不起，AI 模块未与主机器人正确集成。",
+  "study_python": [
+    "1. 简介:Python 是一种高级解释型编程语言,易读易学。",
+    "2. 变量与数据类型:用变量存储值(例如 x = 10, name = 'Tom')。常见类型:int、float、str、bool。",
+    "3. 分支:使用 if、elif 和 else 语句在程序中做出逻辑判断。"
+  ],
+  "study_kotlin": [
+    "1. 简介:Kotlin 是运行在 JVM 上的现代编程语言,是 Android 的官方开发语言。",
+    "2. 变量:'val' 用于常量(不可变),'var' 用于可修改的变量(可变)。",
+    "3. 函数:使用 'fun' 关键字定义,例如:fun main() { println('Hello Kotlin') }"
+  ],
+  "study_java": [
+    "1. 简介:Java 是一种面向对象(OOP)的编程语言,特点是“一次编写,到处运行”。",
+    "2. 基本结构:每个 Java 程序都需要一个类和主方法 public static void main(String[] args)。",
+    "3. 数据类型:了解基本数据类型,如 int、double、char 和 boolean。"
+  ],
+  "study_matematika": [
+    "1. 基础代数:解一元一次方程,例如 2x + 5 = 15,则 x = 5。",
+    "2. 几何:圆的面积 A = pi * r^2,周长 C = 2 * pi * r。",
+    "3. 分数:分数的加、减、乘、除运算。"
+  ],
+  "study_sains": [
+    "1. 太阳系:太阳是太阳系的中心。最近的行星是水星,最大的是木星。",
+    "2. 光合作用:绿色植物把水、二氧化碳和阳光转化为氧气和葡萄糖的过程。",
+    "3. 物质状态:物质有固态、液态和气态三种主要状态,以及它们之间的相变。"
+  ],
+  "study_inggris": [
+    "1. Greeting & Introduction:问候语如 'Good morning'、'How are you?',以及如何自我介绍。",
+    "2. Simple Present Tense:用于表达习惯或普遍事实(例如:'I go to school every day')。",
+    "3. Pronouns:人称代词 I, You, They, We, He, She, It 及其所有格(my, your, their 等)。"
+  ]
+}

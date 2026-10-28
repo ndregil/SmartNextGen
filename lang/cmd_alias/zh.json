@@ -1,0 +1,17 @@
+{
+  "mod_only": "拒绝访问：此命令仅限房间所有者/管理员/协管员使用。",
+  "owner_only": "拒绝访问：全局命令仅限机器人主人使用。",
+  "room_only": "请在房间内使用此命令。",
+  "usage": "用法：{cmd} [add] <触发词>=<命令 [参数]> | {cmd} del <触发词> | {cmd} list",
+  "bad_trigger": "触发词无效（1-{max} 个字符，不能有空格）。",
+  "conflict": "失败：“{t}”已是命令名称。",
+  "bad_target": "失败：未找到命令“{c}”或不能设为别名。",
+  "limit": "失败：已达到 {max} 个别名上限。",
+  "added": "成功：“{t}”现在执行“{c}”{scope}。",
+  "removed": "成功删除别名“{t}”{scope}。",
+  "not_found": "未找到别名“{t}”{scope}。",
+  "empty": "暂无别名。",
+  "list_title": "别名列表{scope}：",
+  "scope_global": "（全局）",
+  "scope_room": "（本房间）"
+}

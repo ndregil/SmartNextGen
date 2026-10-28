@@ -1,0 +1,18 @@
+{
+  "err_room_only": "Ta komenda może być używana tylko wewnątrz pokoju.",
+  "err_nourl": "W tym pokoju nie zarejestrowano jeszcze żadnego adresu URL RSS. Użyj komendy `addrss <url>`, aby go dodać.",
+  "rss_latest_header": "**📰 Najnowsze wiadomości RSS:**",
+  "rss_source_label": "🔗 *Adres URL źródła:*",
+  "rss_fail_load": "• Nie udało się załadować lub kanał jest pusty.",
+  "broadcast_header": "📰 **Aktualizacja wiadomości RSS ({url}):**",
+  "delrss_success": "Pomyślnie usunięto adres URL RSS:\n{rss_url}",
+  "delrss_format_err": "Nieprawidłowy format. Użyj: delrss <rss_url>",
+  "addrss_success": "Pomyślnie dodano nowy adres URL RSS:\n{rss_url}",
+  "addrss_format_err": "Format: addrss [10m|1h|1d] <url>  (kanał RSS/Atom/JSON lub adres strony; interwał opcjonalny)",
+  "listrss_header": "📋 **Lista adresów URL RSS w tym pokoju:**\n- ",
+  "listrss_empty": "Nie zarejestrowano jeszcze żadnych adresów URL RSS.",
+  "addrss_success_every": "RSS dodano pomyślnie: {rss_url}\n⏱ Najnowsze wiadomości będą wysyłane do grupy co {every}.",
+  "addrss_interval_set": "Harmonogram RSS zmieniono pomyślnie: {rss_url} → wysyłka co {every}.",
+  "addrss_interval_bad": "Nieprawidłowy interwał. Użyj od {min} do {max}, np.: 10m, 1h, 1d.",
+  "rss_scheduled_header": "📰 Cykliczna aktualizacja z {url}"
+}

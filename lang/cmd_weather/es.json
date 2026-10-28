@@ -1,0 +1,21 @@
+{
+  "err_api_key": "WEATHER_API_KEY no está configurada en el archivo de configuración.",
+  "err_room_only": "Este comando solo se puede usar dentro de una sala.",
+  "err_empty_default": "El clima predeterminado está vacío, escribe `weather <nombre_de_ciudad>`",
+  "default_desc": "Nublado",
+  "advice_rain": "  💡 *Consejo: ¡Está lloviendo, no olvides llevar un paraguas o impermeable!*",
+  "advice_hot": "  💡 *Consejo: Hace mucho calor y sol, bebe mucha agua para evitar la deshidratación.*",
+  "advice_cold": "  💡 *Consejo: El clima está bastante frío, ponte una chaqueta si sales.*",
+  "forecast_snippet": "  🕒 *Pronóstico a las {fc_time}:* {fc_desc} ({fc_temp}°C)",
+  "weather_format": "• **{location_label}**\n  🌤️ Condición: *{desc}*\n  🌡️ Temp: *{temp}°C* (Sensación térmica *{feels_like}°C*)\n  💧 Humedad: *{humidity}%* | 🧭 Presión: *{pressure} hPa*\n  👀 Visibilidad: *{visibility} km* | 💨 Viento: *{wind_speed} m/s*\n  🌅 Amanecer: *{sunrise_str}* | 🌇 Atardecer: *{sunset_str}*",
+  "err_404": "Ubicación no encontrada. Asegúrate de que la ortografía de la ciudad/distrito sea correcta.",
+  "err_srv": "Error al obtener datos del servidor meteorológico (Estado: {status}).",
+  "err_conn": "Error de conexión con el servidor meteorológico.",
+  "broadcast_header": "🕒 **Reporte meteorológico periódico (OpenWeather):**",
+  "weather_header": "🌤️ **Información meteorológica actual y pronóstico:**",
+  "add_success": "Se agregó con éxito la región `{new_city}` a la lista de monitoreo de esta sala.",
+  "add_format_err": "Formato inválido. Use: `addweather <ciudad/área>`",
+  "del_success": "Se eliminó con éxito la región `{target_city}` de la lista de monitoreo.",
+  "del_format_err": "Formato inválido. Use: `delweather <nombre_región>`",
+  "list_header": "🌍 **Lista de regiones de monitoreo meteorológico en esta sala:**\n- "
+}

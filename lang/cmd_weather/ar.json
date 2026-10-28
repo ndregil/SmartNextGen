@@ -1,0 +1,29 @@
+{
+  "err_api_key": "WEATHER_API_KEY غير معين في ملف التكوين.",
+  "err_room_only": "لا يمكن استخدام هذا الأمر إلا داخل الغرفة.",
+  "err_empty_default": "طقس الافتراضي فارغ، اكتب `weather <city name>`",
+  "default_desc": "غائم",
+  
+  "advice_rain": "  💡 *نصائح: تمطر الخارج، لا تنسَ إحضار مظلة أو معطف واق من المطر!*",
+  "advice_hot": "  💡 *نصائح: الجو حار ومشمس جداً، اشرب الكثير من الماء لتجنب الجفاف.*",
+  "advice_cold": "  💡 *نصائح: الطقس بارد جداً، ارتدِ سترة إذا خرجت إلى الخارج.*",
+
+  "forecast_snippet": "  🕒 *التوقعات في {fc_time}:* {fc_desc} ({fc_temp}°C)",
+  
+  "weather_format": "• **{location_label}**\n  🌤️ الحالة: *{desc}*\n  🌡️ درجات الحرارة: *{temp}°C* (تشعر وكأنها *{feels_like}°C*)\n  💧 الرطوبة: *{humidity}%* | 🧭 الضغط الجوي: *{pressure} hPa*\n  👀 مدى الرؤية: *{visibility} km* | 💨 الرياح: *{wind_speed} m/s*\n  🌅 شروق الشمس: *{sunrise_str}* | 🌇 غروب الشمس: *{sunset_str}*",
+  
+  "err_404": "الموقع غير موجود. تأكد من صحة هجاء المدينة أو المنطقة.",
+  "err_srv": "فشل جلب البيانات من خادم الطقس (الحالة: {status}).",
+  "err_conn": "خطأ في الاتصال بخادم الطقس.",
+
+  "broadcast_header": "🕒 **تقرير الطقس الدوري (OpenWeather):**",
+  "weather_header": "🌤️ **معلومات الطقس الحالية والتوقعات:**",
+
+  "add_success": "تمت إضافة المنطقة `{new_city}` بنجاح إلى قائمة المراقبة في هذه الغرفة.",
+  "add_format_err": "تنسيق غير صالح. استخدم: `addweather <city/area>`",
+
+  "del_success": "تمت إزالة المنطقة `{target_city}` بنجاح من قائمة المراقبة.",
+  "del_format_err": "تنسيق غير صالح. استخدم: `delweather <region_name>`",
+
+  "list_header": "🌍 **قائمة مناطق مراقبة الطقس في هذه الغرفة:**\n- "
+}

@@ -1,0 +1,28 @@
+{
+  "quake_loading": "⏳ Récupération des dernières données sismiques...",
+  "quake_usgs_fail": "❌ Échec de la récupération des données sismiques du serveur USGS.",
+  "quake_usgs_empty": "🌍 Aucun rapport de séisme mondial significatif pour le moment.",
+  "quake_usgs_unknown": "Inconnu",
+  "quake_usgs_result": "🌍 **Dernières infos sur les séismes mondiaux (USGS)** :\n• Magnitude : {mag}\n• Lieu : {place}\n• Heure : {time_str} UTC",
+  
+  "quake_bmkg_fail": "❌ Échec de la récupération des données sismiques du serveur BMKG.",
+  "quake_bmkg_empty": "❌ Format de données sismiques BMKG invalide.",
+  "quake_bmkg_no_info": "Aucune information",
+  "quake_bmkg_result": "🇮🇩 **Dernières infos sur les séismes (BMKG Indonésie)** :\n• Heure : {tanggal} | {jam}\n• Magnitude : {magnitude} (Profondeur : {kedalaman})\n• Épicentre : {wilayah}\n• Coordonnées : {coordinates}\n• Potentiel : {potensi}\n• Ressenti : {dirasakan}\n\n💡 *Astuce :* Tapez `earthquake global` ou `gempa global` pour les données mondiales.",
+  
+  "quake_timeout": "❌ Délai d'attente dépassé pour la connexion au serveur de données sismiques.",
+  "quake_error": "❌ Une erreur est survenue lors de la récupération des données sismiques : {e}",
+
+  "holiday_sat": "🎉 Aujourd'hui, c'est **samedi** (Week-end !)",
+  "holiday_sun": "🎉 Aujourd'hui, c'est **dimanche** (Jour férié du week-end !)",
+  "holiday_fri": "⚡ Demain, c'est déjà le **week-end (samedi)** !",
+  "holiday_approaching": "⏳ Le week-end (samedi) approche dans environ **{days_to_sat} jours**.",
+  
+  "holiday_none": "Aucune donnée sur les prochains jours fériés nationaux pour le moment.",
+  "holiday_info_format": "• Événement : {name} ({date})\n• Statut : ⏳ Restant **{days} jours restants**",
+  "holiday_header": "📅 **Informations sur les vacances et week-ends** :\n\n🗓️ **Statut du week-end :**\n{weekend_status}\n\n🏛️ **Prochain jour férié national :**\n{holiday_info}",
+
+  "broadcast_quake_alert": "🚨 **NOUVELLE ALERTE SISMIQUE (BMKG)** 🚨\n• Heure : {tanggal} | {jam}\n• Magnitude : {magnitude} (Profondeur : {kedalaman})\n• Épicentre : {wilayah}\n• Coordonnées : {coordinates}\n• Potentiel : {potensi}",
+  "broadcast_sunday": "🌴 **Bonjour Dimanche !** 🌴\nProfitez de votre week-end paisiblement, relaxez-vous et passez une excellente journée en famille avant la reprise des activités demain.",
+  "broadcast_national_holiday": "🏛️🎉 **JOYEUX JOUR FÉRIÉ NATIONAL !** 🎉🏛️\nAujourd'hui coïncide avec :\n• **{name}**\n\nPassez de merveilleuses vacances et une excellente journée !"
+}

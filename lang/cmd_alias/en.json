@@ -1,0 +1,17 @@
+{
+  "mod_only": "Access denied: this command is for room owners/admins/moderators only.",
+  "owner_only": "Access denied: global commands are for the bot owner only.",
+  "room_only": "Use this command inside a room.",
+  "usage": "Usage: {cmd} [add] <trigger>=<command [args]> | {cmd} del <trigger> | {cmd} list",
+  "bad_trigger": "Invalid trigger (1-{max} characters, no spaces).",
+  "conflict": "Failed: '{t}' is already a command name.",
+  "bad_target": "Failed: command '{c}' was not found or cannot be aliased.",
+  "limit": "Failed: limit of {max} aliases reached.",
+  "added": "Successfully set: '{t}' now runs '{c}'{scope}.",
+  "removed": "Successfully removed alias '{t}'{scope}.",
+  "not_found": "Alias '{t}' was not found{scope}.",
+  "empty": "No aliases yet.",
+  "list_title": "Aliases{scope}:",
+  "scope_global": " (global)",
+  "scope_room": " (this room)"
+}

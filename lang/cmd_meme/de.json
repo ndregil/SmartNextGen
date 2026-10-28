@@ -1,0 +1,11 @@
+{
+  "meme_list": "📋 **Meme-Kategorie & Hilfeliste**:\nGib den Befehl im Format ein: `meme <kategorie>`\n\n• `meme dank` (Dank-Memes)\n• `meme meirl` (Nachvollziehbare Memes)\n• `meme wholesome` (Herzerwärmende Memes)\n• `meme programmer` (IT-/Coding-Memes)\n• `meme anime` (Anime-Memes)\n• `meme cats` (Katzen-Memes)\n• `meme gaming` (Gaming-Memes)\n• `meme history` (Geschichts-Memes)\n• `meme science` (Wissenschafts-Memes)\n• `meme tech` (Technologie-Memes)\n• `meme bug` / `error` (Softwarefehler-Memes)\n• `meme comics` (Lustige Comics)\n• `meme random` (Zufällige Memes)\n\n💡 **Verwendungsbeispiele:**\n• `meme programmer`\n• `meme gaming`\n• `meme random`",
+  "meme_loading": "⏳ Bereite '{display_name}'-Meme vor...",
+  "meme_no_title": "Kein Titel",
+  "meme_err_url": "❌ Abrufen der Meme-Bild-URL fehlgeschlagen.",
+  "meme_err_dl": "❌ Herunterladen der Bilddatei fehlgeschlagen.",
+  "meme_err_upload": "❌ Abrufen der Server-Upload-URL fehlgeschlagen.",
+  "meme_err_plugin": "❌ HTTP-File-Upload-Plugin (xep_0363) ist nicht verfügbar.",
+  "meme_timeout": "❌ Zeitüberschreitung der Verbindung.",
+  "meme_error": "❌ Systemfehler aufgetreten: {e}"
+}

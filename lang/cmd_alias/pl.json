@@ -1,0 +1,17 @@
+{
+  "mod_only": "Odmowa dostępu: to polecenie jest tylko dla właścicieli/adminów/moderatorów pokoju.",
+  "owner_only": "Odmowa dostępu: polecenia globalne są tylko dla właściciela bota.",
+  "room_only": "Użyj tego polecenia w pokoju.",
+  "usage": "Użycie: {cmd} [add] <wyzwalacz>=<polecenie [argumenty]> | {cmd} del <wyzwalacz> | {cmd} list",
+  "bad_trigger": "Nieprawidłowy wyzwalacz (1-{max} znaków, bez spacji).",
+  "conflict": "Nie udało się: „{t}” jest już nazwą polecenia.",
+  "bad_target": "Nie udało się: nie znaleziono polecenia „{c}” lub nie można nadać mu aliasu.",
+  "limit": "Nie udało się: osiągnięto limit {max} aliasów.",
+  "added": "Pomyślnie: „{t}” teraz uruchamia „{c}”{scope}.",
+  "removed": "Pomyślnie usunięto alias „{t}”{scope}.",
+  "not_found": "Nie znaleziono aliasu „{t}”{scope}.",
+  "empty": "Brak aliasów.",
+  "list_title": "Aliasy{scope}:",
+  "scope_global": " (globalny)",
+  "scope_room": " (ten pokój)"
+}

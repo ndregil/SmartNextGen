@@ -1,0 +1,11 @@
+{
+  "meme_list": "📋 **Elenco Categorie e Aiuto Meme**:\nDigita il comando con il formato: `meme <categoria>`\n\n• `meme dank` (Meme dank)\n• `meme meirl` (Meme relazionabili)\n• `meme wholesome` (Meme dolci/positivi)\n• `meme programmer` (Meme IT/programmazione)\n• `meme anime` (Meme anime)\n• `meme cats` (Meme di gatti)\n• `meme gaming` (Meme di giochi)\n• `meme history` (Meme di storia)\n• `meme science` (Meme di scienza)\n• `meme tech` (Meme di tecnologia)\n• `meme bug` / `error` (Meme di errori software)\n• `meme comics` (Fumetti divertenti)\n• `meme random` (Meme casuali)\n\n💡 **Esempi d'uso:**\n• `meme programmer`\n• `meme gaming`\n• `meme random`",
+  "meme_loading": "⏳ Preparazione del meme '{display_name}' in corso...",
+  "meme_no_title": "Senza titolo",
+  "meme_err_url": "❌ Impossibile ottenere l'URL dell'immagine del meme.",
+  "meme_err_dl": "❌ Impossibile scaricare il file immagine.",
+  "meme_err_upload": "❌ Impossibile ottenere l'URL di caricamento dal server.",
+  "meme_err_plugin": "❌ Il plugin HTTP File Upload (xep_0363) non è disponibile.",
+  "meme_timeout": "❌ Connessione scaduta (timeout).",
+  "meme_error": "❌ Si è verificato un errore di sistema: {e}"
+}

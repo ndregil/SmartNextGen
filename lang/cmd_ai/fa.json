@@ -1,0 +1,22 @@
+{
+  "cat_owner": "👑 مالک ربات",
+  "cat_admin": "💎 مدیر و مالک گروه",
+  "ai_off_room_only": "این دستور فقط در داخل یک اتاق قابل استفاده است.",
+  "ai_off_success": "پاسخ هوش مصنوعی در این اتاق غیرفعال شد.",
+  "ai_on_success": "پاسخ هوش مصنوعی در این اتاق دوباره فعال شد.",
+  "ai_off_global_success": "پاسخ هوش مصنوعی به صورت سراسری غیرفعال شد.",
+  "ai_on_global_success": "پاسخ هوش مصنوعی به صورت سراسری دوباره فعال شد.",
+  "aiprovider_success": "ارائه‌دهنده اصلی تغییر یافت به: {provider}\nنقطه پایانی: {endpoint}\nمدل فعال: {model}",
+  "aiprovider_invalid": "ارائه‌دهنده نامعتبر است! گزینه‌ها:\n- {providers}",
+  "aiprovider_info": "ارائه‌دهنده فعال: {provider}\nنقطه پایانی HTTP: {endpoint}\nمدل فعلی: {model}\n\nگزینه‌های ارائه‌دهنده:\n- {providers}",
+  "aimodel_success": "مدل هوش مصنوعی [{provider}] تغییر یافت به: {model}",
+  "aimodel_invalid": "مدل نامعتبر برای ارائه‌دهنده {provider}! گزینه‌ها:\n- {models}",
+  "aimodel_info": "ارائه‌دهنده فعال: {provider} ({endpoint})\nمدل اصلی فعلی: {model}\n\nفهرست مدل‌ها:\n- {models}",
+  "all_ai_fail": "متأسفانه، تمام ارائه‌دهندگان هوش مصنوعی در حال حاضر با مشکل مواجه هستند (خطا: {error}).",
+  "image_refused": "متأسفم، نمی‌توانم این تصویر را پردازش کنم.",
+  "ai_confirm_prompt": "📋 اجرا شود: {cmds}؟ برای تأیید یا لغو پاسخ دهید ({sec} ثانیه).",
+  "ai_confirm_cancel": "باشه، لغو شد.",
+  "ai_ambiguous_nick": "چند نام شبیه «{name}» هستند: {options}. کدام؟",
+  "ai_need_room": "کدام اتاق؟ لطفاً JID اتاق را بنویسید (مثال: name@conference.server.com).",
+  "ai_not_understood": "هوم، کامل متوجه نشدم. می‌توانید طور دیگری بگویید؟"
+}

@@ -1,0 +1,10 @@
+{
+  "wrong_format": "Wrong format. Use: www <url> (Example: www google.com)",
+  "accessing": "🔍 Accessing {url}...",
+  "no_content": "(Page accessed successfully, but no text content was found.)",
+  "truncated_notice": "\n\n[✂️ Text truncated because it is too long]",
+  "output_title": "🌐 **Web Reader ({url}):**\n\n{text}",
+  "err_timeout": "Failed to load web: Request timeout while accessing {url}.",
+  "err_http": "Failed to load web: Server responded with error {err}.",
+  "err_general": "Failed to access web page: {error}"
+}

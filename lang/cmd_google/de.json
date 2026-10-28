@@ -1,0 +1,17 @@
+{
+  "tr_format_error": "Falsches Format. Verwenden Sie: tr <sprach_code> <text> (Beispiel: tr id guten morgen)",
+  "tr_success": "🌐 **Übersetzung (➔ {target_lang}):**\n\"{translated_text}\"",
+  "tr_failed_text": "Übersetzungsergebnis konnte nicht abgerufen werden.",
+  "tr_failed_conn": "Verbindung zum Übersetzungsdienst fehlgeschlagen (Status: {status}).",
+  "tr_error": "Bei der Verarbeitung der Übersetzung ist ein Fehler aufgetreten.",
+  
+  "google_format_error": "Falsches Format. Verwenden Sie: google <suchbegriff>",
+  "google_result_msg": "🔍 **Google-Suche:**\nSuchergebnisse für: *{query}*\n\n📌 **[{title}]({link})**\n📝 *{snippet}*\n\n🔗 Alle auf Google ansehen: {google_url}",
+  "google_no_snippet_msg": "🔍 **Google-Suche:**\nSuchergebnisse für: *{query}*\n🔗 Google öffnen: {google_url}",
+
+  "maps_format_error": "Falsches Format. Verwenden Sie: maps <ortname>",
+  "maps_msg": "🗺️ **Google Maps:**\nStandort für: *{place}*\n🔗 Karte öffnen: {maps_url}",
+
+  "yt_format_error": "Falsches Format. Verwenden Sie: youtube <videotitel>",
+  "yt_msg": "📺 **YouTube-Suche:**\nSuchergebnisse für: *{query}*\n🔗 Zum Ansehen klicken: {yt_search_url}"
+}

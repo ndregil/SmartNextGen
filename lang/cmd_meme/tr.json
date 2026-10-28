@@ -1,0 +1,11 @@
+{
+  "meme_list": "📋 **Meme Kategorisi ve Yardım Listesi**:\nKomutu şu formatta yazın: `meme <kategori>`\n\n• `meme dank` (Dank memeler)\n• `meme meirl` (İlişkilendirilebilir memeler)\n• `meme wholesome` (Samimi/Tatlı memeler)\n• `meme programmer` (BT/Kodlama memeleri)\n• `meme anime` (Anime memeleri)\n• `meme cats` (Kedi memeleri)\n• `meme gaming` (Oyun memeleri)\n• `meme history` (Tarih memeleri)\n• `meme science` (Bilim memeleri)\n• `meme tech` (Teknoloji memeleri)\n• `meme bug` / `error` (Yazılım hata memeleri)\n• `meme comics` (Komik çizgi romanlar)\n• `meme random` (Rastgele memeler)\n\n💡 **Kullanım Örnekleri:**\n• `meme programmer`\n• `meme gaming`\n• `meme random`",
+  "meme_loading": "⏳ '{display_name}' memesi hazırlanıyor...",
+  "meme_no_title": "Başlıksız",
+  "meme_err_url": "❌ Meme görseli URL'si alınamadı.",
+  "meme_err_dl": "❌ Görsel dosyası indirilemedi.",
+  "meme_err_upload": "❌ Sunucu yükleme URL'si alınamadı.",
+  "meme_err_plugin": "❌ HTTP Dosya Yükleme (xep_0363) eklentisi mevcut değil.",
+  "meme_timeout": "❌ Bağlantı zaman aşımına uğradı.",
+  "meme_error": "❌ Sistem hatası oluştu: {e}"
+}

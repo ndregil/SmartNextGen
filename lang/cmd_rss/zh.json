@@ -1,0 +1,18 @@
+{
+  "err_room_only": "此命令只能在聊天室内部使用。",
+  "err_nourl": "此聊天室尚未注册 RSS 链接。请使用 `addrss <url>` 命令添加。",
+  "rss_latest_header": "**📰 最新 RSS 新闻:**",
+  "rss_source_label": "🔗 *来源链接:*",
+  "rss_fail_load": "• 加载失败或订阅源为空。",
+  "broadcast_header": "📰 **RSS 新闻更新 ({url}):**",
+  "delrss_success": "已成功删除 RSS 链接:\n{rss_url}",
+  "delrss_format_err": "格式错误。使用方法: delrss <rss_url>",
+  "addrss_success": "已成功添加新 RSS 链接:\n{rss_url}",
+  "addrss_format_err": "格式：addrss [10m|1h|1d] <url>  （RSS/Atom/JSON Feed 或网站地址；间隔可选）",
+  "listrss_header": "📋 **此聊天室中的 RSS 链接列表:**\n- ",
+  "listrss_empty": "尚未注册任何 RSS 链接。",
+  "addrss_success_every": "RSS 添加成功：{rss_url}\n⏱ 将每 {every} 向群组发送最新新闻。",
+  "addrss_interval_set": "RSS 发送计划修改成功：{rss_url} → 每 {every} 发送一次。",
+  "addrss_interval_bad": "间隔无效。请使用 {min} 到 {max}，例如：10m、1h、1d。",
+  "rss_scheduled_header": "📰 来自 {url} 的定时推送"
+}

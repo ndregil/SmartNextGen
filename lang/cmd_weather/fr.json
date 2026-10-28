@@ -1,0 +1,29 @@
+{
+  "err_api_key": "WEATHER_API_KEY n'est pas défini dans le fichier de configuration.",
+  "err_room_only": "Cette commande ne peut être utilisée que dans un salon.",
+  "err_empty_default": "La météo par défaut est vide, tapez `weather <nom_de_ville>`",
+  "default_desc": "Nuageux",
+  
+  "advice_rain": "  💡 *Conseils : Il pleut, n'oubliez pas d'apporter un parapluie ou un imperméable !*",
+  "advice_hot": "  💡 *Conseils : Très chaud et ensoleillé, buvez beaucoup d'eau pour éviter la déshydratation.*",
+  "advice_cold": "  💡 *Conseils : Le temps est assez froid, portez une veste si vous sortez.*",
+
+  "forecast_snippet": "  🕒 *Prévisions à {fc_time} :* {fc_desc} ({fc_temp}°C)",
+  
+  "weather_format": "• **{location_label}**\n  🌤️ Condition : *{desc}*\n  🌡️ Temp : *{temp}°C* (Ressentie *{feels_like}°C*)\n  💧 Humidité : *{humidity}%* | 🧭 Pression : *{pressure} hPa*\n  👀 Visibilité : *{visibility} km* | 💨 Vent : *{wind_speed} m/s*\n  🌅 Lever du soleil : *{sunrise_str}* | 🌇 Coucher du soleil : *{sunset_str}*",
+  
+  "err_404": "Lieu introuvable. Assurez-vous que l'orthographe de la ville/du quartier est correcte.",
+  "err_srv": "Échec de la récupération des données du serveur météo (Statut : {status}).",
+  "err_conn": "Erreur de connexion au serveur météo.",
+
+  "broadcast_header": "🕒 **Bulletin météo périodique (OpenWeather) :**",
+  "weather_header": "🌤️ **Informations météo actuelles et prévisions :**",
+
+  "add_success": "La région `{new_city}` a été ajoutée avec succès à la liste de surveillance de ce salon.",
+  "add_format_err": "Format invalide. Utilisez : `addweather <ville/zone>`",
+
+  "del_success": "La région `{target_city}` a été supprimée avec succès de la liste de surveillance.",
+  "del_format_err": "Format invalide. Utilisez : `delweather <nom_de_région>`",
+
+  "list_header": "🌍 **Liste des régions surveillées pour la météo dans ce salon :**\n- "
+}

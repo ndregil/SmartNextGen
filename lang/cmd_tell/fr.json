@@ -1,0 +1,21 @@
+{
+  "usage_word": "Utilisation :",
+  "room_only": "Utilisez cette commande dans un salon.",
+  "ago": "il y a {dur}",
+  "just_now": "à l'instant",
+  "dur_d": "{n} j",
+  "dur_h": "{n} h",
+  "dur_m": "{n} min",
+  "dur_s": "{n} s",
+  "self": "Vous ne pouvez pas vous laisser un message à vous-même.",
+  "bot": "Je suis là, parlez-moi directement 😄",
+  "too_long": "Message trop long ({max} caractères max).",
+  "limit_target": "{target} a déjà {max} messages en attente, réessayez plus tard.",
+  "limit_user": "Vous avez déjà {max} messages non distribués.",
+  "cooldown": "Patientez un instant avant de laisser un autre message.",
+  "saved": "D'accord, je transmettrai le message à {target} dès son retour.",
+  "header": "📨 {nick}, vous avez {count} message(s) :",
+  "item": "• de {from_nick} ({ago}) : {text}",
+  "untell_done": "{count} message(s) pour {target} annulé(s).",
+  "untell_none": "Vous n'avez aucun message en attente pour {target}."
+}

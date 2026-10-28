@@ -1,0 +1,29 @@
+{
+  "err_api_key": "WEATHER_API_KEY ist in der Konfigurationsdatei nicht festgelegt.",
+  "err_room_only": "Dieser Befehl kann nur innerhalb eines Raumes verwendet werden.",
+  "err_empty_default": "Standard-Wetter ist leer, tippe `weather <stadtname>`",
+  "default_desc": "Wolkig",
+  
+  "advice_rain": "  💡 *Tipps: Es regnet, vergiss nicht, einen Regenschirm oder Regenmantel mitzunehmen!*",
+  "advice_hot": "  💡 *Tipps: Sehr heiß und sonnig, trinke viel Wasser, um Dehydration zu vermeiden.*",
+  "advice_cold": "  💡 *Tipps: Das Wetter ist ziemlich kalt, zieh eine Jacke an, wenn du nach draußen gehst.*",
+
+  "forecast_snippet": "  🕒 *Vorhersage um {fc_time}:* {fc_desc} ({fc_temp}°C)",
+  
+  "weather_format": "• **{location_label}**\n  🌤️ Zustand: *{desc}*\n  🌡️ Temp: *{temp}°C* (Gefühlt wie *{feels_like}°C*)\n  💧 Luftfeuchtigkeit: *{humidity}%* | 🧭 Luftdruck: *{pressure} hPa*\n  👀 Sichtweite: *{visibility} km* | 💨 Wind: *{wind_speed} m/s*\n  🌅 Sonnenaufgang: *{sunrise_str}* | 🌇 Sonnenuntergang: *{sunset_str}*",
+  
+  "err_404": "Ort nicht gefunden. Stelle sicher, dass die Schreibweise der Stadt/des Bezirks korrekt ist.",
+  "err_srv": "Abrufen der Daten vom Wetterserver fehlgeschlagen (Status: {status}).",
+  "err_conn": "Verbindungsfehler zum Wetterserver.",
+
+  "broadcast_header": "🕒 **Regelmäßiger Wetterbericht (OpenWeather):**",
+  "weather_header": "🌤️ **Aktuelle Wetterinformationen & Vorhersage:**",
+
+  "add_success": "Region `{new_city}` erfolgreich zur Überwachungsliste dieses Raumes hinzugefügt.",
+  "add_format_err": "Ungültiges Format. Verwende: `addweather <stadt/gebiet>`",
+
+  "del_success": "Region `{target_city}` erfolgreich von der Überwachungsliste entfernt.",
+  "del_format_err": "Ungültiges Format. Verwende: `delweather <regions_name>`",
+
+  "list_header": "🌍 **Liste der überwachten Wetterregionen in diesem Raum:**\n- "
+}

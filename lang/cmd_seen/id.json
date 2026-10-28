@@ -1,0 +1,21 @@
+{
+  "usage_word": "Pemakaian:",
+  "room_only": "Gunakan perintah ini di dalam room.",
+  "ago": "{dur} yang lalu",
+  "just_now": "baru saja",
+  "dur_d": "{n} hari",
+  "dur_h": "{n} jam",
+  "dur_m": "{n} mnt",
+  "dur_s": "{n} dtk",
+  "self": "Itu kamu sendiri 😄",
+  "bot": "Aku ada di sini kok 😄",
+  "online": "👀 {target} sedang online di room ini.",
+  "result": "👀 {target} terakhir terlihat {ago} ({date}): {action}.",
+  "act_msg": "mengirim pesan",
+  "act_join": "masuk ke room",
+  "act_leave": "keluar dari room",
+  "act_rename": "ganti nick menjadi {new}",
+  "last_msg": "💬 Pesan terakhir ({ago}): {msg}",
+  "not_found": "Belum pernah melihat {target} di room ini.",
+  "maybe": "Mungkin maksud Anda: {names}"
+}

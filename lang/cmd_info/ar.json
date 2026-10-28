@@ -1,0 +1,28 @@
+{
+  "quake_loading": "⏳ جاري جلب أحدث بيانات الزلازل...",
+  "quake_usgs_fail": "❌فشل جلب بيانات الزلازل من خادم USGS.",
+  "quake_usgs_empty": "🌍 لا توجد تقارير زلازل عالمية مهمة في الوقت الحالي.",
+  "quake_usgs_unknown": "غير معروف",
+  "quake_usgs_result": "🌍 **أحدث معلومات الزلازل العالمية (USGS)**:\n• قوة الزلزال (Magnitude): {mag}\n• الموقع: {place}\n• الوقت: {time_str} UTC",
+  
+  "quake_bmkg_fail": "❌ فشل جلب بيانات الزلازل من خادم BMKG.",
+  "quake_bmkg_empty": "❌ تنسيق بيانات زلازل BMKG غير صالح.",
+  "quake_bmkg_no_info": "لا توجد معلومات",
+  "quake_bmkg_result": "🇮🇩 **أحدث معلومات الزلازل (BMKG إندونيسيا)**:\n• الوقت: {tanggal} | {jam}\n• القوة: {magnitude} (العمق: {kedalaman})\n• المركز: {wilayah}\n• الإحداثيات: {coordinates}\n• الاحتمالية: {potensi}\n• شعور السكان: {dirasakan}\n\n💡 *تلميح:* اكتب `earthquake global` أو `gempa global` لبيانات العالم.",
+  
+  "quake_timeout": "❌ انتهت مهلة الاتصال بخادم بيانات الزلازل.",
+  "quake_error": "❌ حدث خطأ أثناء جلب بيانات الزلازل: {e}",
+
+  "holiday_sat": "🎉 اليوم هو **السبت** (عطلة نهاية الأسبوع!)",
+  "holiday_sun": "🎉 اليوم هو **الأحد** (عطلة نهاية الأسبوع!)",
+  "holiday_fri": "⚡ غداً هو بالفعل **عطلة نهاية الأسبوع (السبت)**!",
+  "holiday_approaching": "⏳ يقترب موعد عطلة نهاية الأسبوع (السبت) خلال حوالي **{days_to_sat} أيام**.",
+  
+  "holiday_none": "لا توجد بيانات للعطلات الرسمية القادمة بعد.",
+  "holiday_info_format": "• المناسبة: {name} ({date})\n• الحالة: ⏳ المتبقي **{days} أيام**",
+  "holiday_header": "📅 **معلومات العطلات وعطلة نهاية الأسبوع**:\n\n🗓️ **حالة نهاية الأسبوع:**\n{weekend_status}\n\n🏛️ **أقرب عطلة رسمية:**\n{holiday_info}",
+
+  "broadcast_quake_alert": "🚨 **تحذير زلزال جديد (BMKG)** 🚨\n• الوقت: {tanggal} | {jam}\n• القوة: {magnitude} (العمق: {kedalaman})\n• المركز: {wilayah}\n• الإحداثيات: {coordinates}\n• الاحتمالية: {potensi}",
+  "broadcast_sunday": "🌴 **صباح الخير يوم الأحد!** 🌴\nاستمتع بعطلة نهاية أسبوعك بهدوء واسترخاء وبسعادة كاملة مع عائلتك الحبيبة قبل استئناف الأنشطة غداً.",
+  "broadcast_national_holiday": "🏛️🎉 **عطلة رسمية سعيدة!** 🎉🏛️\nيتزامن اليوم مع:\n• **{name}**\n\nأتمنى لك عطلة رائعة ويماً عظيماً!"
+}

@@ -1,0 +1,40 @@
+{
+  "guide_text": "📚 **Pandhuan Panggunaan Modul Sinau:**\nKategori sing kasedhiya: {cat_list}\n• Materi Pokok: `study [kategori]`\n• Tanya Jawab karo AI: `study [kategori] [pitakonamu]`",
+  "err_category": "❌ Kategori '{category}' ora ditemokake!\nKategori sing kasedhiya: {cat_list}",
+  "materi_header": "📖 **Materi Pokok [{category}]:**\n",
+  "materi_tip": "\n\n💡 Tip: Pengin takon luwih jero? Ketik: `study {category} [pitakonamu]`",
+  "loading_text": "🔍 Lagi nganalisis pitakon babagan **{category}**, tulung ngenteni sedhela...",
+  "ai_prompt": "Tindakna minangka tutor/guru ahli ing bidang {category}. Wangsulana pitakon ing ngisor iki kanthi jero, cetha, edukatif, wenehana conto kode yen cocog, lan gunakake basa Inggris sing cetha lan gampang dingerteni:\n\nPitakon: {question}",
+  "ai_reply_header": "🧠 **Katrangan ({category}):**\n\n{ai_response}",
+  "err_ai": "❌ Nuwun sewu, modul AI durung terintegrasi kanthi bener karo bot utama.",
+  "study_python": [
+    "1. Pengenalan: Python iku basa pamrograman interpreter tingkat dhuwur sing gampang diwaca lan disinaoni.",
+    "2. Variabel & Jinis Data: Nyimpen nilai nganggo variabel (conto: x = 10, jeneng = 'Budi'). Jinis data umum: int, float, str, bool.",
+    "3. Cabang: Nganggo if, elif, lan else kanggo gawe keputusan logika ing kode program."
+  ],
+  "study_kotlin": [
+    "1. Pengenalan: Kotlin iku basa pamrograman modern sing mlaku ing JVM lan resmi kanggo Android.",
+    "2. Variabel: Nganggo 'val' kanggo konstanta (ora bisa owah) lan 'var' kanggo variabel sing bisa diowahi.",
+    "3. Fungsi: Ditetepake nganggo tembung kunci 'fun', conto: fun main() { println('Halo Kotlin') }"
+  ],
+  "study_java": [
+    "1. Pengenalan: Java iku basa pamrograman berorientasi objek (OOP) kanthi prinsip 'Write Once, Run Anywhere'.",
+    "2. Struktur Dasar: Saben program Java kudu nduwe class lan fungsi utama public static void main(String[] args).",
+    "3. Jinis Data: Jinis data primitif kayata int, double, char, lan boolean."
+  ],
+  "study_matematika": [
+    "1. Aljabar Dasar: Ngrampungake persamaan linear siji variabel, conto: 2x + 5 = 15, dadi x = 5.",
+    "2. Geometri: Rumus jembar bunderan yaiku L = pi * r^2, lan kelilingé K = 2 * pi * r.",
+    "3. Pecahan: Operasi tambah, kurang, kali, lan bagi ing wilangan pecahan."
+  ],
+  "study_sains": [
+    "1. Tata Surya: Srengéngé iku pusat tata surya. Planet paling cedhak yaiku Merkurius, lan paling gedhé yaiku Jupiter.",
+    "2. Fotosintesis: Proses tanduran ijo ngowahi banyu, karbondioksida, lan cahya srengéngé dadi oksigen lan glukosa.",
+    "3. Wujud Barang: Telung wujud utama yaiku padhet, cair, lan gas, sarta owah-owahané."
+  ],
+  "study_inggris": [
+    "1. Greeting & Introduction: Ukara salam kayata 'Good morning', 'How are you?', lan cara ngenalake awak dhewe.",
+    "2. Simple Present Tense: Dienggo kanggo pakulinan utawa kasunyatan umum (Conto: 'I go to school every day').",
+    "3. Pronouns: Tembung gantos wong kayata I, You, They, We, He, She, It sarta kepunyaané (my, your, their, lsp)."
+  ]
+}

@@ -1,0 +1,47 @@
+JID = bot_1@server.com
+PASSWORD = ******
+# If you enable multi jid, use default nick which are not similar.
+DEFAULT_NICK = SmartNG.1
+
+# if you want to activate multiple jids, Remove the hash mark on JID2, PASSWORD2, DEFAULT_NICK2.
+#JID2 = bot_2@server.com
+#PASSWORD2 = ******
+#DEFAULT_NICK2 = SmartNG.2
+
+# if you want to activate multiple jids, Remove the hash mark on JID3, PASSWORD3, DEFAULT_NICK3.
+#JID3 = bot_3@server.com
+#PASSWORD3 = ******
+#DEFAULT_NICK3 = SmartNG.3
+
+RESOURCE = SmartNG
+
+# Can use: online|chat|away|xa|dnd <your status>
+DEFAULT_STATUS = online Type "help"
+
+# Initial room list (separate with commas if more than one)
+DEFAULT_ROOMS = default_room@conference.server.com, default_room2@conference.server.com
+
+# Initial room list (separate with commas if more than one)
+DEFAULT_OWNERS = admin_1@server.com, admin_1@server.com
+
+# Default Lang Bot ( Available: en, id, ru, de, fr, ar, hi, zh, jv)
+DEFAULT_LANG = en
+
+# Create Gemini API Key at: https://aistudio.google.com/api-keys
+GEMINI_API_KEY = your_gemini_api_key
+
+# Create Groq API Key at: https://console.groq.com
+GROQ_API_KEY = your_groq_api_key
+
+# Create OpenRouter API Key at: https://openrouter.ai/keys
+OPENROUTER_API_KEY = your_openrouter_api_key
+
+# Create Mistral API Key at: https://console.mistral.ai/api-keys
+MISTRAL_API_KEY = your_mistral_api_key
+
+# Create API Key Weather Information at: https://home.openweathermap.org/api_keys
+WEATHER_API_KEY = your_weather_api_key
+
+USE_IPV6=off
+STREAM_MANAGEMENT=on
+DEBUG_XMPP=off 

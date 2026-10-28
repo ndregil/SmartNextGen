@@ -1,0 +1,11 @@
+{
+  "meme_list": "📋 **表情包分类与帮助列表**:\n请使用以下格式输入命令: `meme <category>`\n\n• `meme dank` (恶搞/Dank 表情包)\n• `meme meirl` (真实写照表情包)\n• `meme wholesome` (治愈系表情包)\n• `meme programmer` (IT/编程表情包)\n• `meme anime` (动漫表情包)\n• `meme cats` (猫咪表情包)\n• `meme gaming` (游戏表情包)\n• `meme history` (历史表情包)\n• `meme science` (科学表情包)\n• `meme tech` (科技表情包)\n• `meme bug` / `error` (软件报错表情包)\n• `meme comics` (搞笑漫画)\n• `meme random` (随机表情包)\n\n💡 **使用示例:**\n• `meme programmer`\n• `meme gaming`\n• `meme random`",
+  "meme_loading": "⏳ 正在准备 '{display_name}' 表情包...",
+  "meme_no_title": "无标题",
+  "meme_err_url": "❌ 获取表情包图片链接失败。",
+  "meme_err_dl": "❌ 下载图片文件失败。",
+  "meme_err_upload": "❌ 获取服务器上传链接失败。",
+  "meme_err_plugin": "❌ HTTP 文件上传插件 (xep_0363) 不可用。",
+  "meme_timeout": "❌ 连接超时。",
+  "meme_error": "❌ 发生系统错误: {e}"
+}

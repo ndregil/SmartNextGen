@@ -1,0 +1,28 @@
+{
+  "quake_loading": "⏳ नवीनतम भूकंप डेटा प्राप्त किया जा रहा है...",
+  "quake_usgs_fail": "❌ USGS सर्वर से भूकंप डेटा प्राप्त करने में विफल।",
+  "quake_usgs_empty": "🌍 इस समय कोई महत्वपूर्ण वैश्विक भूकंप रिपोर्ट नहीं है।",
+  "quake_usgs_unknown": "अज्ञात",
+  "quake_usgs_result": "🌍 **नवीनतम वैश्विक भूकंप जानकारी (USGS)**:\n• परिमाण (Magnitude): {mag}\n• स्थान: {place}\n• समय: {time_str} UTC",
+  
+  "quake_bmkg_fail": "❌ BMKG सर्वर से भूकंप डेटा प्राप्त करने में विफल।",
+  "quake_bmkg_empty": "❌ अमान्य BMKG भूकंप डेटा प्रारूप।",
+  "quake_bmkg_no_info": "कोई जानकारी नहीं",
+  "quake_bmkg_result": "🇮🇩 **नवीनतम भूकंप जानकारी (BMKG इंडोनेशिया)**:\n• समय: {tanggal} | {jam}\n• परिमाण: {magnitude} (गहरााई: {kedalaman})\n• केंद्र: {wilayah}\n• निर्देशांक (Coordinates): {coordinates}\n• संभावना: {potensi}\n• महसूस किया गया: {dirasakan}\n\n💡 *सुझाव:* विश्व डेटा के लिए `earthquake global` या `gempa global` टाइप करें।",
+  
+  "quake_timeout": "❌ भूकंप डेटा सर्वर से कनेक्शन का समय समाप्त (Timeout) हो गया।",
+  "quake_error": "❌ भूकंप डेटा प्राप्त करते समय एक त्रुटि आई: {e}",
+
+  "holiday_sat": "🎉 आज **शनिवार** है (सप्ताहांत / Weekend!)",
+  "holiday_sun": "🎉 आज **रविवार** है (सप्ताहांत की छुट्टी!)",
+  "holiday_fri": "⚡ कल ही **सप्ताहांत (शनिवार)** है!",
+  "holiday_approaching": "⏳ लगभग **{days_to_sat} दिनों में** सप्ताहांत (शनिवार) आने वाला है।",
+  
+  "holiday_none": "अभी कोई आगामी राष्ट्रीय अवकाश डेटा नहीं है।",
+  "holiday_info_format": "• एजेंडा: {name} ({date})\n• स्थिति: ⏳ शेष **{days} दिन बचे हैं**",
+  "holiday_header": "📅 **छुट्टी और सप्ताहांत की जानकारी**:\n\n🗓️ **सप्ताहांत की स्थिति:**\n{weekend_status}\n\n🏛️ **निकटतम राष्ट्रीय अवकाश:**\n{holiday_info}",
+
+  "broadcast_quake_alert": "🚨 **नया भूकंप चेतावनी (BMKG)** 🚨\n• समय: {tanggal} | {jam}\n• परिमाण: {magnitude} (गहराई: {kedalaman})\n• केंद्र: {wilayah}\n• निर्देशांक: {coordinates}\n• संभावना: {potensi}",
+  "broadcast_sunday": "🌴 **रविवार की सुप्रभात!** 🌴\nकल फिर से गतिविधियाँ शुरू करने से पहले अपने प्यारे परिवार के साथ शांतिपूर्वक, आराम से और पूरी खुशी के साथ अपनी सप्ताहांत की छुट्टी का आनंद लें।",
+  "broadcast_national_holiday": "🏛️🎉 **राष्ट्रीय अवकाश की शुभकामनाएँ!** 🎉🏛️\nआज इसके साथ मेल खाता है:\n• **{name}**\n\nआपकी छुट्टी शानदार हो और आपका दिन बहुत अच्छा गुजरे!"
+}

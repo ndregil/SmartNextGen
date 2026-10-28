@@ -1,0 +1,40 @@
+{
+  "guide_text": "📚 **Przewodnik korzystania z modułu nauki:**\nDostępne kategorie: {cat_list}\n• Materiał podstawowy: `study [kategoria]`\n• Pytania i odpowiedzi z AI: `study [kategoria] [twoje pytanie]`",
+  "err_category": "❌ Nie znaleziono kategorii '{category}'!\nDostępne kategorie: {cat_list}",
+  "materi_header": "📖 **Materiał podstawowy [{category}]:**\n",
+  "materi_tip": "\n\n💡 Wskazówka: Chcesz zapytać głębiej? Wpisz: `study {category} [twoje pytanie]`",
+  "loading_text": "🔍 Analizowanie pytania dotyczącego **{category}**, proszę czekać...",
+  "ai_prompt": "Proszę zachowywać się jak doświadczony korepetytor/nauczyciel w dziedzinie {category}. Odpowiedz na poniższe pogłębione pytanie w sposób jasny, edukacyjny, podaj przykłady kodu, jeśli są istotne, oraz używaj jasnego i łatwego do zrozumienia języka angielskiego:\n\nPytanie: {question}",
+  "ai_reply_header": "🧠 **Wyjaśnienie ({category}):**\n\n{ai_response}",
+  "err_ai": "❌ Przepraszamy, moduł AI nie jest poprawnie zintegrowany z głównym botem.",
+  "study_python": [
+    "1. Wprowadzenie: Python to wysokopoziomowy, interpretowany język programowania, łatwy do czytania i nauki.",
+    "2. Zmienne i typy danych: Wartości przechowuje się w zmiennych (np. x = 10, imie = 'Jan'). Typowe typy: int, float, str, bool.",
+    "3. Rozgałęzienia: Instrukcje if, elif i else służą do podejmowania logicznych decyzji w kodzie."
+  ],
+  "study_kotlin": [
+    "1. Wprowadzenie: Kotlin to nowoczesny język działający na JVM, oficjalny dla Androida.",
+    "2. Zmienne: 'val' dla stałych (niezmiennych) i 'var' dla zmiennych, które można zmieniać.",
+    "3. Funkcje: Definiuje się je słowem kluczowym 'fun', np. fun main() { println('Witaj Kotlin') }"
+  ],
+  "study_java": [
+    "1. Wprowadzenie: Java to obiektowy język programowania (OOP) o zasadzie 'Write Once, Run Anywhere'.",
+    "2. Podstawowa struktura: Każdy program w Javie wymaga klasy i metody głównej public static void main(String[] args).",
+    "3. Typy danych: Typy proste, takie jak int, double, char i boolean."
+  ],
+  "study_matematika": [
+    "1. Podstawy algebry: Rozwiązywanie równań liniowych z jedną niewiadomą, np. 2x + 5 = 15, więc x = 5.",
+    "2. Geometria: Pole koła to A = pi * r^2, a obwód C = 2 * pi * r.",
+    "3. Ułamki: Dodawanie, odejmowanie, mnożenie i dzielenie ułamków."
+  ],
+  "study_sains": [
+    "1. Układ Słoneczny: Słońce jest centrum Układu Słonecznego. Najbliższa planeta to Merkury, a największa to Jowisz.",
+    "2. Fotosynteza: Proces, w którym zielone rośliny przekształcają wodę, dwutlenek węgla i światło słoneczne w tlen i glukozę.",
+    "3. Stany skupienia: Trzy główne stany to stały, ciekły i gazowy oraz przejścia między nimi."
+  ],
+  "study_inggris": [
+    "1. Greeting & Introduction: Zwroty powitalne, np. 'Good morning', 'How are you?', oraz jak się przedstawić.",
+    "2. Simple Present Tense: Używany do wyrażania nawyków lub faktów ogólnych (Przykład: 'I go to school every day').",
+    "3. Pronouns: Zaimki osobowe I, You, They, We, He, She, It oraz dzierżawcze (my, your, their itd.)."
+  ]
+}

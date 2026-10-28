@@ -1,0 +1,21 @@
+{
+  "usage_word": "Verwendung:",
+  "room_only": "Verwende diesen Befehl in einem Raum.",
+  "ago": "vor {dur}",
+  "just_now": "gerade eben",
+  "dur_d": "{n} T",
+  "dur_h": "{n} Std",
+  "dur_m": "{n} Min",
+  "dur_s": "{n} Sek",
+  "self": "Das bist du selbst 😄",
+  "bot": "Ich bin doch hier 😄",
+  "online": "👀 {target} ist gerade in diesem Raum online.",
+  "result": "👀 {target} wurde zuletzt {ago} gesehen ({date}): {action}.",
+  "act_msg": "hat eine Nachricht geschrieben",
+  "act_join": "hat den Raum betreten",
+  "act_leave": "hat den Raum verlassen",
+  "act_rename": "hat den Nick zu {new} geändert",
+  "last_msg": "💬 Letzte Nachricht ({ago}): {msg}",
+  "not_found": "Ich habe {target} in diesem Raum noch nie gesehen.",
+  "maybe": "Meintest du: {names}"
+}

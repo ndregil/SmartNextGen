@@ -1,0 +1,22 @@
+{
+  "cat_owner": "👑 Владелец бота",
+  "cat_admin": "💎 Админ и Владелец группы",
+  "ai_off_room_only": "Эту команду можно использовать только внутри комнаты.",
+  "ai_off_success": "Ответы ИИ в этой комнате были отключены.",
+  "ai_on_success": "Ответы ИИ в этой комнате снова включены.",
+  "ai_off_global_success": "Ответы ИИ глобально отключены.",
+  "ai_on_global_success": "Ответы ИИ глобально снова включены.",
+  "aiprovider_success": "Основной провайдер изменен на: {provider}\nЭндпоинт: {endpoint}\nАктивная модель: {model}",
+  "aiprovider_invalid": "Неверный провайдер! Доступные варианты:\n- {providers}",
+  "aiprovider_info": "Активный провайдер: {provider}\nHTTP-эндпоинт: {endpoint}\nТекущая модель: {model}\n\nДоступные провайдеры:\n- {providers}",
+  "aimodel_success": "Модель ИИ [{provider}] изменена на: {model}",
+  "aimodel_invalid": "Неверная модель для провайдера {provider}! Доступные варианты:\n- {models}",
+  "aimodel_info": "Активный провайдер: {provider} ({endpoint})\nТекущая основная модель: {model}\n\nСписок моделей:\n- {models}",
+  "all_ai_fail": "Извините, в настоящее время все провайдеры ИИ испытывают проблемы (Ошибка: {error}).",
+  "image_refused": "Извини, я не могу обработать это изображение.",
+  "ai_confirm_prompt": "📋 Выполнить: {cmds}? Ответьте, чтобы подтвердить или отменить ({sec} с).",
+  "ai_confirm_cancel": "Хорошо, отменено.",
+  "ai_ambiguous_nick": "Несколько имён похожи на «{name}»: {options}. Какое именно?",
+  "ai_need_room": "Какая комната? Укажите JID комнаты (пример: name@conference.server.com).",
+  "ai_not_understood": "Хм, я не совсем понял. Можете переформулировать?"
+}

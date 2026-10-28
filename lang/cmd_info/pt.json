@@ -1,0 +1,23 @@
+{
+  "quake_loading": "⏳ Buscando dados do último terremoto...",
+  "quake_usgs_fail": "❌ Falha ao buscar dados de terremoto do servidor USGS.",
+  "quake_usgs_empty": "🌍 Nenhum relatório significativo de terremoto global no momento.",
+  "quake_usgs_unknown": "Desconhecido",
+  "quake_usgs_result": "🌍 **Informações do último terremoto global (USGS)**:\n• Magnitude: {mag}\n• Localização: {place}\n• Horário: {time_str} UTC",
+  "quake_bmkg_fail": "❌ Falha ao buscar dados de terremoto do servidor BMKG.",
+  "quake_bmkg_empty": "❌ Formato de dados de terremoto do BMKG inválido.",
+  "quake_bmkg_no_info": "Sem informações",
+  "quake_bmkg_result": "🇮🇩 **Informações do último terremoto (BMKG Indonésia)**:\n• Horário: {tanggal} | {jam}\n• Magnitude: {magnitude} (Profundidade: {kedalaman})\n• Centro: {wilayah}\n• Coordenadas: {coordinates}\n• Potencial: {potensi}\n• Sentido: {dirasakan}\n\n💡 *Dica:* Digite `earthquake global` ou `gempa global` para dados mundiais.",
+  "quake_timeout": "❌ A conexão com o servidor de dados de terremoto esgotou o tempo limite.",
+  "quake_error": "❌ Ocorreu um erro ao buscar dados do terremoto: {e}",
+  "holiday_sat": "🎉 Hoje é **sábado** (Fim de semana!)",
+  "holiday_sun": "🎉 Hoje é **domingo** (Feriado de fim de semana!)",
+  "holiday_fri": "⚡ Amanhã já é **fim de semana (sábado)**!",
+  "holiday_approaching": "⏳ Aproximando-se do fim de semana (sábado) em cerca de **{days_to_sat} dias**.",
+  "holiday_none": "Ainda não há dados sobre os próximos feriados nacionais.",
+  "holiday_info_format": "• Agenda: {name} ({date})\n• Status: ⏳ Faltam **{days} dias**",
+  "holiday_header": "📅 **Informações de Feriados e Fim de Semana**:\n\n🗓️ **Status do Fim de Semana:**\n{weekend_status}\n\n🏛️ **Próximo Feriado Nacional:**\n{holiday_info}",
+  "broadcast_quake_alert": "🚨 **NOVO ALERTA DE TERREMOTO (BMKG)** 🚨\n• Horário: {tanggal} | {jam}\n• Magnitude: {magnitude} (Profundidade: {kedalaman})\n• Centro: {wilayah}\n• Coordenadas: {coordinates}\n• Potencial: {potensi}",
+  "broadcast_sunday": "🌴 **Bom dia, domingo!** 🌴\nAproveite o seu fim de semana de forma pacífica, relaxante e com muita felicidade junto à sua amada família antes de retomar as atividades amanhã.",
+  "broadcast_national_holiday": "🏛️🎉 **FELIZ FERIADO NACIONAL!** 🎉🏛️\nHoje coincide com:\n• **{name}**\n\nTenha um feriado maravilhoso e um ótimo dia!"
+}

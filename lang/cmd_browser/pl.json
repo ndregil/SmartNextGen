@@ -1,0 +1,10 @@
+{
+  "wrong_format": "Nieprawidłowy format. Użyj: www <url> (Przykład: www google.com)",
+  "accessing": "🔍 Uzyskiwanie dostępu do {url}...",
+  "no_content": "(Strona została pomyślnie otwarta, ale nie znaleziono żadnej treści tekstowej.)",
+  "truncated_notice": "\n\n[✂️ Tekst został obcięty, ponieważ jest za długi]",
+  "output_title": "🌐 **Czytnik stron internetowych ({url}):**\n\n{text}",
+  "err_timeout": "Nie udało się załadować strony: Przekroczono limit czasu żądania podczas uzyskiwania dostępu do {url}.",
+  "err_http": "Nie udało się załadować strony: Serwer zwrócił błąd {err}.",
+  "err_general": "Nie udało się uzyskać dostępu do strony internetowej: {error}"
+}

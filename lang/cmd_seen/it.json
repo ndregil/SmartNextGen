@@ -1,0 +1,21 @@
+{
+  "usage_word": "Uso:",
+  "room_only": "Usa questo comando dentro una stanza.",
+  "ago": "{dur} fa",
+  "just_now": "poco fa",
+  "dur_d": "{n} g",
+  "dur_h": "{n} h",
+  "dur_m": "{n} min",
+  "dur_s": "{n} s",
+  "self": "Quello sei tu 😄",
+  "bot": "Sono proprio qui 😄",
+  "online": "👀 {target} è online in questa stanza.",
+  "result": "👀 {target} è stato visto l'ultima volta {ago} ({date}): {action}.",
+  "act_msg": "ha inviato un messaggio",
+  "act_join": "è entrato nella stanza",
+  "act_leave": "ha lasciato la stanza",
+  "act_rename": "ha cambiato nick in {new}",
+  "last_msg": "💬 Ultimo messaggio ({ago}): {msg}",
+  "not_found": "Non ho mai visto {target} in questa stanza.",
+  "maybe": "Intendevi: {names}"
+}

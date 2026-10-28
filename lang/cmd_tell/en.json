@@ -1,0 +1,21 @@
+{
+  "usage_word": "Usage:",
+  "room_only": "Use this command inside a room.",
+  "ago": "{dur} ago",
+  "just_now": "just now",
+  "dur_d": "{n}d",
+  "dur_h": "{n}h",
+  "dur_m": "{n}m",
+  "dur_s": "{n}s",
+  "self": "You can't leave a message for yourself.",
+  "bot": "I'm right here, just talk to me 😄",
+  "too_long": "Message too long (max {max} characters).",
+  "limit_target": "{target} already has {max} pending messages, try again later.",
+  "limit_user": "You already have {max} undelivered messages.",
+  "cooldown": "Please wait a moment before leaving another message.",
+  "saved": "Okay, I'll pass your message to {target} when they show up.",
+  "header": "📨 {nick}, you have {count} message(s) waiting:",
+  "item": "• from {from_nick} ({ago}): {text}",
+  "untell_done": "{count} message(s) for {target} cancelled.",
+  "untell_none": "You have no pending messages for {target}."
+}

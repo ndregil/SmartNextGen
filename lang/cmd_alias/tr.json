@@ -1,0 +1,17 @@
+{
+  "mod_only": "Erişim reddedildi: bu komut yalnızca oda sahipleri/yöneticileri/moderatörleri içindir.",
+  "owner_only": "Erişim reddedildi: genel komutlar yalnızca bot sahibi içindir.",
+  "room_only": "Bu komutu bir oda içinde kullanın.",
+  "usage": "Kullanım: {cmd} [add] <tetikleyici>=<komut [argümanlar]> | {cmd} del <tetikleyici> | {cmd} list",
+  "bad_trigger": "Geçersiz tetikleyici (1-{max} karakter, boşluksuz).",
+  "conflict": "Başarısız: «{t}» zaten bir komut adı.",
+  "bad_target": "Başarısız: «{c}» komutu bulunamadı veya takma ad verilemez.",
+  "limit": "Başarısız: {max} takma ad sınırına ulaşıldı.",
+  "added": "Başarıyla: «{t}» artık «{c}» komutunu çalıştırıyor{scope}.",
+  "removed": "«{t}» takma adı başarıyla silindi{scope}.",
+  "not_found": "«{t}» takma adı bulunamadı{scope}.",
+  "empty": "Henüz takma ad yok.",
+  "list_title": "Takma adlar{scope}:",
+  "scope_global": " (genel)",
+  "scope_room": " (bu oda)"
+}

@@ -1,0 +1,21 @@
+{
+  "usage_word": "Verwendung:",
+  "room_only": "Verwende diesen Befehl in einem Raum.",
+  "ago": "vor {dur}",
+  "just_now": "gerade eben",
+  "dur_d": "{n} T",
+  "dur_h": "{n} Std",
+  "dur_m": "{n} Min",
+  "dur_s": "{n} Sek",
+  "self": "Du kannst dir selbst keine Nachricht hinterlassen.",
+  "bot": "Ich bin doch hier, sprich einfach mit mir 😄",
+  "too_long": "Nachricht zu lang (max. {max} Zeichen).",
+  "limit_target": "{target} hat bereits {max} wartende Nachrichten, versuche es später erneut.",
+  "limit_user": "Du hast bereits {max} unzugestellte Nachrichten.",
+  "cooldown": "Bitte warte kurz, bevor du eine weitere Nachricht hinterlässt.",
+  "saved": "Okay, ich gebe {target} die Nachricht weiter, sobald er/sie auftaucht.",
+  "header": "📨 {nick}, du hast {count} Nachricht(en):",
+  "item": "• von {from_nick} ({ago}): {text}",
+  "untell_done": "{count} Nachricht(en) für {target} abgebrochen.",
+  "untell_none": "Du hast keine wartenden Nachrichten für {target}."
+}

@@ -1,0 +1,14 @@
+{
+  "tr_format_error": "Formato incorrecto. Use: tr <cód_idioma> <texto> (Ejemplo: tr id good morning)",
+  "tr_success": "🌐 **Traducción (➔ {target_lang}):**\n\"{translated_text}\"",
+  "tr_failed_text": "Error al obtener el resultado de la traducción.",
+  "tr_failed_conn": "Error al conectar con el servicio de traducción (Estado: {status}).",
+  "tr_error": "Ocurrió un error al procesar la traducción.",
+  "google_format_error": "Formato incorrecto. Use: google <palabra_clave>",
+  "google_result_msg": "🔍 **Búsqueda de Google:**\nResultados de búsqueda para: *{query}*\n\n📌 **[{title}]({link})**\n📝 *{snippet}*\n\n🔗 Ver todo en Google: {google_url}",
+  "google_no_snippet_msg": "🔍 **Búsqueda de Google:**\nResultados de búsqueda para: *{query}*\n🔗 Abrir Google: {google_url}",
+  "maps_format_error": "Formato incorrecto. Use: maps <nombre_lugar>",
+  "maps_msg": "🗺️ **Google Maps:**\nUbicación para: *{place}*\n🔗 Abrir mapa: {maps_url}",
+  "yt_format_error": "Formato incorrecto. Use: youtube <título_video>",
+  "yt_msg": "📺 **Búsqueda de YouTube:**\nResultados de búsqueda para: *{query}*\n🔗 Haz clic para ver: {yt_search_url}"
+}

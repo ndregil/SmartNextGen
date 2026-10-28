@@ -1,0 +1,10 @@
+{
+  "wrong_format": "Format salah. Gunakan: www <url> (Contoh: www google.com)",
+  "accessing": "🔍 Mengakses {url}...",
+  "no_content": "(Halaman berhasil diakses, tetapi tidak ada konten teks yang ditemukan.)",
+  "truncated_notice": "\n\n[✂️ Teks dipotong karena terlalu panjang]",
+  "output_title": "🌐 **Web Reader ({url}):**\n\n{text}",
+  "err_timeout": "Gagal memuat web: Waktu habis (Timeout) saat mengakses {url}.",
+  "err_http": "Gagal memuat web: Server merespons dengan error {err}.",
+  "err_general": "Gagal mengakses halaman web: {error}"
+}

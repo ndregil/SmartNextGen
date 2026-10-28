@@ -1,0 +1,10 @@
+{
+  "guide_text": "📚 **Study Module Usage Guide:**\nAvailable categories: {cat_list}\n• Basic Material: `study [category]`\n• Q&A with AI: `study [category] [your question]`",
+  "err_category": "❌ Category '{category}' not found!\nAvailable categories: {cat_list}",
+  "materi_header": "📖 **Basic Material [{category}]:**\n",
+  "materi_tip": "\n\n💡 Tip: Want to ask more deeply? Type: `study {category} [your question]`",
+  "loading_text": "🔍 Analyzing question about **{category}**, please wait...",
+  "ai_prompt": "Please act as an expert tutor/teacher in the field of {category}. Answer the following in-depth question clearly, educationally, provide code examples if relevant, and use clear, easy-to-understand English:\n\nQuestion: {question}",
+  "ai_reply_header": "🧠 **Explanation ({category}):**\n\n{ai_response}",
+  "err_ai": "❌ Sorry, the AI module is not correctly integrated with the main bot."
+}

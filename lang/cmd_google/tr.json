@@ -1,0 +1,14 @@
+{
+  "tr_format_error": "Yanlış biçim. Kullanım: tr <dil_kodu> <metin> (Örnek: tr id good morning)",
+  "tr_success": "🌐 **Çeviri (➔ {target_lang}):**\n\"{translated_text}\"",
+  "tr_failed_text": "Çeviri sonucu alınamadı.",
+  "tr_failed_conn": "Çeviri servisine bağlanılamadı (Durum: {status}).",
+  "tr_error": "Çeviri işlenirken bir hata oluştu.",
+  "google_format_error": "Yanlış biçim. Kullanım: google <anahtar_kelime>",
+  "google_result_msg": "🔍 **Google Araması:**\nArama sonuçları: *{query}*\n\n📌 **[{title}]({link})**\n📝 *{snippet}*\n\n🔗 Google'da tümünü gör: {google_url}",
+  "google_no_snippet_msg": "🔍 **Google Araması:**\nArama sonuçları: *{query}*\n🔗 Google'ı aç: {google_url}",
+  "maps_format_error": "Yanlış biçim. Kullanım: maps <yer_adi>",
+  "maps_msg": "🗺️ **Google Haritalar:**\nKonum: *{place}*\n🔗 Haritayı aç: {maps_url}",
+  "yt_format_error": "Yanlış biçim. Kullanım: youtube <video_basligi>",
+  "yt_msg": "📺 **YouTube Araması:**\nArama sonuçları: *{query}*\n🔗 İzlemek için tıklayın: {yt_search_url}"
+}

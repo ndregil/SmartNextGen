@@ -1,0 +1,11 @@
+{
+  "meme_list": "📋 **Список категорій та допомога щодо мемів**:\nВведіть команду у форматі: `meme <категорія>`\n\n• `meme dank` (Денк меми)\n• `meme meirl` (Життєві меми)\n• `meme wholesome` (Добрі меми)\n• `meme programmer` (ІТ/кодинг меми)\n• `meme anime` (Аніме меми)\n• `meme cats` (Котячі меми)\n• `meme gaming` (Ігрові меми)\n• `meme history` (Історичні меми)\n• `meme science` (Наукові меми)\n• `meme tech` (Технологічні меми)\n• `meme bug` / `error` (Меми про помилки ПЗ)\n• `meme comics` (Смішні комікси)\n• `meme random` (Випадкові меми)\n\n💡 **Приклади використання:**\n• `meme programmer`\n• `meme gaming`\n• `meme random`",
+  "meme_loading": "⏳ Готується мем '{display_name}'...",
+  "meme_no_title": "Без назви",
+  "meme_err_url": "❌ Не вдалося отримати URL зображення мему.",
+  "meme_err_dl": "❌ Не вдалося завантажити файл зображення.",
+  "meme_err_upload": "❌ Не вдалося отримати URL завантаження сервера.",
+  "meme_err_plugin": "❌ Плагін завантаження файлів HTTP (xep_0363) недоступний.",
+  "meme_timeout": "❌ Час очікування з'єднання вичерпано.",
+  "meme_error": "❌ Сталася системна помилка: {e}"
+}

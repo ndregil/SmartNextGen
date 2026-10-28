@@ -1,0 +1,14 @@
+{
+  "tr_format_error": "Неправильний формат. Використовуйте: tr <код_мови> <текст> (Приклад: tr id good morning)",
+  "tr_success": "🌐 **Переклад (➔ {target_lang}):**\n\"{translated_text}\"",
+  "tr_failed_text": "Не вдалося отримати результат перекладу.",
+  "tr_failed_conn": "Не вдалося підключитися до служби перекладу (Статус: {status}).",
+  "tr_error": "Сталася помилка під час обробки перекладу.",
+  "google_format_error": "Неправильний формат. Використовуйте: google <ключове_слово>",
+  "google_result_msg": "🔍 **Пошук Google:**\nРезультати пошуку для: *{query}*\n\n📌 **[{title}]({link})**\n📝 *{snippet}*\n\n🔗 Переглянути все в Google: {google_url}",
+  "google_no_snippet_msg": "🔍 **Пошук Google:**\nРезультати пошуку для: *{query}*\n🔗 Відкрити Google: {google_url}",
+  "maps_format_error": "Неправильний формат. Використовуйте: maps <назва_місця>",
+  "maps_msg": "🗺️ **Google Карти:**\nМісцезнаходження для: *{place}*\n🔗 Відкрити карту: {maps_url}",
+  "yt_format_error": "Неправильний формат. Використовуйте: youtube <назва_відео>",
+  "yt_msg": "📺 **Пошук YouTube:**\nРезультати пошуку для: *{query}*\n🔗 Натисніть, щоб переглянути: {yt_search_url}"
+}

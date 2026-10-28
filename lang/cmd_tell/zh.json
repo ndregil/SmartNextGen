@@ -1,0 +1,21 @@
+{
+  "usage_word": "用法：",
+  "room_only": "请在群聊房间内使用此命令。",
+  "ago": "{dur}前",
+  "just_now": "刚刚",
+  "dur_d": "{n}天",
+  "dur_h": "{n}小时",
+  "dur_m": "{n}分钟",
+  "dur_s": "{n}秒",
+  "self": "不能给自己留言。",
+  "bot": "我就在这儿，直接跟我说吧 😄",
+  "too_long": "消息太长（最多 {max} 个字符）。",
+  "limit_target": "{target} 已有 {max} 条待送达消息，请稍后再试。",
+  "limit_user": "你已有 {max} 条未送达的留言。",
+  "cooldown": "请稍等片刻再留言。",
+  "saved": "好的，{target} 出现时我会转达你的留言。",
+  "header": "📨 {nick}，你有 {count} 条留言：",
+  "item": "• 来自 {from_nick}（{ago}）：{text}",
+  "untell_done": "已取消给 {target} 的 {count} 条留言。",
+  "untell_none": "你没有发给 {target} 的待送达留言。"
+}

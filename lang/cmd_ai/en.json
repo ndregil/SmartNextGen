@@ -1,0 +1,22 @@
+{
+  "cat_owner": "👑 Bot Owner",
+  "cat_admin": "💎 Admin & Owner Group",
+  "ai_off_room_only": "This command can only be used inside a room.",
+  "ai_off_success": "AI response in this room has been turned off.",
+  "ai_on_success": "AI response in this room has been turned back on.",
+  "ai_off_global_success": "AI response globally turned off.",
+  "ai_on_global_success": "AI response globally turned back on.",
+  "aiprovider_success": "Main Provider changed to: {provider}\nEndpoint: {endpoint}\nActive Model: {model}",
+  "aiprovider_invalid": "Invalid provider! Choices:\n- {providers}",
+  "aiprovider_info": "Active Provider: {provider}\nHTTP Endpoint: {endpoint}\nCurrent Model: {model}\n\nProvider Choices:\n- {providers}",
+  "aimodel_success": "AI Model [{provider}] changed to: {model}",
+  "aimodel_invalid": "Invalid model for provider {provider}! Choices:\n- {models}",
+  "aimodel_info": "Active Provider: {provider} ({endpoint})\nCurrent Main Model: {model}\n\nModels List:\n- {models}",
+  "all_ai_fail": "Sorry, all AI providers are currently experiencing issues (Error: {error}).",
+  "image_refused": "Sorry, I can't process that image.",
+  "ai_confirm_prompt": "📋 Run: {cmds}? Reply to confirm or cancel ({sec}s).",
+  "ai_confirm_cancel": "Okay, cancelled.",
+  "ai_ambiguous_nick": "Several names look like \"{name}\": {options}. Which one?",
+  "ai_need_room": "Which room? Please give the room JID (example: name@conference.server.com).",
+  "ai_not_understood": "Hmm, I did not quite get that. Could you rephrase?"
+}

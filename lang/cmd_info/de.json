@@ -1,0 +1,28 @@
+{
+  "quake_loading": "⏳ Rufe die neuesten Erdbebendaten ab...",
+  "quake_usgs_fail": "❌ Abrufen der Erdbebendaten vom USGS-Server fehlgeschlagen.",
+  "quake_usgs_empty": "🌍 Derzeit keine nennenswerten globalen Erdbebenberichte.",
+  "quake_usgs_unknown": "Unbekannt",
+  "quake_usgs_result": "🌍 **Neueste globale Erdbebeninformationen (USGS)**:\n• Magnitude: {mag}\n• Ort: {place}\n• Zeit: {time_str} UTC",
+  
+  "quake_bmkg_fail": "❌ Abrufen der Erdbebendaten vom BMKG-Server fehlgeschlagen.",
+  "quake_bmkg_empty": "❌ Ungültiges BMKG-Erdbebendatenformat.",
+  "quake_bmkg_no_info": "Keine Information",
+  "quake_bmkg_result": "🇮🇩 **Neueste Erdbebeninformationen (BMKG Indonesien)**:\n• Zeit: {tanggal} | {jam}\n• Magnitude: {magnitude} (Tiefe: {kedalaman})\n• Zentrum: {wilayah}\n• Koordinaten: {coordinates}\n• Potenzial: {potensi}\n• Gespürt: {dirasakan}\n\n💡 *Tipp:* Tippe `earthquake global` oder `gempa global` für weltweite Daten.",
+  
+  "quake_timeout": "❌ Zeitüberschreitung bei der Verbindung zum Erdbebenserver.",
+  "quake_error": "❌ Beim Abrufen der Erdbebendaten ist ein Fehler aufgetreten: {e}",
+
+  "holiday_sat": "🎉 Heute ist **Samstag** (Wochenende!)",
+  "holiday_sun": "🎉 Heute ist **Sonntag** (Wochenendfeiertag!)",
+  "holiday_fri": "⚡ Morgen ist bereits das **Wochenende (Samstag)**!",
+  "holiday_approaching": "⏳ Das Wochenende (Samstag) naht in etwa **{days_to_sat} Tagen**.",
+  
+  "holiday_none": "Noch keine Daten zu bevorstehenden nationalen Feiertagen vorhanden.",
+  "holiday_info_format": "• Anlass: {name} ({date})\n• Status: ⏳ Verbleibend **{days} Tage übrig**",
+  "holiday_header": "📅 **Feiertags- & Wochenendinformationen**:\n\n🗓️ **Wochenendstatus:**\n{weekend_status}\n\n🏛️ **Nächster nationaler Feiertag:**\n{holiday_info}",
+
+  "broadcast_quake_alert": "🚨 **NEUE ERDBEBENWARNUNG (BMKG)** 🚨\n• Zeit: {tanggal} | {jam}\n• Magnitude: {magnitude} (Tiefe: {kedalaman})\n• Zentrum: {wilayah}\n• Koordinaten: {coordinates}\n• Potenzial: {potensi}",
+  "broadcast_sunday": "🌴 **Guten Morgen Sonntag!** 🌴\nGenießen Sie Ihr Wochenend-Feiertag friedlich, entspannt und mit voller Freude im Kreise Ihrer Lieben, bevor morgen die Aktivitäten wieder beginnen.",
+  "broadcast_national_holiday": "🏛️🎉 **FROHEN NATIONALEN FEIERTAG!** 🎉🏛️\nHeute fällt zusammen mit:\n• **{name}**\n\nEinen wunderbaren Feiertag und einen großartigen Tag!"
+}

@@ -1,0 +1,18 @@
+{
+  "err_room_only": "این دستور فقط در داخل یک اتاق قابل استفاده است.",
+  "err_nourl": "هنوز هیچ URL RSS در این اتاق ثبت نشده است. از دستور `addrss <url>` برای افزودن آن استفاده کنید.",
+  "rss_latest_header": "**📰 آخرین اخبار RSS:**",
+  "rss_source_label": "🔗 *URL منبع:*",
+  "rss_fail_load": "• بارگیری انجام نشد یا فید خالی است.",
+  "broadcast_header": "📰 **به‌روزرسانی اخبار RSS ({url}):**",
+  "delrss_success": "URL RSS با موفقیت حذف شد:\n{rss_url}",
+  "delrss_format_err": "فرمت اشتباه است. استفاده: delrss <rss_url>",
+  "addrss_success": "URL RSS جدید با موفقیت اضافه شد:\n{rss_url}",
+  "addrss_format_err": "قالب: addrss [10m|1h|1d] <url>  (فید RSS/Atom/JSON یا آدرس سایت؛ بازه زمانی اختیاری)",
+  "listrss_header": "📋 **فهرست URLهای RSS در این اتاق:**\n- ",
+  "listrss_empty": "هنوز هیچ URL RSS ثبت نشده است.",
+  "addrss_success_every": "RSS با موفقیت اضافه شد: {rss_url}\n⏱ آخرین اخبار هر {every} به گروه ارسال می‌شود.",
+  "addrss_interval_set": "زمان‌بندی RSS با موفقیت تغییر کرد: {rss_url} — ارسال هر {every}.",
+  "addrss_interval_bad": "بازه زمانی نامعتبر است. از {min} تا {max} استفاده کنید، مثال: 10m، 1h، 1d.",
+  "rss_scheduled_header": "📰 ارسال دوره‌ای از {url}"
+}

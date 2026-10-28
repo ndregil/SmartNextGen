@@ -1,0 +1,21 @@
+{
+  "usage_word": "Kullanım:",
+  "room_only": "Bu komutu bir oda içinde kullanın.",
+  "ago": "{dur} önce",
+  "just_now": "az önce",
+  "dur_d": "{n} gün",
+  "dur_h": "{n} sa",
+  "dur_m": "{n} dk",
+  "dur_s": "{n} sn",
+  "self": "Kendine mesaj bırakamazsın.",
+  "bot": "Buradayım, doğrudan konuş 😄",
+  "too_long": "Mesaj çok uzun (en fazla {max} karakter).",
+  "limit_target": "{target} için zaten {max} bekleyen mesaj var, daha sonra deneyin.",
+  "limit_user": "Zaten {max} teslim edilmemiş mesajın var.",
+  "cooldown": "Başka bir mesaj bırakmadan önce biraz bekleyin.",
+  "saved": "Tamam, {target} göründüğünde mesajını ileteceğim.",
+  "header": "📨 {nick}, {count} mesajın var:",
+  "item": "• {from_nick} tarafından ({ago}): {text}",
+  "untell_done": "{target} için {count} mesaj iptal edildi.",
+  "untell_none": "{target} için bekleyen mesajın yok."
+}

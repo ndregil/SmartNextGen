@@ -1,0 +1,22 @@
+{
+  "cat_owner": "👑 Bot-Besitzer",
+  "cat_admin": "💎 Admin & Gruppenbesitzer",
+  "ai_off_room_only": "Dieser Befehl kann nur innerhalb eines Raumes verwendet werden.",
+  "ai_off_success": "KI-Antworten in diesem Raum wurden deaktiviert.",
+  "ai_on_success": "KI-Antworten in diesem Raum wurden wieder aktiviert.",
+  "ai_off_global_success": "KI-Antworten global deaktiviert.",
+  "ai_on_global_success": "KI-Antworten global wieder aktiviert.",
+  "aiprovider_success": "Hauptanbieter geändert zu: {provider}\nEndpunkt: {endpoint}\nAktives Modell: {model}",
+  "aiprovider_invalid": "Ungültiger Anbieter! Auswahlmöglichkeiten:\n- {providers}",
+  "aiprovider_info": "Aktiver Anbieter: {provider}\nHTTP-Endpunkt: {endpoint}\nAktuelles Modell: {model}\n\nAnbieterauswahl:\n- {providers}",
+  "aimodel_success": "KI-Modell [{provider}] geändert zu: {model}",
+  "aimodel_invalid": "Ungültiges Modell für Anbieter {provider}! Auswahlmöglichkeiten:\n- {models}",
+  "aimodel_info": "Aktiver Anbieter: {provider} ({endpoint})\nAktuelles Hauptmodell: {model}\n\nModelliste:\n- {models}",
+  "all_ai_fail": "Entschuldigung, alle KI-Anbieter haben derzeit Probleme (Fehler: {error}).",
+  "image_refused": "Tut mir leid, ich kann dieses Bild nicht verarbeiten.",
+  "ai_confirm_prompt": "📋 Ausführen: {cmds}? Antworte zum Bestätigen oder Abbrechen ({sec} s).",
+  "ai_confirm_cancel": "Okay, abgebrochen.",
+  "ai_ambiguous_nick": "Mehrere Namen ähneln „{name}“: {options}. Welcher?",
+  "ai_need_room": "Welcher Raum? Bitte die Raum-JID angeben (Beispiel: name@conference.server.com).",
+  "ai_not_understood": "Hm, das habe ich nicht ganz verstanden. Kannst du es anders formulieren?"
+}

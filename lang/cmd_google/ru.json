@@ -1,0 +1,17 @@
+{
+  "tr_format_error": "Неверный формат. Используйте: tr <код_языка> <текст> (Пример: tr ru доброе утро)",
+  "tr_success": "🌐 **Перевод (➔ {target_lang}):**\n\"{translated_text}\"",
+  "tr_failed_text": "Не удалось получить результат перевода.",
+  "tr_failed_conn": "Не удалось подключиться к службе перевода (Статус: {status}).",
+  "tr_error": "Произошла ошибка при обработке перевода.",
+  
+  "google_format_error": "Неверный формат. Используйте: google <ключевое_слово>",
+  "google_result_msg": "🔍 **Поиск Google:**\nРезультаты поиска по запросу: *{query}*\n\n📌 **[{title}]({link})**\n📝 *{snippet}*\n\n🔗 Посмотреть все в Google: {google_url}",
+  "google_no_snippet_msg": "🔍 **Поиск Google:**\nРезультаты поиска по запросу: *{query}*\n🔗 Открыть Google: {google_url}",
+
+  "maps_format_error": "Неверный формат. Используйте: maps <название_места>",
+  "maps_msg": "🗺️ **Карты Google:**\nМестоположение: *{place}*\n🔗 Открыть карту: {maps_url}",
+
+  "yt_format_error": "Неверный формат. Используйте: youtube <название_видео>",
+  "yt_msg": "📺 **Поиск на YouTube:**\nРезультаты поиска по запросу: *{query}*\n🔗 Нажмите для просмотра: {yt_search_url}"
+}

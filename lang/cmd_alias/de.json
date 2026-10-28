@@ -1,0 +1,17 @@
+{
+  "mod_only": "Zugriff verweigert: Dieser Befehl ist nur für Raum-Owner/Admins/Moderatoren.",
+  "owner_only": "Zugriff verweigert: Globale Befehle sind nur für den Bot-Owner.",
+  "room_only": "Verwende diesen Befehl in einem Raum.",
+  "usage": "Verwendung: {cmd} [add] <Auslöser>=<Befehl [Argumente]> | {cmd} del <Auslöser> | {cmd} list",
+  "bad_trigger": "Ungültiger Auslöser (1-{max} Zeichen, ohne Leerzeichen).",
+  "conflict": "Fehlgeschlagen: „{t}“ ist bereits ein Befehlsname.",
+  "bad_target": "Fehlgeschlagen: Befehl „{c}“ nicht gefunden oder nicht als Alias erlaubt.",
+  "limit": "Fehlgeschlagen: Limit von {max} Aliasen erreicht.",
+  "added": "Erfolgreich: „{t}“ führt jetzt „{c}“ aus{scope}.",
+  "removed": "Alias „{t}“ erfolgreich entfernt{scope}.",
+  "not_found": "Alias „{t}“ nicht gefunden{scope}.",
+  "empty": "Noch keine Aliase.",
+  "list_title": "Aliase{scope}:",
+  "scope_global": " (global)",
+  "scope_room": " (dieser Raum)"
+}

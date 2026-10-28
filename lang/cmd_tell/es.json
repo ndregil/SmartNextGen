@@ -1,0 +1,21 @@
+{
+  "usage_word": "Uso:",
+  "room_only": "Usa este comando dentro de una sala.",
+  "ago": "hace {dur}",
+  "just_now": "justo ahora",
+  "dur_d": "{n} d",
+  "dur_h": "{n} h",
+  "dur_m": "{n} min",
+  "dur_s": "{n} s",
+  "self": "No puedes dejarte un mensaje a ti mismo.",
+  "bot": "Aquí estoy, háblame directamente 😄",
+  "too_long": "Mensaje demasiado largo (máx. {max} caracteres).",
+  "limit_target": "{target} ya tiene {max} mensajes pendientes, inténtalo más tarde.",
+  "limit_user": "Ya tienes {max} mensajes sin entregar.",
+  "cooldown": "Espera un momento antes de dejar otro mensaje.",
+  "saved": "Vale, le daré tu mensaje a {target} cuando aparezca.",
+  "header": "📨 {nick}, tienes {count} mensaje(s):",
+  "item": "• de {from_nick} ({ago}): {text}",
+  "untell_done": "{count} mensaje(s) para {target} cancelado(s).",
+  "untell_none": "No tienes mensajes pendientes para {target}."
+}

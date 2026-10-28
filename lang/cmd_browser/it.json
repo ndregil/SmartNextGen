@@ -1,0 +1,10 @@
+{
+  "wrong_format": "Formato errato. Usa: www <url> (Esempio: www google.com)",
+  "accessing": "🔍 Accesso a {url} in corso...",
+  "no_content": "(Pagina accessibile con successo, ma non è stato trovato alcun contenuto testuale.)",
+  "truncated_notice": "\n\n[✂️ Testo troncato perché troppo lungo]",
+  "output_title": "🌐 **Llettore Web ({url}):**\n\n{text}",
+  "err_timeout": "Impossibile caricare il web: Timeout della richiesta durante l'accesso a {url}.",
+  "err_http": "Impossibile caricare il web: Il server ha risposto con l'errore {err}.",
+  "err_general": "Impossibile accedere alla pagina web: {error}"
+}

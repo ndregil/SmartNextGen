@@ -1,0 +1,11 @@
+{
+  "meme_list": "📋 **فهرست دسته‌بندی و راهنمای میم**:\nدستور را با این فرمت وارد کنید: `meme <دسته‌بندی>`\n\n• `meme dank` (میم‌های دانک)\n• `meme meirl` (میم‌های ملموس و واقعی)\n• `meme wholesome` (میم‌های مثبت و آرامش‌بخش)\n• `meme programmer` (میم‌های فناوری اطلاعات / برنامه‌نویسی)\n• `meme anime` (میم‌های انیمه)\n• `meme cats` (میم‌های گربه)\n• `meme gaming` (میم‌های گیمینگ)\n• `meme history` (میم‌های تاریخی)\n• `meme science` (میم‌های علمی)\n• `meme tech` (میم‌های تکنولوژی)\n• `meme bug` / `error` (میم‌های خطاهای نرم‌افزاری)\n• `meme comics` (کمیک‌های خنده‌دار)\n• `meme random` (میم‌های تصادفی)\n\n💡 **مثال‌های استفاده:**\n• `meme programmer`\n• `meme gaming`\n• `meme random`",
+  "meme_loading": "⏳ در حال آماده‌سازی میم '{display_name}'...",
+  "meme_no_title": "بدون عنوان",
+  "meme_err_url": "❌ دریافت URL تصویر میم انجام نشد.",
+  "meme_err_dl": "❌ دانلود فایل تصویر انجام نشد.",
+  "meme_err_upload": "❌ دریافت URL آپلود سرور انجام نشد.",
+  "meme_err_plugin": "❌ افزونه آپلود فایل HTTP (xep_0363) در دسترس نیست.",
+  "meme_timeout": "❌ زمان اتصال به پایان رسید (تایم‌اوت).",
+  "meme_error": "❌ خطای سیستمی رخ داد: {e}"
+}

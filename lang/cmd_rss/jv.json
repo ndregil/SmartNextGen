@@ -1,0 +1,18 @@
+{
+  "err_room_only": "Prentah iki mung bisa digunakake ing njero room.",
+  "err_nourl": "Durung ana URL RSS sing didaftarake ing room iki. Gunakake prentah `addrss <url>` kanggo nambahake.",
+  "rss_latest_header": "**📰 Warta RSS Paling Anyar:**",
+  "rss_source_label": "🔗 *URL Sumber:*",
+  "rss_fail_load": "• Gagal ngemot utawa feed kosong.",
+  "broadcast_header": "📰 **Nganyari Warta RSS ({url}):**",
+  "delrss_success": "Kasil mbusak URL RSS:\n{rss_url}",
+  "delrss_format_err": "Format ora sah. Gunakake: delrss <rss_url>",
+  "addrss_success": "Kasil nambahake URL RSS anyar:\n{rss_url}",
+  "addrss_format_err": "Format: addrss [10m|1h|1d] <url>  (RSS/Atom/JSON Feed utawa alamat situs; interval opsional)",
+  "listrss_header": "📋 **Dhaptar URL RSS ing Room Iki:**\n- ",
+  "listrss_empty": "Durung ana URL RSS sing didaftarake.",
+  "addrss_success_every": "RSS kasil ditambahake: {rss_url}\n⏱ Warta paling anyar bakal dikirim menyang grup saben {every}.",
+  "addrss_interval_set": "Jadwal kiriman RSS kasil diowahi: {rss_url} → dikirim saben {every}.",
+  "addrss_interval_bad": "Interval ora bener. Gunakna {min} nganti {max}, tuladha: 10m, 1h, 1d.",
+  "rss_scheduled_header": "📰 Kiriman berkala saka {url}"
+}

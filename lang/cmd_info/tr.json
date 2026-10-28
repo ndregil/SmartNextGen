@@ -1,0 +1,23 @@
+{
+  "quake_loading": "⏳ En son deprem verileri alınıyor...",
+  "quake_usgs_fail": "❌ USGS sunucusundan deprem verileri alınamadı.",
+  "quake_usgs_empty": "🌍 Şu anda önemli bir küresel deprem raporu bulunmuyor.",
+  "quake_usgs_unknown": "Bilinmiyor",
+  "quake_usgs_result": "🌍 **En Son Küresel Deprem Bilgisi (USGS)**:\n• Büyüklük: {mag}\n• Konum: {place}\n• Zaman: {time_str} UTC",
+  "quake_bmkg_fail": "❌ BMKG sunucusundan deprem verileri alınamadı.",
+  "quake_bmkg_empty": "❌ Geçersiz BMKG deprem veri biçimi.",
+  "quake_bmkg_no_info": "Bilgi yok",
+  "quake_bmkg_result": "🇮🇩 **En Son Deprem Bilgisi (BMKG Endonezya)**:\n• Zaman: {tanggal} | {jam}\n• Büyüklük: {magnitude} (Derinlik: {kedalaman})\n• Merkez: {wilayah}\n• Koordinatlar: {coordinates}\n• Potansiyel: {potensi}\n• Hissedilen: {dirasakan}\n\n💡 *İpucu:* Dünya verileri için `earthquake global` veya `gempa global` yazın.",
+  "quake_timeout": "❌ Deprem veri sunucusuyla bağlantı zaman aşımına uğradı.",
+  "quake_error": "❌ Deprem verileri alınırken bir hata oluştu: {e}",
+  "holiday_sat": "🎉 Bugün **Cumartesi** (Hafta sonu!)",
+  "holiday_sun": "🎉 Bugün **Pazar** (Hafta sonu tatili!)",
+  "holiday_fri": "⚡ Yarın zaten **Hafta sonu (Cumartesi)**!",
+  "holiday_approaching": "⏳ Yaklaşık **{days_to_sat} gün** sonra hafta sonuna (Cumartesi) yaklaşıyoruz.",
+  "holiday_none": "Henüz yaklaşan ulusal tatil verisi yok.",
+  "holiday_info_format": "• Etkinlik: {name} ({date})\n• Durum: ⏳ Kalan süre **{days} gün**",
+  "holiday_header": "📅 **Tatil ve Hafta Sonu Bilgileri**:\n\n🗓️ **Hafta Sonu Durumu:**\n{weekend_status}\n\n🏛️ **En Yakın Ulusal Tatil:**\n{holiday_info}",
+  "broadcast_quake_alert": "🚨 **YENİ DEPREM UYARISI (BMKG)** 🚨\n• Zaman: {tanggal} | {jam}\n• Büyüklük: {magnitude} (Derinlik: {kedalaman})\n• Merkez: {wilayah}\n• Koordinatlar: {coordinates}\n• Potansiyel: {potensi}",
+  "broadcast_sunday": "🌴 **Mutlu Pazarlar!** 🌴\nYarın faaliyetlere yeniden başlamadan önce sevilen aile bireylerinizle huzurlu, dinlendirici ve tam mutluluk dolu bir hafta sonu tatili geçirin.",
+  "broadcast_national_holiday": "🏛️🎉 **ULUSAL BAYRAMINIZ KUTLU OLSUN!** 🎉🏛️\nBugün şuna denk geliyor:\n• **{name}**\n\nHarika bir tatil ve harika bir gün geçirmeniz dileğiyle!"
+}

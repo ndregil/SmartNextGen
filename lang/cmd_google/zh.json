@@ -1,0 +1,17 @@
+{
+  "tr_format_error": "格式错误。使用方法: tr <lang_code> <文本> (例如: tr id good morning)",
+  "tr_success": "🌐 **翻译 (➔ {target_lang}):**\n\"{translated_text}\"",
+  "tr_failed_text": "获取翻译结果失败。",
+  "tr_failed_conn": "连接翻译服务失败（状态码: {status}）。",
+  "tr_error": "处理翻译时发生错误。",
+  
+  "google_format_error": "格式错误。使用方法: google <关键词>",
+  "google_result_msg": "🔍 **谷歌搜索:**\n搜索结果: *{query}*\n\n📌 **[{title}]({link})**\n📝 *{snippet}*\n\n🔗 在谷歌查看全部: {google_url}",
+  "google_no_snippet_msg": "🔍 **谷歌搜索:**\n搜索结果: *{query}*\n🔗 打开谷歌: {google_url}",
+
+  "maps_format_error": "格式错误。使用方法: maps <地点名称>",
+  "maps_msg": "🗺️ **谷歌地图:**\n位置查询: *{place}*\n🔗 打开地图: {maps_url}",
+
+  "yt_format_error": "格式错误。使用方法: youtube <视频标题>",
+  "yt_msg": "📺 **YouTube 搜索:**\n搜索结果: *{query}*\n🔗 点击观看: {yt_search_url}"
+}

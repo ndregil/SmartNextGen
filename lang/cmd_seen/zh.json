@@ -1,0 +1,21 @@
+{
+  "usage_word": "用法：",
+  "room_only": "请在群聊房间内使用此命令。",
+  "ago": "{dur}前",
+  "just_now": "刚刚",
+  "dur_d": "{n}天",
+  "dur_h": "{n}小时",
+  "dur_m": "{n}分钟",
+  "dur_s": "{n}秒",
+  "self": "那就是你自己啦 😄",
+  "bot": "我就在这里呀 😄",
+  "online": "👀 {target} 现在在此房间在线。",
+  "result": "👀 {target} 最后出现于 {ago}（{date}）：{action}。",
+  "act_msg": "发送了消息",
+  "act_join": "进入了房间",
+  "act_leave": "离开了房间",
+  "act_rename": "昵称改为 {new}",
+  "last_msg": "💬 最后一条消息（{ago}）：{msg}",
+  "not_found": "我在此房间从未见过 {target}。",
+  "maybe": "你是不是想找：{names}"
+}

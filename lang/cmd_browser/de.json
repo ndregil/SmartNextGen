@@ -1,0 +1,10 @@
+{
+  "wrong_format": "Falsches Format. Verwenden Sie: www <url> (Beispiel: www google.com)",
+  "accessing": "🔍 Greife auf {url} zu...",
+  "no_content": "(Seite erfolgreich aufgerufen, aber es wurde kein Textinhalt gefunden.)",
+  "truncated_notice": "\n\n[✂️ Text gekürzt, da er zu lang ist]",
+  "output_title": "🌐 **Web-Reader ({url}):**\n\n{text}",
+  "err_timeout": "Laden der Webseite fehlgeschlagen: Zeitüberschreitung beim Zugriff auf {url}.",
+  "err_http": "Laden der Webseite fehlgeschlagen: Server hat mit Fehler {err} geantwortet.",
+  "err_general": "Zugriff auf die Webseite fehlgeschlagen: {error}"
+}

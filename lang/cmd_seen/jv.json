@@ -1,0 +1,21 @@
+{
+  "usage_word": "Panganggo:",
+  "room_only": "Gunakna prentah iki ing njero room.",
+  "ago": "{dur} kepungkur",
+  "just_now": "lagi wae",
+  "dur_d": "{n} dina",
+  "dur_h": "{n} jam",
+  "dur_m": "{n} menit",
+  "dur_s": "{n} detik",
+  "self": "Kuwi awakmu dhewe 😄",
+  "bot": "Aku neng kene kok 😄",
+  "online": "👀 {target} lagi online ing room iki.",
+  "result": "👀 {target} pungkasan katon {ago} ({date}): {action}.",
+  "act_msg": "ngirim pesen",
+  "act_join": "mlebu room",
+  "act_leave": "metu saka room",
+  "act_rename": "ganti jeneng dadi {new}",
+  "last_msg": "💬 Pesen pungkasan ({ago}): {msg}",
+  "not_found": "Durung tau weruh {target} ing room iki.",
+  "maybe": "Mungkin maksudmu: {names}"
+}

@@ -1,0 +1,18 @@
+{
+  "err_room_only": "لا يمكن استخدام هذا الأمر إلا داخل الغرفة.",
+  "err_nourl": "لا توجد عنوان URL لخلاصة RSS مسجل في هذه الغرفة بعد. استخدم الأمر `addrss <url>` لإضافة واحد.",
+  "rss_latest_header": "**📰 آخر أخبار RSS:**",
+  "rss_source_label": "🔗 *رابط المصدر:*",
+  "rss_fail_load": "• فشل التحميل أو أن الخلاصات فارغة.",
+  "broadcast_header": "📰 **تحديث أخبار RSS ({url}):**",
+  "delrss_success": "تم حذف رابط RSS بنجاح:\n{rss_url}",
+  "delrss_format_err": "تنسيق غير صالح. استخدم: delrss <rss_url>",
+  "addrss_success": "تمت إضافة رابط RSS جديد بنجاح:\n{rss_url}",
+  "addrss_format_err": "الصيغة: addrss [10m|1h|1d] <url>  (خلاصة RSS/Atom/JSON أو عنوان موقع؛ الفاصل الزمني اختياري)",
+  "listrss_header": "📋 **قائمة روابط RSS في هذه الغرفة:**\n- ",
+  "listrss_empty": "لا توجد روابط RSS مسجلة حتى الآن.",
+  "addrss_success_every": "تمت إضافة RSS بنجاح: {rss_url}\n⏱ سيتم إرسال آخر الأخبار إلى المجموعة كل {every}.",
+  "addrss_interval_set": "تم تغيير جدول RSS بنجاح: {rss_url} — الإرسال كل {every}.",
+  "addrss_interval_bad": "فاصل زمني غير صالح. استخدم من {min} إلى {max}، مثال: 10m، 1h، 1d.",
+  "rss_scheduled_header": "📰 تحديث دوري من {url}"
+}

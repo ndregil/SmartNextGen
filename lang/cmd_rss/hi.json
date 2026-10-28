@@ -1,0 +1,18 @@
+{
+  "err_room_only": "यह कमांड केवल किसी रूम के अंदर उपयोग की जा सकती है।",
+  "err_nourl": "इस रूम में अभी तक कोई RSS URL पंजीकृत नहीं है। जोड़ने के लिए `addrss <url>` कमांड का उपयोग करें।",
+  "rss_latest_header": "**📰 नवीनतम RSS समाचार:**",
+  "rss_source_label": "🔗 *स्रोत URL:*",
+  "rss_fail_load": "• लोड करने में विफल या फ़ीड खाली है।",
+  "broadcast_header": "📰 **RSS समाचार अपडेट ({url}):**",
+  "delrss_success": "सफलतापूर्वक RSS URL हटा दिया गया:\n{rss_url}",
+  "delrss_format_err": "अमान्य प्रारूप। उपयोग करें: delrss <rss_url>",
+  "addrss_success": "सफलतापूर्वक नया RSS URL जोड़ दिया गया:\n{rss_url}",
+  "addrss_format_err": "प्रारूप: addrss [10m|1h|1d] <url>  (RSS/Atom/JSON फ़ीड या वेबसाइट पता; अंतराल वैकल्पिक)",
+  "listrss_header": "📋 **इस रूम में RSS URL की सूची:**\n- ",
+  "listrss_empty": "अभी तक कोई RSS URL पंजीकृत नहीं है।",
+  "addrss_success_every": "RSS सफलतापूर्वक जोड़ा गया: {rss_url}\n⏱ ताज़ा समाचार हर {every} में ग्रुप में भेजे जाएंगे।",
+  "addrss_interval_set": "RSS शेड्यूल सफलतापूर्वक बदला गया: {rss_url} → हर {every} में भेजा जाएगा।",
+  "addrss_interval_bad": "अमान्य अंतराल। {min} से {max} तक उपयोग करें, उदाहरण: 10m, 1h, 1d।",
+  "rss_scheduled_header": "📰 {url} से नियमित अपडेट"
+}

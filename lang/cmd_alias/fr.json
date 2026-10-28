@@ -1,0 +1,17 @@
+{
+  "mod_only": "Accès refusé : cette commande est réservée aux propriétaires/admins/modérateurs du salon.",
+  "owner_only": "Accès refusé : les commandes globales sont réservées au propriétaire du bot.",
+  "room_only": "Utilisez cette commande dans un salon.",
+  "usage": "Utilisation : {cmd} [add] <déclencheur>=<commande [arguments]> | {cmd} del <déclencheur> | {cmd} list",
+  "bad_trigger": "Déclencheur invalide (1-{max} caractères, sans espaces).",
+  "conflict": "Échec : « {t} » est déjà un nom de commande.",
+  "bad_target": "Échec : la commande « {c} » est introuvable ou ne peut pas avoir d'alias.",
+  "limit": "Échec : limite de {max} alias atteinte.",
+  "added": "Succès : « {t} » exécute maintenant « {c} »{scope}.",
+  "removed": "Alias « {t} » supprimé avec succès{scope}.",
+  "not_found": "Alias « {t} » introuvable{scope}.",
+  "empty": "Aucun alias pour l'instant.",
+  "list_title": "Alias{scope} :",
+  "scope_global": " (global)",
+  "scope_room": " (ce salon)"
+}

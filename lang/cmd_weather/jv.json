@@ -1,0 +1,29 @@
+{
+  "err_api_key": "WEATHER_API_KEY durung disetel ing file config.",
+  "err_room_only": "Prentah iki mung bisa digunakake ing njero room.",
+  "err_empty_default": "Cuaca standar isih kosong, ketik `weather <jeneng_kutha>`",
+  "default_desc": "Mendung",
+  
+  "advice_rain": "  💡 *Tip: Udane deres, aja lali gawa payung utawa jas udan!*",
+  "advice_hot": "  💡 *Tip: Cuaca panas banget, ombe banyu putih sing akeh supaya ora dehidrasi.*",
+  "advice_cold": "  💡 *Tip: Cuacane rada adhem, nganggo jaket yen metu omah.*",
+
+  "forecast_snippet": "  🕒 *Prakiraan jam {fc_time}:* {fc_desc} ({fc_temp}°C)",
+  
+  "weather_format": "• **{location_label}**\n  🌤️ Kondisi: *{desc}*\n  🌡️ Suhu: *{temp}°C* (Kaya rasane *{feels_like}°C*)\n  💧 Kelembapan: *{humidity}%* | 🧭 Tekanan: *{pressure} hPa*\n  👀 Visibilitas: *{visibility} km* | 💨 Angin: *{wind_speed} m/s*\n  🌅 Metu Sun: *{sunrise_str}* | 🌇 Mlebu Sun: *{sunset_str}*",
+  
+  "err_404": "Panggonan ora ditemokake. Priksa manawa ejaan jeneng kutha/kecamatan bener.",
+  "err_srv": "Gagal njupuk data saka server cuaca (Status: {status}).",
+  "err_conn": "Kasalahan sambungan menyang server cuaca.",
+
+  "broadcast_header": "🕒 **Laporan Cuaca Berkala (OpenWeather):**",
+  "weather_header": "🌤️ **Informasi Cuaca & Prakiraan Saiki:**",
+
+  "add_success": "Kasil nambahake wilayah `{new_city}` menyang dhaptar pemantauan room iki.",
+  "add_format_err": "Format ora sah. Gunakake: `addweather <kutha/wilayah>`",
+
+  "del_success": "Kasil mbusak wilayah `{target_city}` saka dhaptar pemantauan.",
+  "del_format_err": "Format ora sah. Gunakake: `delweather <jeneng_wilayah>`",
+
+  "list_header": "🌍 **Dhaptar Wilayah Pemantauan Cuaca ing Room Iki:**\n- "
+}

@@ -1,0 +1,18 @@
+{
+  "err_room_only": "Perintah ini hanya bisa digunakan di dalam room.",
+  "err_nourl": "Belum ada URL RSS yang terdaftar di room ini. Gunakan perintah `addrss <url>` untuk menambahkan.",
+  "rss_latest_header": "**📰 Berita RSS Terbaru:**",
+  "rss_source_label": "🔗 *Sumber URL:*",
+  "rss_fail_load": "• Gagal memuat atau feed kosong.",
+  "broadcast_header": "📰 **RSS News Update ({url}):**",
+  "delrss_success": "Sukses menghapus URL RSS:\n{rss_url}",
+  "delrss_format_err": "Format salah. Gunakan: delrss <url_rss>",
+  "addrss_success": "Sukses menambahkan URL RSS baru:\n{rss_url}",
+  "addrss_format_err": "Format: addrss [10m|1h|1d] <url>  (RSS/Atom/JSON Feed atau alamat situs; interval opsional)",
+  "listrss_header": "📋 **Daftar URL RSS di Room Ini:**\n- ",
+  "listrss_empty": "Belum ada URL RSS yang terdaftar.",
+  "addrss_success_every": "RSS berhasil ditambahkan: {rss_url}\n⏱ Berita terbaru akan dikirim ke grup setiap {every}.",
+  "addrss_interval_set": "Jadwal kiriman RSS berhasil diubah: {rss_url} → dikirim setiap {every}.",
+  "addrss_interval_bad": "Interval tidak valid. Gunakan {min} sampai {max}, contoh: 10m, 1h, 1d.",
+  "rss_scheduled_header": "📰 Kiriman berkala dari {url}"
+}

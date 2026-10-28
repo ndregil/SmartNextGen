@@ -1,0 +1,21 @@
+{
+  "err_api_key": "WEATHER_API_KEY yapılandırma dosyasında ayarlanmamış.",
+  "err_room_only": "Bu komut yalnızca bir oda içinde kullanılabilir.",
+  "err_empty_default": "Varsayılan hava durumu boş, `weather <şehir adı>` yazın",
+  "default_desc": "Bulutlu",
+  "advice_rain": "  💡 *İpucu: Yağmur yağıyor, şemsiye veya yağmurluk almayı unutmayın!*",
+  "advice_hot": "  💡 *İpucu: Hava çok sıcak ve güneşli, dehidrasyonu önlemek için bol su gegen.*",
+  "advice_cold": "  💡 *İpucu: Hava oldukça soğuk, dışarı çıkacaksanız mont giyin.*",
+  "forecast_snippet": "  🕒 *{fc_time} tahmini:* {fc_desc} ({fc_temp}°C)",
+  "weather_format": "• **{location_label}**\n  🌤️ Durum: *{desc}*\n  🌡️ Sıcaklık: *{temp}°C* (Hissedilen *{feels_like}°C*)\n  💧 Nem: *{humidity}%* | 🧭 Basınç: *{pressure} hPa*\n  👀 Görüş: *{visibility} km* | 💨 Rüzgar: *{wind_speed} m/s*\n  🌅 Gün Doğumu: *{sunrise_str}* | 🌇 Gün Batımı: *{sunset_str}*",
+  "err_404": "Konum bulunamadı. Şehir/ilçe yazımının doğru olduğundan emin olun.",
+  "err_srv": "Hava durumu sunucusundan veri alınamadı (Durum: {status}).",
+  "err_conn": "Hava durumu sunucusuna bağlantı hatası.",
+  "broadcast_header": "🕒 **Periyodik Hava Durumu Raporu (OpenWeather):**",
+  "weather_header": "🌤️ **Mevcut Hava Durumu Bilgileri ve Tahmini:**",
+  "add_success": "`{new_city}` bölgesi bu odanın izleme listesine başarıyla eklendi.",
+  "add_format_err": "Yanlış biçim. Kullanım: `addweather <şehir/alan>`",
+  "del_success": "`{target_city}` bölgesi izleme listesinden başarıyla kaldırıldı.",
+  "del_format_err": "Yanlış biçim. Kullanım: `delweather <bölge_adı>`",
+  "list_header": "🌍 **Bu Odadaki Hava Durumu İzleme Bölgeleri Listesi:**\n- "
+}

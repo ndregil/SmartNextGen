@@ -1,0 +1,29 @@
+{
+  "quake_loading": "⏳ Sedang mengambil data gempa terkini...",
+  "quake_usgs_fail": "❌ Gagal mengambil data gempa dari server USGS.",
+  "quake_usgs_empty": "🌍 Tidak ada laporan gempa signifikan secara global saat ini.",
+  "quake_usgs_unknown": "Tidak diketahui",
+  "quake_usgs_result": "🌍 **Info Gempa Global Terkini (USGS)**:\n• Magnitudo: {mag}\n• Lokasi: {place}\n• Waktu: {time_str} UTC",
+  
+  "quake_bmkg_fail": "❌ Gagal mengambil data gempa dari server BMKG.",
+  "quake_bmkg_empty": "❌ Format data gempa BMKG tidak valid.",
+  "quake_bmkg_no_info": "Tidak ada informasi",
+  "quake_bmkg_result": "🇮🇩 **Info Gempa Terkini (BMKG Indonesia)**:\n• Waktu: {tanggal} | {jam}\n• Magnitudo: {magnitude} (Kedalaman: {kedalaman})\n• Pusat: {wilayah}\n• Koordinat: {coordinates}\n• Potensi: {potensi}\n• Dirasakan: {dirasakan}\n\n💡 *Tip:* Ketik `earthquake global` atau `gempa global` untuk data dunia.",
+  
+  "quake_timeout": "❌ Koneksi ke server data gempa mengalami timeout.",
+  "quake_error": "❌ Terjadi kesalahan saat mengambil data gempa: {e}",
+
+  "holiday_sat": "🎉 Hari ini adalah hari **Sabtu** (Akhir pekan!)",
+  "holiday_sun": "🎉 Hari ini adalah hari **Minggu** (Libur akhir pekan!)",
+  "holiday_fri": "⚡ Besok sudah masuk **Akhir Pekan (Sabtu)**!",
+  "holiday_approaching": "⏳ Menuju akhir pekan (Sabtu) sekitar **{days_to_sat} hari lagi**.",
+  
+  "holiday_none": "Belum ada data libur nasional berikutnya.",
+  "holiday_info_format": "• Agenda: {name} ({date})\n• Status: ⏳ Sisa **{days} hari lagi**",
+  "holiday_header": "📅 **Informasi Hari Libur & Akhir Pekan**:\n\n🗓️ **Status Akhir Pekan:**\n{weekend_status}\n\n🏛️ **Libur Nasional Terdekat:**\n{holiday_info}",
+
+  "broadcast_quake_alert": "🚨 **PERINGATAN GEMPA BARU (BMKG)** 🚨\n• Waktu: {tanggal} | {jam}\n• Magnitudo: {magnitude} (Kedalaman: {kedalaman})\n• Pusat: {wilayah}\n• Koordinat: {coordinates}\n• Potensi: {potensi}",
+  "broadcast_sunday": "🌴 **Selamat hari Minggu!** 🌴\nNikmati hari libur akhir pekan Anda dengan tenang, santai, dan penuh kebahagiaan bersama keluarga tercinta sebelum kembali beraktivitas besok.",
+  "broadcast_national_holiday": "🏛️🎉 **SELAMAT HARI LIBUR NASIONAL!** 🎉🏛️\nHari ini bertepatan dengan:\n• **{name}**\n\nSemoga liburan Anda menyenangkan dan harinya luar biasa!"
+}
+

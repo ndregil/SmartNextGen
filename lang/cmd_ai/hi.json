@@ -1,0 +1,22 @@
+{
+  "cat_owner": "👑 Bot Owner",
+  "cat_admin": "💎 Admin & Owner Group",
+  "ai_off_room_only": "इस कमांड का उपयोग केवल किसी रूम के अंदर किया जा सकता है।",
+  "ai_off_success": "इस रूम में AI प्रतिक्रिया बंद कर दी गई है।",
+  "ai_on_success": "इस रूम में AI प्रतिक्रिया वापस चालू कर दी गई है।",
+  "ai_off_global_success": "ग्लोबल स्तर पर AI प्रतिक्रिया बंद कर दी गई है।",
+  "ai_on_global_success": "ग्लोबल स्तर पर AI प्रतिक्रिया वापस चालू कर दी गई है।",
+  "aiprovider_success": "मुख्य प्रदाता (Provider) बदलकर यह हो गया है: {provider}\nएंडपॉइंट: {endpoint}\nसक्रिय मॉडल: {model}",
+  "aiprovider_invalid": "अमान्य प्रदाता! विकल्प:\n- {providers}",
+  "aiprovider_info": "सक्रिय प्रदाता: {provider}\nHTTP एंडपॉइंट: {endpoint}\nवर्तमान मॉडल: {model}\n\nप्रदाता विकल्प:\n- {providers}",
+  "aimodel_success": "AI मॉडल [{provider}] बदलकर यह हो गया है: {model}",
+  "aimodel_invalid": "प्रदाता {provider} के लिए अमान्य मॉडल! विकल्प:\n- {models}",
+  "aimodel_info": "सक्रिय प्रदाता: {provider} ({endpoint})\nवर्तमान मुख्य मॉडल: {model}\n\nमॉडल सूची:\n- {models}",
+  "all_ai_fail": "क्षमा करें, वर्तमान में सभी AI प्रदाताओं में समस्या आ रही है (त्रुटि: {error}).",
+  "image_refused": "क्षमा करें, इस इमेज को प्रोसेस नहीं किया जा सकता।",
+  "ai_confirm_prompt": "📋 चलाएँ: {cmds}? पुष्टि या रद्द करने के लिए उत्तर दें ({sec} सेकंड)।",
+  "ai_confirm_cancel": "ठीक है, रद्द किया गया।",
+  "ai_ambiguous_nick": "\"{name}\" जैसे कई नाम हैं: {options}। कौन सा?",
+  "ai_need_room": "कौन सा रूम? कृपया रूम का JID बताएँ (उदाहरण: name@conference.server.com)।",
+  "ai_not_understood": "हम्म, मुझे ठीक से समझ नहीं आया। क्या आप दूसरे शब्दों में कह सकते हैं?"
+}

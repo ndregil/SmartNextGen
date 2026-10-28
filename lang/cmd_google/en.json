@@ -1,0 +1,17 @@
+{
+  "tr_format_error": "Wrong format. Use: tr <lang_code> <text> (Example: tr id good morning)",
+  "tr_success": "🌐 **Translate (➔ {target_lang}):**\n\"{translated_text}\"",
+  "tr_failed_text": "Failed to get translation result.",
+  "tr_failed_conn": "Failed to connect to translation service (Status: {status}).",
+  "tr_error": "An error occurred while processing translation.",
+  
+  "google_format_error": "Wrong format. Use: google <keyword>",
+  "google_result_msg": "🔍 **Google Search:**\nSearch results for: *{query}*\n\n📌 **[{title}]({link})**\n📝 *{snippet}*\n\n🔗 View all on Google: {google_url}",
+  "google_no_snippet_msg": "🔍 **Google Search:**\nSearch results for: *{query}*\n🔗 Open Google: {google_url}",
+
+  "maps_format_error": "Wrong format. Use: maps <place_name>",
+  "maps_msg": "🗺️ **Google Maps:**\nLocation for: *{place}*\n🔗 Open Map: {maps_url}",
+
+  "yt_format_error": "Wrong format. Use: youtube <video_title>",
+  "yt_msg": "📺 **YouTube Search:**\nSearch results for: *{query}*\n🔗 Click to watch: {yt_search_url}"
+}

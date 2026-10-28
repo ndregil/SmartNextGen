@@ -1,0 +1,10 @@
+{
+  "guide_text": "📚 **Panduan Penggunaan Modul Study:**\nKategori tersedia: {cat_list}\n• Materi Dasar: `study [kategori]`\n• Tanya Jawab AI: `study [kategori] [ketik pertanyaanmu]`",
+  "err_category": "❌ Kategori '{category}' tidak ditemukan!\nPilihan kategori: {cat_list}",
+  "materi_header": "📖 **Materi Dasar [{category}]:**\n",
+  "materi_tip": "\n\n💡 Tip: Ingin tanya lebih mendalam? Ketik: `study {category} [pertanyaanmu]`",
+  "loading_text": "🔍 Sedang menganalisis pertanyaan tentang **{category}**, mohon tunggu...",
+  "ai_prompt": "Tolong bertindaklah sebagai tutor/pengajar ahli di bidang {category}. Jawablah pertanyaan mendalam berikut secara jelas, edukatif, berikan contoh kodenya jika relevan, dan gunakan bahasa Indonesia yang mudah dipahami:\n\nPertanyaan: {question}",
+  "ai_reply_header": "🧠 **Penjelasan ({category}):**\n\n{ai_response}",
+  "err_ai": "❌ Maaf, modul AI belum terintegrasi dengan benar di bot utama."
+}

@@ -1,0 +1,18 @@
+{
+  "owner_only": "Erişim reddedildi: Bu komut yalnızca bot sahibi içindir.",
+  "usage": "Kullanım: reload <eklenti> | reload all | reload list  (örnek: reload rss)",
+  "not_found": "'{name}' eklentisi plugins klasöründe bulunamadı.",
+  "unsafe": "'{name}' eklentisi yeniden başlatma olmadan yeniden yüklenemez (çekirdek işlevleri sarmalar). Şunu kullanın: restart all",
+  "syntax_error": "Başarısız: {name} içinde sözdizimi hatası: {err}. Eski eklenti çalışmaya devam ediyor.",
+  "load_error": "{name} yüklenemedi: {err}. Eski eklenti çalışmaya devam ediyor.",
+  "no_handlers": "Başarısız: bu slixmpp sürümü işleyici listesini sunmuyor. Şunu kullanın: restart all",
+  "ok": "{name} başarıyla yeniden yüklendi ({bots} hesap, {cmds} komut, {tasks} arka plan görevi durduruldu).",
+  "ok_new": "Yeni eklenti {name} başarıyla yüklendi ({bots} hesap, {cmds} komut).",
+  "partial": "{name} için kısmen başarısız: {ok}/{total} hesap başarılı. Hata: {err}. Düzeltip reload komutunu tekrar çalıştırın.",
+  "list_title": "Eklentiler ({count}):",
+  "state_loaded": "yüklü",
+  "state_new": "yüklenmedi",
+  "state_restart": "yeniden başlatma gerekli",
+  "all_summary": "Bitti: {ok} eklenti başarıyla, {fail} sorunlu.{detail}",
+  "busy": "Zaten bir yeniden yükleme çalışıyor, lütfen bekleyin."
+}

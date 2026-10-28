@@ -1,0 +1,17 @@
+{
+  "tr_format_error": "Format salah. Gunakake: tr <lang_code> <teks> (Conto: tr id sugeng enjang)",
+  "tr_success": "🌐 **Translate (➔ {target_lang}):**\n\"{translated_text}\"",
+  "tr_failed_text": "Gagal njupuk asil terjemahan.",
+  "tr_failed_conn": "Gagal nyambung menyang layanan terjemahan (Status: {status}).",
+  "tr_error": "Ana kasalahan nalika proses terjemahan.",
+  
+  "google_format_error": "Format salah. Gunakake: google <keyword>",
+  "google_result_msg": "🔍 **Google Search:**\nAsil panelusuran kanggo: *{query}*\n\n📌 **[{title}]({link})**\n📝 *{snippet}*\n\n🔗 Deleng kabeh ing Google: {google_url}",
+  "google_no_snippet_msg": "🔍 **Google Search:**\nAsil panelusuran kanggo: *{query}*\n🔗 Bukak Google: {google_url}",
+
+  "maps_format_error": "Format salah. Gunakake: maps <jeneng_panggonan>",
+  "maps_msg": "🗺️ **Google Maps:**\nPanggonan kanggo: *{place}*\n🔗 Bukak Peta: {maps_url}",
+
+  "yt_format_error": "Format salah. Gunakake: youtube <judhul_video>",
+  "yt_msg": "📺 **YouTube Search:**\nAsil panelusuran kanggo: *{query}*\n🔗 Klik kanggo nonton: {yt_search_url}"
+}

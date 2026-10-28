@@ -1,0 +1,22 @@
+{
+  "cat_owner": "👑 Propriétaire du bot",
+  "cat_admin": "💎 Admin & Propriétaire du groupe",
+  "ai_off_room_only": "Cette commande ne peut être utilisée que dans un salon.",
+  "ai_off_success": "Les réponses de l'IA dans ce salon ont été désactivées.",
+  "ai_on_success": "Les réponses de l'IA dans ce salon ont été réactivées.",
+  "ai_off_global_success": "Réponses de l'IA désactivées globalement.",
+  "ai_on_global_success": "Réponses de l'IA réactivées globalement.",
+  "aiprovider_success": "Fournisseur principal modifié en : {provider}\nPoint de terminaison : {endpoint}\nModèle actif : {model}",
+  "aiprovider_invalid": "Fournisseur invalide ! Choix possibles :\n- {providers}",
+  "aiprovider_info": "Fournisseur actif : {provider}\nPoint de terminaison HTTP : {endpoint}\nModèle actuel : {model}\n\nChoix des fournisseurs :\n- {providers}",
+  "aimodel_success": "Modèle d'IA [{provider}] modifié en : {model}",
+  "aimodel_invalid": "Modèle invalide pour le fournisseur {provider} ! Choix possibles :\n- {models}",
+  "aimodel_info": "Fournisseur actif : {provider} ({endpoint})\nModèle principal actuel : {model}\n\nListe des modèles :\n- {models}",
+  "all_ai_fail": "Désolé, tous les fournisseurs d'IA rencontrent actuellement des problèmes (Erreur : {error}).",
+  "image_refused": "Désolé, je ne peux pas traiter cette image.",
+  "ai_confirm_prompt": "📋 Exécuter : {cmds} ? Répondez pour confirmer ou annuler ({sec} s).",
+  "ai_confirm_cancel": "D'accord, annulé.",
+  "ai_ambiguous_nick": "Plusieurs noms ressemblent à « {name} » : {options}. Lequel ?",
+  "ai_need_room": "Quel salon ? Indiquez le JID du salon (exemple : nom@conference.serveur.com).",
+  "ai_not_understood": "Hmm, je n'ai pas bien compris. Pouvez-vous reformuler ?"
+}

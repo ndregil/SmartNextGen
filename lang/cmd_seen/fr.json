@@ -1,0 +1,21 @@
+{
+  "usage_word": "Utilisation :",
+  "room_only": "Utilisez cette commande dans un salon.",
+  "ago": "il y a {dur}",
+  "just_now": "à l'instant",
+  "dur_d": "{n} j",
+  "dur_h": "{n} h",
+  "dur_m": "{n} min",
+  "dur_s": "{n} s",
+  "self": "C'est vous 😄",
+  "bot": "Je suis juste ici 😄",
+  "online": "👀 {target} est en ligne dans ce salon.",
+  "result": "👀 {target} a été vu(e) pour la dernière fois {ago} ({date}) : {action}.",
+  "act_msg": "a envoyé un message",
+  "act_join": "a rejoint le salon",
+  "act_leave": "a quitté le salon",
+  "act_rename": "a changé de pseudo pour {new}",
+  "last_msg": "💬 Dernier message ({ago}) : {msg}",
+  "not_found": "Je n'ai jamais vu {target} dans ce salon.",
+  "maybe": "Vouliez-vous dire : {names}"
+}

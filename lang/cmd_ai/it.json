@@ -1,0 +1,22 @@
+{
+  "cat_owner": "👑 Proprietario del Bot",
+  "cat_admin": "💎 Amministratore e Proprietario del Gruppo",
+  "ai_off_room_only": "Questo comando può essere usato solo all'interno di una stanza.",
+  "ai_off_success": "La risposta dell'IA in questa stanza è stata disattivata.",
+  "ai_on_success": "La risposta dell'IA in questa stanza è stata riattivata.",
+  "ai_off_global_success": "Risposta dell'IA disattivata globalmente.",
+  "ai_on_global_success": "Risposta dell'IA riattivata globalmente.",
+  "aiprovider_success": "Fornitore principale modificato in: {provider}\nEndpoint: {endpoint}\nModello attivo: {model}",
+  "aiprovider_invalid": "Fornitore non valido! Scelte:\n- {providers}",
+  "aiprovider_info": "Fornitore attivo: {provider}\nEndpoint HTTP: {endpoint}\nModello attuale: {model}\n\nFornitori disponibili:\n- {providers}",
+  "aimodel_success": "Modello IA [{provider}] modificato in: {model}",
+  "aimodel_invalid": "Modello non valido per il fornitore {provider}! Scelte:\n- {models}",
+  "aimodel_info": "Fornitore attivo: {provider} ({endpoint})\nModello principale attuale: {model}\n\nElenco modelli:\n- {models}",
+  "all_ai_fail": "Spiacenti, tutti i fornitori di IA stanno riscontrando problemi al momento (Errore: {error}).",
+  "image_refused": "Mi dispiace, non riesco a elaborare quell'immagine.",
+  "ai_confirm_prompt": "📋 Eseguire: {cmds}? Rispondi per confermare o annullare ({sec} s).",
+  "ai_confirm_cancel": "Ok, annullato.",
+  "ai_ambiguous_nick": "Più nomi somigliano a «{name}»: {options}. Quale?",
+  "ai_need_room": "Quale stanza? Indica il JID della stanza (esempio: nome@conference.server.com).",
+  "ai_not_understood": "Hmm, non ho capito bene. Puoi riformulare?"
+}

@@ -1,0 +1,11 @@
+{
+  "meme_list": "📋 **मीम श्रेणी और सहायता सूची**:\nइस प्रारूप के साथ कमांड टाइप करें: `meme <category>`\n\n• `meme dank` (डैंक मीम्स)\n• `meme meirl` (संबंधित मीम्स)\n• `meme wholesome` (हृदयस्पर्शी मीम्स)\n• `meme programmer` (IT/कोडिंग मीम्स)\n• `meme anime` (एनिमे मीम्स)\n• `meme cats` (बिल्ली के मीम्स)\n• `meme gaming` (गेमिंग मीम्स)\n• `meme history` (इतिहास के मीम्स)\n• `meme science` (विज्ञान के मीम्स)\n• `meme tech` (प्रौद्योगिकी मीम्स)\n• `meme bug` / `error` (सॉफ़्टवेयर त्रुटि मीम्स)\n• `meme comics` (मजेदार कॉमिक्स)\n• `meme random` (यादृच्छिक/रैंडम मीम्स)\n\n💡 **उपयोग के उदाहरण:**\n• `meme programmer`\n• `meme gaming`\n• `meme random`",
+  "meme_loading": "⏳ '{display_name}' मीम तैयार किया जा रहा है...",
+  "meme_no_title": "कोई शीर्षक नहीं",
+  "meme_err_url": "❌ मीम इमेज URL प्राप्त करने में विफल।",
+  "meme_err_dl": "❌ इमेज फ़ाइल डाउनलोड करने में विफल।",
+  "meme_err_upload": "❌ सर्वर अपलोड URL प्राप्त करने में विफल।",
+  "meme_err_plugin": "❌ HTTP फ़ाइल अपलोड (xep_0363) प्लगइन उपलब्ध नहीं है।",
+  "meme_timeout": "❌ कनेक्शन का समय समाप्त (Timeout) हो गया।",
+  "meme_error": "❌ सिस्टम त्रुटि आई: {e}"
+}

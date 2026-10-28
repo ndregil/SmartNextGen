@@ -1,0 +1,18 @@
+{
+  "err_room_only": "Cette commande ne peut être utilisée que dans un salon.",
+  "err_nourl": "Aucune URL RSS n'est encore enregistrée dans ce salon. Utilisez la commande `addrss <url>` pour en ajouter une.",
+  "rss_latest_header": "**📰 Dernières actualités RSS :**",
+  "rss_source_label": "🔗 *URL Source :*",
+  "rss_fail_load": "• Échec du chargement ou le flux est vide.",
+  "broadcast_header": "📰 **Mise à jour des actualités RSS ({url}) :**",
+  "delrss_success": "URL RSS supprimée avec succès :\n{rss_url}",
+  "delrss_format_err": "Format invalide. Utilisez : delrss <url_rss>",
+  "addrss_success": "Nouvelle URL RSS ajoutée avec succès :\n{rss_url}",
+  "addrss_format_err": "Format : addrss [10m|1h|1d] <url>  (flux RSS/Atom/JSON ou adresse de site ; intervalle facultatif)",
+  "listrss_header": "📋 **Liste des URL RSS dans ce salon :**\n- ",
+  "listrss_empty": "Aucune URL RSS enregistrée pour le moment.",
+  "addrss_success_every": "RSS ajouté avec succès : {rss_url}\n⏱ Les dernières actualités seront envoyées au groupe toutes les {every}.",
+  "addrss_interval_set": "Planning RSS modifié avec succès : {rss_url} → envoi toutes les {every}.",
+  "addrss_interval_bad": "Intervalle invalide. Utilisez de {min} à {max}, par exemple : 10m, 1h, 1d.",
+  "rss_scheduled_header": "📰 Envoi périodique de {url}"
+}

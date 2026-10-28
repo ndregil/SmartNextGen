@@ -1,0 +1,18 @@
+{
+  "owner_only": "Accès refusé : cette commande est réservée au propriétaire du bot.",
+  "usage": "Utilisation : reload <plugin> | reload all | reload list  (exemple : reload rss)",
+  "not_found": "Plugin « {name} » introuvable dans le dossier plugins.",
+  "unsafe": "Le plugin « {name} » ne peut pas être rechargé sans redémarrage (il enveloppe des fonctions centrales). Utilisez : restart all",
+  "syntax_error": "Échec : erreur de syntaxe dans {name} : {err}. L'ancien plugin continue de fonctionner.",
+  "load_error": "Échec du chargement de {name} : {err}. L'ancien plugin continue de fonctionner.",
+  "no_handlers": "Échec : cette version de slixmpp n'expose pas la liste des gestionnaires. Utilisez : restart all",
+  "ok": "{name} rechargé avec succès ({bots} comptes, {cmds} commandes, {tasks} tâches de fond arrêtées).",
+  "ok_new": "Nouveau plugin {name} chargé avec succès ({bots} comptes, {cmds} commandes).",
+  "partial": "Échec partiel pour {name} : {ok}/{total} comptes réussis. Erreur : {err}. Corrigez puis relancez reload.",
+  "list_title": "Plugins ({count}) :",
+  "state_loaded": "chargé",
+  "state_new": "non chargé",
+  "state_restart": "redémarrage requis",
+  "all_summary": "Terminé : {ok} plugins réussis, {fail} en difficulté.{detail}",
+  "busy": "Un rechargement est déjà en cours, patientez."
+}

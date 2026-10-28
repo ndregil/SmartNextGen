@@ -1,0 +1,21 @@
+{
+  "usage_word": "Kullanım:",
+  "room_only": "Bu komutu bir oda içinde kullanın.",
+  "ago": "{dur} önce",
+  "just_now": "az önce",
+  "dur_d": "{n} gün",
+  "dur_h": "{n} sa",
+  "dur_m": "{n} dk",
+  "dur_s": "{n} sn",
+  "self": "Bu sensin 😄",
+  "bot": "Ben buradayım 😄",
+  "online": "👀 {target} şu anda bu odada çevrimiçi.",
+  "result": "👀 {target} en son {ago} ({date}) görüldü: {action}.",
+  "act_msg": "mesaj gönderdi",
+  "act_join": "odaya katıldı",
+  "act_leave": "odadan ayrıldı",
+  "act_rename": "takma adını {new} yaptı",
+  "last_msg": "💬 Son mesaj ({ago}): {msg}",
+  "not_found": "Bu odada {target} kullanıcısını hiç görmedim.",
+  "maybe": "Şunu mu demek istediniz: {names}"
+}

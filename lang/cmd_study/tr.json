@@ -1,0 +1,40 @@
+{
+  "guide_text": "📚 **Çalışma Modülü Kullanım Kılavuzu:**\nMevcut kategoriler: {cat_list}\n• Temel Materyal: `study [kategori]`\n• Yapay Zeka ile Soru-Cevap: `study [kategori] [sorunuz]`",
+  "err_category": "❌ '{category}' kategorisi bulunamadı!\nMevcut kategoriler: {cat_list}",
+  "materi_header": "📖 **Temel Materyal [{category}]:**\n",
+  "materi_tip": "\n\n💡 İpucu: Daha derinlemesine sormak ister misiniz? Şunu yazın: `study {category} [sorunuz]`",
+  "loading_text": "🔍 **{category}** hakkındaki soru analiz ediliyor, lütfen bekleyin...",
+  "ai_prompt": "Lütfen {category} alanında uzman bir eğitmen/öğretmen gibi davranın. Aşağıdaki derinlemesine soruyu net ve eğitici bir şekilde yanıtlayın, ilgiliyse kod örnekleri sağlayın ve açık, anlaşılması kolay bir İngilizce kullanın:\n\nSoru: {question}",
+  "ai_reply_header": "🧠 **Açıklama ({category}):**\n\n{ai_response}",
+  "err_ai": "❌ Üzgünüz, yapay zeka modülü ana bot ile doğru şekilde entegre edilmemiş.",
+  "study_python": [
+    "1. Giriş: Python, okunması ve öğrenilmesi kolay, yüksek seviyeli yorumlanan bir programlama dilidir.",
+    "2. Değişkenler ve Veri Tipleri: Değerler değişkenlerde saklanır (ör.: x = 10, isim = 'Ali'). Yaygın tipler: int, float, str, bool.",
+    "3. Dallanma: Program kodunda mantıksal kararlar için if, elif ve else kullanılır."
+  ],
+  "study_kotlin": [
+    "1. Giriş: Kotlin, JVM üzerinde çalışan ve Android için resmi olan modern bir programlama dilidir.",
+    "2. Değişkenler: Sabitler (değiştirilemez) için 'val', değiştirilebilir değişkenler için 'var' kullanılır.",
+    "3. Fonksiyonlar: 'fun' anahtar kelimesiyle tanımlanır, ör.: fun main() { println('Merhaba Kotlin') }"
+  ],
+  "study_java": [
+    "1. Giriş: Java, 'Write Once, Run Anywhere' ilkesiyle bilinen nesne yönelimli (OOP) bir programlama dilidir.",
+    "2. Temel Yapı: Her Java programı bir sınıf ve public static void main(String[] args) ana metodunu gerektirir.",
+    "3. Veri Tipleri: int, double, char ve boolean gibi ilkel veri tipleri."
+  ],
+  "study_matematika": [
+    "1. Temel Cebir: Tek bilinmeyenli doğrusal denklemleri çözme, ör.: 2x + 5 = 15, yani x = 5.",
+    "2. Geometri: Dairenin alanı A = pi * r^2, çevresi C = 2 * pi * r'dir.",
+    "3. Kesirler: Kesirlerle toplama, çıkarma, çarpma ve bölme işlemleri."
+  ],
+  "study_sains": [
+    "1. Güneş Sistemi: Güneş, Güneş Sistemi'nin merkezidir. En yakın gezegen Merkür, en büyüğü Jüpiter'dir.",
+    "2. Fotosentez: Yeşil bitkilerin suyu, karbondioksiti ve güneş ışığını oksijen ve glikoza dönüştürmesi sürecidir.",
+    "3. Maddenin Halleri: Üç ana hal katı, sıvı ve gazdır; bunlar arasında hal değişimleri olur."
+  ],
+  "study_inggris": [
+    "1. Greeting & Introduction: 'Good morning', 'How are you?' gibi selamlaşma ifadeleri ve kendini tanıtma.",
+    "2. Simple Present Tense: Alışkanlıkları veya genel gerçekleri anlatmak için kullanılır (Örnek: 'I go to school every day').",
+    "3. Pronouns: I, You, They, We, He, She, It gibi kişi zamirleri ve iyelik biçimleri (my, your, their vb.)."
+  ]
+}

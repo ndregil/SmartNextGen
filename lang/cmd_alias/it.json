@@ -1,0 +1,17 @@
+{
+  "mod_only": "Accesso negato: questo comando è solo per proprietari/admin/moderatori della stanza.",
+  "owner_only": "Accesso negato: i comandi globali sono solo per il proprietario del bot.",
+  "room_only": "Usa questo comando all'interno di una stanza.",
+  "usage": "Uso: {cmd} [add] <innesco>=<comando [argomenti]> | {cmd} del <innesco> | {cmd} list",
+  "bad_trigger": "Innesco non valido (1-{max} caratteri, senza spazi).",
+  "conflict": "Fallito: «{t}» è già il nome di un comando.",
+  "bad_target": "Fallito: comando «{c}» non trovato o non utilizzabile come alias.",
+  "limit": "Fallito: raggiunto il limite di {max} alias.",
+  "added": "Con successo: «{t}» ora esegue «{c}»{scope}.",
+  "removed": "Alias «{t}» rimosso con successo{scope}.",
+  "not_found": "Alias «{t}» non trovato{scope}.",
+  "empty": "Nessun alias per ora.",
+  "list_title": "Alias{scope}:",
+  "scope_global": " (globale)",
+  "scope_room": " (questa stanza)"
+}

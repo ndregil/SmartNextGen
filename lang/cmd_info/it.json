@@ -1,0 +1,23 @@
+{
+  "quake_loading": "⏳ Recupero degli ultimi dati sui terremoti...",
+  "quake_usgs_fail": "❌ Impossibile recuperare i dati sui terremoti dal server USGS.",
+  "quake_usgs_empty": "🌍 Nessun rapporto significativo sui terremoti globali al momento.",
+  "quake_usgs_unknown": "Sconosciuto",
+  "quake_usgs_result": "🌍 **Ultime informazioni sui terremoti globali (USGS)**:\n• Magnitudo: {mag}\n• Posizione: {place}\n• Ora: {time_str} UTC",
+  "quake_bmkg_fail": "❌ Impossibile recuperare i dati sui terremoti dal server BMKG.",
+  "quake_bmkg_empty": "❌ Formato dati dei terremoti BMKG non valido.",
+  "quake_bmkg_no_info": "Nessuna informazione",
+  "quake_bmkg_result": "🇮🇩 **Ultime informazioni sui terremoti (BMKG Indonesia)**:\n• Ora: {tanggal} | {jam}\n• Magnitudo: {magnitude} (Profondità: {kedalaman})\n• Centro: {wilayah}\n• Coordinate: {coordinates}\n• Potenziale: {potensi}\n• Avvertito: {dirasakan}\n\n💡 *Suggerimento:* Digita `earthquake global` o `gempa global` per i dati mondiali.",
+  "quake_timeout": "❌ Timeout della connessione al server dei dati sui terremoti.",
+  "quake_error": "❌ Si è verificato un errore durante il recupero dei dati sui terremoti: {e}",
+  "holiday_sat": "🎉 Oggi è **sabato** (Fine settimana!)",
+  "holiday_sun": "🎉 Oggi è **domenica** (Vacanze di fine settimana!)",
+  "holiday_fri": "⚡ Domani è già **fine settimana (sabato)**!",
+  "holiday_approaching": "⏳ Ci stiamo avvicinando al fine settimana (sabato) in circa **{days_to_sat} giorni**.",
+  "holiday_none": "Nessun dato sulle prossime festività nazionali disponibile.",
+  "holiday_info_format": "• Agenda: {name} ({date})\n• Stato: ⏳ Mancano **{days} giorni**",
+  "holiday_header": "📅 **Informazioni su Festività e Fine Settimana**:\n\n🗓️ **Stato del Fine Settimana:**\n{weekend_status}\n\n🏛️ **Prossima Festività Nazionale:**\n{holiday_info}",
+  "broadcast_quake_alert": "🚨 **NUOVO AVVISO TERREMOTO (BMKG)** 🚨\n• Ora: {tanggal} | {jam}\n• Magnitudo: {magnitude} (Profondità: {kedalaman})\n• Centro: {wilayah}\n• Coordinate: {coordinates}\n• Potenziale: {potensi}",
+  "broadcast_sunday": "🌴 **Buongiorno di Domenica!** 🌴\nGoditi il tuo fine settimana in pace, relax e con tanta felicità insieme alla tua amata famiglia prima di riprendere le attività domani.",
+  "broadcast_national_holiday": "🏛️🎉 **BUONA FESTA NAZIONALE!** 🎉🏛️\nOggi coincide con:\n• **{name}**\n\nTi auguriamo una splendida vacanza e una fantastica giornata!"
+}
