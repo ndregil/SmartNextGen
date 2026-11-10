@@ -281,7 +281,7 @@ class ModernMultiMucBot(slixmpp.ClientXMPP):
 
         SmartBotName = "Smart Next-Gen XMPP Bot"
         SmartBotVer = "1.0.6 Bulletproof Edition (Multi lang+aiprovider) (antiflood+imgfilter)"
-        Caps = " "
+        Caps = "ndregil.smart-ng"
 
         psystem  = platform.system()
         prelease = platform.release()
